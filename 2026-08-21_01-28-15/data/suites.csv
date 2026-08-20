@@ -1,0 +1,2574 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on Diesel Trucks
+**Language:** en
+
+**Description:**
+Open the Diesel Trucks page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Diesel Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2603","TC-CL-01: Check Truck Price lead submits successfully on Diesel Trucks","CategoryPages - CategoryListing [diesel] [en] — Diesel Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on 12 Wheeler
+**Language:** en
+
+**Description:**
+Open the 12 Wheeler page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the 12 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2252","TC-CL-01: Check Truck Price lead submits successfully on 12 Wheeler","CategoryPages - CategoryListing [twelveWheeler] [en] — 12 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TSR-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Dost
+**Language:** en
+
+**Description:**
+Open the Ashok Leyland Dost page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Ashok Leyland Dost page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1025","TC-TSR-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Dost","CategoryPages - CategoryListingTruckSeries [ashokLeylandDost] [en] — Ashok Leyland Dost","2026-08-21","passed","2026-08-21","","","",""
+"","4031","TC-TBR-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListingBrands [eicherBrand] [en] — Eicher Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TBR-01
+**Title:** Check Truck Price lead submits successfully on Ashok Leyland Trucks
+**Language:** en
+
+**Description:**
+Open the Ashok Leyland Trucks page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Ashok Leyland Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2566","TC-TBR-01: Check Truck Price lead submits successfully on Ashok Leyland Trucks","CategoryPages - CategoryListingBrands [ashokLeylandBrand] [en] — Ashok Leyland Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on CNG Trucks
+**Language:** en
+
+**Description:**
+Open the CNG Trucks page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the CNG Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1294","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on CNG Trucks","CategoryPages - CategoryListing [cng] [en] — CNG Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Tempo Traveller
+**Language:** en
+
+**Description:**
+Open the Tempo Traveller page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Tempo Traveller page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1442","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Tempo Traveller","CategoryPages - CategoryListing [tempoTraveller] [en] — Tempo Traveller","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-SEO-01
+**Title:** About Truck Junction SEO block is visible with Read More
+**Language:** en
+
+**Description:**
+Open the homepage and locate the About Truck Junction content block. Confirm the about heading and Read More control are shown.
+
+**Expected Result:**
+The About Truck Junction block is visible with the correct localized heading and a Read More button.
+
+**Steps:**
+1. Open the homepage for the selected language
+2. Scroll to the About Truck Junction block
+3. Verify the about heading and Read More are visible","856","TC-SEO-01: About Truck Junction SEO block is visible with Read More","SEO - HomePageSeoContent [en]","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TSR-01
+**Title:** Check Truck Price lead submits successfully on Mahindra Blazo
+**Language:** en
+
+**Description:**
+Open the Mahindra Blazo page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Mahindra Blazo page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2580","TC-TSR-01: Check Truck Price lead submits successfully on Mahindra Blazo","CategoryPages - CategoryListingTruckSeries [mahindraBlazo] [en] — Mahindra Blazo","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-04
+**Title:** Call Now assistance lead submits successfully on LNG Trucks
+**Language:** en
+
+**Description:**
+Open the LNG Trucks page, click the ""Still confused?"" widget's Call Now button to open the assistance lead form, fill model, name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance form closes after a successful submission.
+
+**Steps:**
+1. Open the LNG Trucks page
+2. Click Call Now to open the assistance lead form
+3. Fill model, name, mobile and city
+4. Submit and verify the assistance form closes","2664","TC-CL-04: Call Now assistance lead submits successfully on LNG Trucks","CategoryPages - CategoryListing [lng] [en] — LNG Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-04
+**Title:** Call Now assistance lead submits successfully on SCV
+**Language:** en
+
+**Description:**
+Open the SCV page, click the ""Still confused?"" widget's Call Now button to open the assistance lead form, fill model, name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance form closes after a successful submission.
+
+**Steps:**
+1. Open the SCV page
+2. Click Call Now to open the assistance lead form
+3. Fill model, name, mobile and city
+4. Submit and verify the assistance form closes","3452","TC-CL-04: Call Now assistance lead submits successfully on SCV","CategoryPages - CategoryListing [scv] [en] — SCV","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-SEO-06
+**Title:** Read Less collapses the About Truck Junction content back
+**Language:** hi
+
+**Description:**
+Expand via Read More, then click Read Less and confirm the block collapses back (Read More reappears).
+
+**Expected Result:**
+After Read Less, the block is collapsed and Read More is visible again.
+
+**Steps:**
+1. Open the About Truck Junction block
+2. Click Read More, then Read Less
+3. Verify Read More is shown again","272","TC-SEO-06: Read Less collapses the About Truck Junction content back","SEO - HomePageSeoContent [hi]","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on LCV
+**Language:** en
+
+**Description:**
+Open the LCV page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the LCV page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1286","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on LCV","CategoryPages - CategoryListing [lcv] [en] — LCV","2026-08-21","passed","2026-08-21","","","",""
+"","3142","TC-NLP-00: page links resolve 200/30x; broken links are logged, not failed","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on Mini Trucks
+**Language:** en
+
+**Description:**
+Open the Mini Trucks page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Mini Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2521","TC-CL-01: Check Truck Price lead submits successfully on Mini Trucks","CategoryPages - CategoryListing [miniTrucks] [en] — Mini Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","3615","TC-TSR-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListingTruckSeries [tataAce] [en] — Tata Ace","2026-08-21","passed","2026-08-21","","","",""
+"","8882","TC-SEO-00: page links resolve 200/30x; broken links are logged, not failed","SEO - HomePageSeoContent [hi]","2026-08-21","passed","2026-08-21","","","",""
+"","150","TC-CL-04: Call Now assistance lead submits successfully on 12 Wheeler","CategoryPages - CategoryListing [twelveWheeler] [en] — 12 Wheeler","2026-08-21","skipped","2026-08-21","","","",""
+"","9239","TC-NLP-00: page links resolve 200/30x; broken links are logged, not failed","ListingPages - NewListingPages [latestTrucks] [en] — Latest Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","3660","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [tempoTraveller] [en] — Tempo Traveller","2026-08-21","passed","2026-08-21","","","",""
+"","149","TC-CL-04: Call Now assistance lead submits successfully on 22 Wheeler","CategoryPages - CategoryListing [twentyTwoWheeler] [en] — 22 Wheeler","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on Bi Fuel Trucks
+**Language:** en
+
+**Description:**
+Open the Bi Fuel Trucks page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Bi Fuel Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2436","TC-CL-01: Check Truck Price lead submits successfully on Bi Fuel Trucks","CategoryPages - CategoryListing [biFuel] [en] — Bi Fuel Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on SCV
+**Language:** en
+
+**Description:**
+Open the SCV page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the SCV page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2228","TC-CL-01: Check Truck Price lead submits successfully on SCV","CategoryPages - CategoryListing [scv] [en] — SCV","2026-08-21","passed","2026-08-21","","","",""
+"","4046","TC-TSR-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListingTruckSeries [ashokLeylandBoss] [en] — Ashok Leyland Boss","2026-08-21","passed","2026-08-21","","","",""
+"","164","TC-NLP-03: Contact Seller lead submits successfully on BS6 Trucks","ListingPages - NewListingPages [bs6Trucks] [en] — BS6 Trucks","2026-08-21","skipped","2026-08-21","","","",""
+"","2991","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [diesel] [en] — Diesel Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","146","TC-CL-04: Call Now assistance lead submits successfully on 18 Wheeler","CategoryPages - CategoryListing [eighteenWheeler] [en] — 18 Wheeler","2026-08-21","skipped","2026-08-21","","","",""
+"","3183","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [twelveWheeler] [en] — 12 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on 16 Wheeler
+**Language:** en
+
+**Description:**
+Open the 16 Wheeler page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the 16 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2430","TC-CL-01: Check Truck Price lead submits successfully on 16 Wheeler","CategoryPages - CategoryListing [sixteenWheeler] [en] — 16 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Bi Fuel Trucks
+**Language:** en
+
+**Description:**
+Open the Bi Fuel Trucks page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Bi Fuel Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","995","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Bi Fuel Trucks","CategoryPages - CategoryListing [biFuel] [en] — Bi Fuel Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on 10 Wheeler
+**Language:** en
+
+**Description:**
+Open the 10 Wheeler page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the 10 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2182","TC-CL-01: Check Truck Price lead submits successfully on 10 Wheeler","CategoryPages - CategoryListing [tenWheeler] [en] — 10 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TSR-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Tata Ace
+**Language:** en
+
+**Description:**
+Open the Tata Ace page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Tata Ace page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1325","TC-TSR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Tata Ace","CategoryPages - CategoryListingTruckSeries [tataAce] [en] — Tata Ace","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Mini Trucks
+**Language:** en
+
+**Description:**
+Open the Mini Trucks page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Mini Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1240","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Mini Trucks","CategoryPages - CategoryListing [miniTrucks] [en] — Mini Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on 8 Wheeler
+**Language:** en
+
+**Description:**
+Open the 8 Wheeler page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 8 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","980","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 8 Wheeler","CategoryPages - CategoryListing [eightWheeler] [en] — 8 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-07
+**Title:** Check Offers lead form rejects mobile that is not 10 digits on Best Trucks
+**Language:** en
+
+**Description:**
+Open the Best Trucks listing page, open Check Offers, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Best Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","15481","TC-NLP-07: Check Offers lead form rejects mobile that is not 10 digits on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","failed","2026-08-21","","","",""
+"","210","TC-CL-04: Call Now assistance lead submits successfully on Transit Mixer","CategoryPages - CategoryListing [transitMixer] [en] — Transit Mixer","2026-08-21","skipped","2026-08-21","","","",""
+"","5091","TC-BR-00: page links resolve 200/30x; broken links are logged, not failed","Brochure - Brochure [en] — Brochure","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on 14 Wheeler
+**Language:** en
+
+**Description:**
+Open the 14 Wheeler page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 14 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1218","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 14 Wheeler","CategoryPages - CategoryListing [fourteenWheeler] [en] — 14 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on 8 Wheeler
+**Language:** en
+
+**Description:**
+Open the 8 Wheeler page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 8 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1212","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 8 Wheeler","CategoryPages - CategoryListing [eightWheeler] [en] — 8 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"","2319","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [petrol] [en] — Petrol Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TBR-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Eicher Trucks
+**Language:** en
+
+**Description:**
+Open the Eicher Trucks page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Eicher Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1507","TC-TBR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Eicher Trucks","CategoryPages - CategoryListingBrands [eicherBrand] [en] — Eicher Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","170","TC-CL-04: Call Now assistance lead submits successfully on Tempo Traveller","CategoryPages - CategoryListing [tempoTraveller] [en] — Tempo Traveller","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-SEO-05
+**Title:** Read Less is not shown before the About Truck Junction content is expanded
+**Language:** en
+
+**Description:**
+Confirm the Read Less control is not present while the block is still collapsed.
+
+**Expected Result:**
+Read Less does not exist until Read More has been clicked.
+
+**Steps:**
+1. Open the About Truck Junction block
+2. Verify Read Less is not shown yet","231","TC-SEO-05: Read Less is not shown before the About Truck Junction content is expanded","SEO - HomePageSeoContent [en]","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-01
+**Title:** Check Offers lead submits successfully on Latest Trucks
+**Language:** en
+
+**Description:**
+Open the Latest Trucks listing page, click Check Offers to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Latest Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","2642","TC-NLP-01: Check Offers lead submits successfully on Latest Trucks","ListingPages - NewListingPages [latestTrucks] [en] — Latest Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","188","TC-NLP-03: Contact Seller lead submits successfully on Latest Trucks","ListingPages - NewListingPages [latestTrucks] [en] — Latest Trucks","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-04
+**Title:** Notify Me lead submits successfully on Latest Trucks
+**Language:** en
+
+**Description:**
+Open the Latest Trucks listing page, click Notify Me to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Latest Trucks listing page
+2. Click Notify Me to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","15370","TC-NLP-04: Notify Me lead submits successfully on Latest Trucks","ListingPages - NewListingPages [latestTrucks] [en] — Latest Trucks","2026-08-21","failed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on 12 Wheeler
+**Language:** en
+
+**Description:**
+Open the 12 Wheeler page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 12 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","981","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 12 Wheeler","CategoryPages - CategoryListing [twelveWheeler] [en] — 12 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TSR-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Tata Ace
+**Language:** en
+
+**Description:**
+Open the Tata Ace page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Tata Ace page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1375","TC-TSR-02: Check Truck Price lead form shows required validation when submitted empty on Tata Ace","CategoryPages - CategoryListingTruckSeries [tataAce] [en] — Tata Ace","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-SEO-06
+**Title:** Read Less collapses the About Truck Junction content back
+**Language:** ta
+
+**Description:**
+Expand via Read More, then click Read Less and confirm the block collapses back (Read More reappears).
+
+**Expected Result:**
+After Read Less, the block is collapsed and Read More is visible again.
+
+**Steps:**
+1. Open the About Truck Junction block
+2. Click Read More, then Read Less
+3. Verify Read More is shown again","277","TC-SEO-06: Read Less collapses the About Truck Junction content back","SEO - HomePageSeoContent [ta]","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on 22 Wheeler
+**Language:** en
+
+**Description:**
+Open the 22 Wheeler page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the 22 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2228","TC-CL-01: Check Truck Price lead submits successfully on 22 Wheeler","CategoryPages - CategoryListing [twentyTwoWheeler] [en] — 22 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"","139","TC-CL-04: Call Now assistance lead submits successfully on 8 Wheeler","CategoryPages - CategoryListing [eightWheeler] [en] — 8 Wheeler","2026-08-21","skipped","2026-08-21","","","",""
+"","145","TC-CL-04: Call Now assistance lead submits successfully on 16 Wheeler","CategoryPages - CategoryListing [sixteenWheeler] [en] — 16 Wheeler","2026-08-21","skipped","2026-08-21","","","",""
+"","3115","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [fourWheeler] [en] — 4 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on 18 Wheeler
+**Language:** en
+
+**Description:**
+Open the 18 Wheeler page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 18 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","958","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 18 Wheeler","CategoryPages - CategoryListing [eighteenWheeler] [en] — 18 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"","2799","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [hydrogen] [en] — Hydrogen Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TSR-01
+**Title:** Check Truck Price lead submits successfully on Tata Ace
+**Language:** en
+
+**Description:**
+Open the Tata Ace page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Tata Ace page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2669","TC-TSR-01: Check Truck Price lead submits successfully on Tata Ace","CategoryPages - CategoryListingTruckSeries [tataAce] [en] — Tata Ace","2026-08-21","passed","2026-08-21","","","",""
+"","174","TC-CL-04: Call Now assistance lead submits successfully on Auto Rickshaw","CategoryPages - CategoryListing [autoRickshaw] [en] — Auto Rickshaw","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on SCV
+**Language:** en
+
+**Description:**
+Open the SCV page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the SCV page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1575","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on SCV","CategoryPages - CategoryListing [scv] [en] — SCV","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on Pickups
+**Language:** en
+
+**Description:**
+Open the Pickups page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Pickups page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2470","TC-CL-01: Check Truck Price lead submits successfully on Pickups","CategoryPages - CategoryListing [pickups] [en] — Pickups","2026-08-21","passed","2026-08-21","","","",""
+"","154","TC-NLP-05: Call Now lead submits successfully on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on 3 Wheeler
+**Language:** en
+
+**Description:**
+Open the 3 Wheeler page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 3 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1598","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 3 Wheeler","CategoryPages - CategoryListing [threeWheeler] [en] — 3 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Trailers
+**Language:** en
+
+**Description:**
+Open the Trailers page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Trailers page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1010","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Trailers","CategoryPages - CategoryListing [trailers] [en] — Trailers","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Petrol Trucks
+**Language:** en
+
+**Description:**
+Open the Petrol Trucks page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Petrol Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","999","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Petrol Trucks","CategoryPages - CategoryListing [petrol] [en] — Petrol Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-SEO-04
+**Title:** Find Top Brands sample link navigates to brand page
+**Language:** en
+
+**Description:**
+After expanding Read More, click the Ashok Leyland Truck link under Find Top Brands of Trucks in India and confirm the brand page opens.
+
+**Expected Result:**
+The browser URL is /en/ashok-leyland after clicking Ashok Leyland Truck.
+
+**Steps:**
+1. Open About Truck Junction and click Read More
+2. Click Ashok Leyland Truck in the Top Brands SEO section
+3. Verify the brand page URL","571","TC-SEO-04: Find Top Brands sample link navigates to brand page","SEO - HomePageSeoContent [en]","2026-08-21","passed","2026-08-21","","","",""
+"","150","TC-CL-04: Call Now assistance lead submits successfully on 14 Wheeler","CategoryPages - CategoryListing [fourteenWheeler] [en] — 14 Wheeler","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-EV-01
+**Title:** Check Truck Price lead submits successfully on Electric Commercial Vehicles
+**Language:** en
+
+**Description:**
+Open the Electric Commercial Vehicles page, click a truck card's ""Check Truck Price"" button to open its lead form (the same shared Check Offers modal used elsewhere on the site), fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Electric Commercial Vehicles page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","3401","TC-EV-01: Check Truck Price lead submits successfully on Electric Commercial Vehicles","CategoryPages - ElectricVehicle [en] — Electric Commercial Vehicles","2026-08-21","passed","2026-08-21","","","",""
+"","11227","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [icv] [en] — ICV","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on 14 Wheeler
+**Language:** en
+
+**Description:**
+Open the 14 Wheeler page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the 14 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2557","TC-CL-01: Check Truck Price lead submits successfully on 14 Wheeler","CategoryPages - CategoryListing [fourteenWheeler] [en] — 14 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TSR-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Boss
+**Language:** en
+
+**Description:**
+Open the Ashok Leyland Boss page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Ashok Leyland Boss page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1034","TC-TSR-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Boss","CategoryPages - CategoryListingTruckSeries [ashokLeylandBoss] [en] — Ashok Leyland Boss","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-07
+**Title:** Check Offers lead form rejects mobile that is not 10 digits on BS6 Trucks
+**Language:** en
+
+**Description:**
+Open the BS6 Trucks listing page, open Check Offers, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the BS6 Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","15333","TC-NLP-07: Check Offers lead form rejects mobile that is not 10 digits on BS6 Trucks","ListingPages - NewListingPages [bs6Trucks] [en] — BS6 Trucks","2026-08-21","failed","2026-08-21","","","",""
+"**Test Case ID:** TC-TBR-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Trucks
+**Language:** en
+
+**Description:**
+Open the Ashok Leyland Trucks page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Ashok Leyland Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1287","TC-TBR-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Trucks","CategoryPages - CategoryListingBrands [ashokLeylandBrand] [en] — Ashok Leyland Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TSR-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Mahindra Bolero
+**Language:** en
+
+**Description:**
+Open the Mahindra Bolero page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Mahindra Bolero page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1302","TC-TSR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Mahindra Bolero","CategoryPages - CategoryListingTruckSeries [mahindraBolero] [en] — Mahindra Bolero","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on Tempo Traveller
+**Language:** en
+
+**Description:**
+Open the Tempo Traveller page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Tempo Traveller page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2314","TC-CL-01: Check Truck Price lead submits successfully on Tempo Traveller","CategoryPages - CategoryListing [tempoTraveller] [en] — Tempo Traveller","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on LNG Trucks
+**Language:** en
+
+**Description:**
+Open the LNG Trucks page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the LNG Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2146","TC-CL-01: Check Truck Price lead submits successfully on LNG Trucks","CategoryPages - CategoryListing [lng] [en] — LNG Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","7045","TC-NLP-00: page links resolve 200/30x; broken links are logged, not failed","ListingPages - NewListingPages [newTrucks] [en] — Find New Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","133","TC-NLP-03: Contact Seller lead submits successfully on Find New Trucks","ListingPages - NewListingPages [newTrucks] [en] — Find New Trucks","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on HCV
+**Language:** en
+
+**Description:**
+Open the HCV page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the HCV page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1261","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on HCV","CategoryPages - CategoryListing [hcv] [en] — HCV","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Tempo Traveller
+**Language:** en
+
+**Description:**
+Open the Tempo Traveller page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Tempo Traveller page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1125","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Tempo Traveller","CategoryPages - CategoryListing [tempoTraveller] [en] — Tempo Traveller","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on Tippers
+**Language:** en
+
+**Description:**
+Open the Tippers page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Tippers page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","3147","TC-CL-01: Check Truck Price lead submits successfully on Tippers","CategoryPages - CategoryListing [tippers] [en] — Tippers","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-07
+**Title:** Check Offers lead form rejects mobile that is not 10 digits on Find New Trucks
+**Language:** en
+
+**Description:**
+Open the Find New Trucks listing page, open Check Offers, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Find New Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","15620","TC-NLP-07: Check Offers lead form rejects mobile that is not 10 digits on Find New Trucks","ListingPages - NewListingPages [newTrucks] [en] — Find New Trucks","2026-08-21","failed","2026-08-21","","","",""
+"**Test Case ID:** TC-EV-04
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Electric Commercial Vehicles
+**Language:** en
+
+**Description:**
+Open the Electric Commercial Vehicles page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Electric Commercial Vehicles page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1486","TC-EV-04: Check Truck Price lead form rejects mobile that is not 10 digits on Electric Commercial Vehicles","CategoryPages - ElectricVehicle [en] — Electric Commercial Vehicles","2026-08-21","passed","2026-08-21","","","",""
+"","4270","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [hcv] [en] — HCV","2026-08-21","passed","2026-08-21","","","",""
+"","3359","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [threeWheeler] [en] — 3 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-01
+**Title:** Check Offers lead submits successfully on Find New Trucks
+**Language:** en
+
+**Description:**
+Open the Find New Trucks listing page, click Check Offers to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Find New Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","3342","TC-NLP-01: Check Offers lead submits successfully on Find New Trucks","ListingPages - NewListingPages [newTrucks] [en] — Find New Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TBR-01
+**Title:** Check Truck Price lead submits successfully on Tata Trucks
+**Language:** en
+
+**Description:**
+Open the Tata Trucks page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Tata Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","3602","TC-TBR-01: Check Truck Price lead submits successfully on Tata Trucks","CategoryPages - CategoryListingBrands [tataBrand] [en] — Tata Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TBR-01
+**Title:** Check Truck Price lead submits successfully on Mahindra Trucks
+**Language:** en
+
+**Description:**
+Open the Mahindra Trucks page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Mahindra Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2492","TC-TBR-01: Check Truck Price lead submits successfully on Mahindra Trucks","CategoryPages - CategoryListingBrands [mahindraBrand] [en] — Mahindra Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TBR-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Eicher Trucks
+**Language:** en
+
+**Description:**
+Open the Eicher Trucks page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Eicher Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1179","TC-TBR-02: Check Truck Price lead form shows required validation when submitted empty on Eicher Trucks","CategoryPages - CategoryListingBrands [eicherBrand] [en] — Eicher Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Auto Rickshaw
+**Language:** en
+
+**Description:**
+Open the Auto Rickshaw page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Auto Rickshaw page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1005","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Auto Rickshaw","CategoryPages - CategoryListing [autoRickshaw] [en] — Auto Rickshaw","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TSR-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Dost
+**Language:** en
+
+**Description:**
+Open the Ashok Leyland Dost page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Ashok Leyland Dost page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1279","TC-TSR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Dost","CategoryPages - CategoryListingTruckSeries [ashokLeylandDost] [en] — Ashok Leyland Dost","2026-08-21","passed","2026-08-21","","","",""
+"","152","TC-CL-04: Call Now assistance lead submits successfully on 6 Wheeler","CategoryPages - CategoryListing [sixWheeler] [en] — 6 Wheeler","2026-08-21","skipped","2026-08-21","","","",""
+"","3522","TC-TSR-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListingTruckSeries [mahindraBolero] [en] — Mahindra Bolero","2026-08-21","passed","2026-08-21","","","",""
+"","187","TC-CL-04: Call Now assistance lead submits successfully on Tippers","CategoryPages - CategoryListing [tippers] [en] — Tippers","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-04
+**Title:** Call Now assistance lead submits successfully on Bi Fuel Trucks
+**Language:** en
+
+**Description:**
+Open the Bi Fuel Trucks page, click the ""Still confused?"" widget's Call Now button to open the assistance lead form, fill model, name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance form closes after a successful submission.
+
+**Steps:**
+1. Open the Bi Fuel Trucks page
+2. Click Call Now to open the assistance lead form
+3. Fill model, name, mobile and city
+4. Submit and verify the assistance form closes","2319","TC-CL-04: Call Now assistance lead submits successfully on Bi Fuel Trucks","CategoryPages - CategoryListing [biFuel] [en] — Bi Fuel Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-04
+**Title:** Call Now assistance lead submits successfully on Hydrogen Trucks
+**Language:** en
+
+**Description:**
+Open the Hydrogen Trucks page, click the ""Still confused?"" widget's Call Now button to open the assistance lead form, fill model, name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance form closes after a successful submission.
+
+**Steps:**
+1. Open the Hydrogen Trucks page
+2. Click Call Now to open the assistance lead form
+3. Fill model, name, mobile and city
+4. Submit and verify the assistance form closes","2272","TC-CL-04: Call Now assistance lead submits successfully on Hydrogen Trucks","CategoryPages - CategoryListing [hydrogen] [en] — Hydrogen Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","3719","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [eighteenWheeler] [en] — 18 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on ICV
+**Language:** en
+
+**Description:**
+Open the ICV page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the ICV page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","979","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on ICV","CategoryPages - CategoryListing [icv] [en] — ICV","2026-08-21","passed","2026-08-21","","","",""
+"","2131","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [miniTrucks] [en] — Mini Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-01
+**Title:** Check Offers lead submits successfully on Best Trucks
+**Language:** en
+
+**Description:**
+Open the Best Trucks listing page, click Check Offers to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Best Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","15851","TC-NLP-01: Check Offers lead submits successfully on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","failed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on 10 Wheeler
+**Language:** en
+
+**Description:**
+Open the 10 Wheeler page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 10 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1263","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 10 Wheeler","CategoryPages - CategoryListing [tenWheeler] [en] — 10 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on LNG Trucks
+**Language:** en
+
+**Description:**
+Open the LNG Trucks page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the LNG Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","960","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on LNG Trucks","CategoryPages - CategoryListing [lng] [en] — LNG Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-BR-05
+**Title:** Download Brochure lead form shows required validation when submitted empty on Brochure
+**Language:** en
+
+**Description:**
+Open the Brochure page, click Download Brochure, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Brochure page
+2. Click Download Brochure to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","776","TC-BR-05: Download Brochure lead form shows required validation when submitted empty on Brochure","Brochure - Brochure [en] — Brochure","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on 18 Wheeler
+**Language:** en
+
+**Description:**
+Open the 18 Wheeler page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the 18 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2452","TC-CL-01: Check Truck Price lead submits successfully on 18 Wheeler","CategoryPages - CategoryListing [eighteenWheeler] [en] — 18 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TSR-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Boss
+**Language:** en
+
+**Description:**
+Open the Ashok Leyland Boss page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Ashok Leyland Boss page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1275","TC-TSR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Boss","CategoryPages - CategoryListingTruckSeries [ashokLeylandBoss] [en] — Ashok Leyland Boss","2026-08-21","passed","2026-08-21","","","",""
+"","3747","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [trailers] [en] — Trailers","2026-08-21","passed","2026-08-21","","","",""
+"","4225","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [cng] [en] — CNG Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on CNG Trucks
+**Language:** en
+
+**Description:**
+Open the CNG Trucks page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the CNG Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1016","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on CNG Trucks","CategoryPages - CategoryListing [cng] [en] — CNG Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on SCV
+**Language:** en
+
+**Description:**
+Open the SCV page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the SCV page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1219","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on SCV","CategoryPages - CategoryListing [scv] [en] — SCV","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-04
+**Title:** Call Now assistance lead submits successfully on LCV
+**Language:** en
+
+**Description:**
+Open the LCV page, click the ""Still confused?"" widget's Call Now button to open the assistance lead form, fill model, name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance form closes after a successful submission.
+
+**Steps:**
+1. Open the LCV page
+2. Click Call Now to open the assistance lead form
+3. Fill model, name, mobile and city
+4. Submit and verify the assistance form closes","2324","TC-CL-04: Call Now assistance lead submits successfully on LCV","CategoryPages - CategoryListing [lcv] [en] — LCV","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-SEO-02
+**Title:** Read More expands the About Truck Junction content
+**Language:** ta
+
+**Description:**
+Click Read More on the About Truck Junction block and confirm the content expands (Read Less is shown).
+
+**Expected Result:**
+After Read More, the block is expanded and the Read Less control is visible to the user.
+
+**Steps:**
+1. Open the About Truck Junction block
+2. Click Read More
+3. Verify Read Less is shown","259","TC-SEO-02: Read More expands the About Truck Junction content","SEO - HomePageSeoContent [ta]","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Tippers
+**Language:** en
+
+**Description:**
+Open the Tippers page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Tippers page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1277","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Tippers","CategoryPages - CategoryListing [tippers] [en] — Tippers","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on 3 Wheeler
+**Language:** en
+
+**Description:**
+Open the 3 Wheeler page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 3 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1222","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 3 Wheeler","CategoryPages - CategoryListing [threeWheeler] [en] — 3 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on Transit Mixer
+**Language:** en
+
+**Description:**
+Open the Transit Mixer page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Transit Mixer page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2318","TC-CL-01: Check Truck Price lead submits successfully on Transit Mixer","CategoryPages - CategoryListing [transitMixer] [en] — Transit Mixer","2026-08-21","passed","2026-08-21","","","",""
+"","4283","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [scv] [en] — SCV","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Pickups
+**Language:** en
+
+**Description:**
+Open the Pickups page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Pickups page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1003","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Pickups","CategoryPages - CategoryListing [pickups] [en] — Pickups","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-03
+**Title:** Contact Seller lead submits successfully on Best Trucks
+**Language:** en
+
+**Description:**
+Open the Best Trucks listing page, click Contact Seller to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Best Trucks listing page
+2. Click Contact Seller to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","17262","TC-NLP-03: Contact Seller lead submits successfully on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","failed","2026-08-21","","","",""
+"","2049","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [biFuel] [en] — Bi Fuel Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-SEO-01
+**Title:** About Truck Junction SEO block is visible with Read More
+**Language:** ta
+
+**Description:**
+Open the homepage and locate the About Truck Junction content block. Confirm the about heading and Read More control are shown.
+
+**Expected Result:**
+The About Truck Junction block is visible with the correct localized heading and a Read More button.
+
+**Steps:**
+1. Open the homepage for the selected language
+2. Scroll to the About Truck Junction block
+3. Verify the about heading and Read More are visible","534","TC-SEO-01: About Truck Junction SEO block is visible with Read More","SEO - HomePageSeoContent [ta]","2026-08-21","passed","2026-08-21","","","",""
+"","177","TC-CL-04: Call Now assistance lead submits successfully on Pickups","CategoryPages - CategoryListing [pickups] [en] — Pickups","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on LPG Trucks
+**Language:** en
+
+**Description:**
+Open the LPG Trucks page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the LPG Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1208","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on LPG Trucks","CategoryPages - CategoryListing [lpg] [en] — LPG Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-EV-03
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Electric Commercial Vehicles
+**Language:** en
+
+**Description:**
+Open the Electric Commercial Vehicles page, open Check Truck Price on a truck card, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Electric Commercial Vehicles page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1180","TC-EV-03: Check Truck Price lead form shows required validation when submitted empty on Electric Commercial Vehicles","CategoryPages - ElectricVehicle [en] — Electric Commercial Vehicles","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-04
+**Title:** Call Now assistance lead submits successfully on CNG Trucks
+**Language:** en
+
+**Description:**
+Open the CNG Trucks page, click the ""Still confused?"" widget's Call Now button to open the assistance lead form, fill model, name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance form closes after a successful submission.
+
+**Steps:**
+1. Open the CNG Trucks page
+2. Click Call Now to open the assistance lead form
+3. Fill model, name, mobile and city
+4. Submit and verify the assistance form closes","2299","TC-CL-04: Call Now assistance lead submits successfully on CNG Trucks","CategoryPages - CategoryListing [cng] [en] — CNG Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on 12 Wheeler
+**Language:** en
+
+**Description:**
+Open the 12 Wheeler page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 12 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1256","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 12 Wheeler","CategoryPages - CategoryListing [twelveWheeler] [en] — 12 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on LCV
+**Language:** en
+
+**Description:**
+Open the LCV page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the LCV page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1255","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on LCV","CategoryPages - CategoryListing [lcv] [en] — LCV","2026-08-21","passed","2026-08-21","","","",""
+"","2428","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [lng] [en] — LNG Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-BR-03
+**Title:** Download Brochure lead submits successfully from the ""Upcoming"" tab on Brochure
+**Language:** en
+
+**Description:**
+Open the Brochure page, switch the ""Best Selling Trucks"" carousel to the ""Upcoming"" tab, click a card's Download Brochure button to open its lead form (the same shared Check Offers modal used elsewhere on the page), fill name, mobile and city, and submit. Every tab is its own entry point even though all tabs open the same underlying form.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Brochure page
+2. Switch the Best Selling Trucks carousel to the ""Upcoming"" tab
+3. Click a card's Download Brochure button to open its lead form
+4. Fill name, mobile and city
+5. Submit and verify Thank You confirmation","2032","TC-BR-03: Download Brochure lead submits successfully from the ""Upcoming"" tab on Brochure","Brochure - Brochure [en] — Brochure","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on 6 Wheeler
+**Language:** en
+
+**Description:**
+Open the 6 Wheeler page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 6 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1226","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 6 Wheeler","CategoryPages - CategoryListing [sixWheeler] [en] — 6 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"","4198","TC-TSR-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListingTruckSeries [mahindraBlazo] [en] — Mahindra Blazo","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Hydrogen Trucks
+**Language:** en
+
+**Description:**
+Open the Hydrogen Trucks page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Hydrogen Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1183","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Hydrogen Trucks","CategoryPages - CategoryListing [hydrogen] [en] — Hydrogen Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TBR-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Trucks
+**Language:** en
+
+**Description:**
+Open the Ashok Leyland Trucks page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Ashok Leyland Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1547","TC-TBR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Trucks","CategoryPages - CategoryListingBrands [ashokLeylandBrand] [en] — Ashok Leyland Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","3702","TC-TBR-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListingBrands [ashokLeylandBrand] [en] — Ashok Leyland Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","188","TC-NLP-04: Notify Me lead submits successfully on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on ICV
+**Language:** en
+
+**Description:**
+Open the ICV page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the ICV page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1220","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on ICV","CategoryPages - CategoryListing [icv] [en] — ICV","2026-08-21","passed","2026-08-21","","","",""
+"","4556","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [pickups] [en] — Pickups","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-BR-06
+**Title:** Download Brochure lead form rejects mobile that is not 10 digits on Brochure
+**Language:** en
+
+**Description:**
+Open the Brochure page, click Download Brochure, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Brochure page
+2. Click Download Brochure to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","996","TC-BR-06: Download Brochure lead form rejects mobile that is not 10 digits on Brochure","Brochure - Brochure [en] — Brochure","2026-08-21","passed","2026-08-21","","","",""
+"","5143","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [twentyTwoWheeler] [en] — 22 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Hydrogen Trucks
+**Language:** en
+
+**Description:**
+Open the Hydrogen Trucks page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Hydrogen Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","938","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Hydrogen Trucks","CategoryPages - CategoryListing [hydrogen] [en] — Hydrogen Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TBR-01
+**Title:** Check Truck Price lead submits successfully on Eicher Trucks
+**Language:** en
+
+**Description:**
+Open the Eicher Trucks page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Eicher Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2480","TC-TBR-01: Check Truck Price lead submits successfully on Eicher Trucks","CategoryPages - CategoryListingBrands [eicherBrand] [en] — Eicher Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","117","TC-NLP-04: Notify Me lead submits successfully on Find New Trucks","ListingPages - NewListingPages [newTrucks] [en] — Find New Trucks","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on 16 Wheeler
+**Language:** en
+
+**Description:**
+Open the 16 Wheeler page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 16 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1339","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 16 Wheeler","CategoryPages - CategoryListing [sixteenWheeler] [en] — 16 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-01
+**Title:** Check Offers lead submits successfully on BS6 Trucks
+**Language:** en
+
+**Description:**
+Open the BS6 Trucks listing page, click Check Offers to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the BS6 Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","15366","TC-NLP-01: Check Offers lead submits successfully on BS6 Trucks","ListingPages - NewListingPages [bs6Trucks] [en] — BS6 Trucks","2026-08-21","failed","2026-08-21","","","",""
+"**Test Case ID:** TC-TSR-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Mahindra Bolero
+**Language:** en
+
+**Description:**
+Open the Mahindra Bolero page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Mahindra Bolero page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1047","TC-TSR-02: Check Truck Price lead form shows required validation when submitted empty on Mahindra Bolero","CategoryPages - CategoryListingTruckSeries [mahindraBolero] [en] — Mahindra Bolero","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Diesel Trucks
+**Language:** en
+
+**Description:**
+Open the Diesel Trucks page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Diesel Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1547","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Diesel Trucks","CategoryPages - CategoryListing [diesel] [en] — Diesel Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-02
+**Title:** Check Truck Price lead submits successfully on Latest Trucks
+**Language:** en
+
+**Description:**
+Open the Latest Trucks listing page, click Check Truck Price to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Latest Trucks listing page
+2. Click Check Truck Price to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","15401","TC-NLP-02: Check Truck Price lead submits successfully on Latest Trucks","ListingPages - NewListingPages [latestTrucks] [en] — Latest Trucks","2026-08-21","failed","2026-08-21","","","",""
+"","118","TC-NLP-04: Notify Me lead submits successfully on BS6 Trucks","ListingPages - NewListingPages [bs6Trucks] [en] — BS6 Trucks","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-SEO-01
+**Title:** About Truck Junction SEO block is visible with Read More
+**Language:** hi
+
+**Description:**
+Open the homepage and locate the About Truck Junction content block. Confirm the about heading and Read More control are shown.
+
+**Expected Result:**
+The About Truck Junction block is visible with the correct localized heading and a Read More button.
+
+**Steps:**
+1. Open the homepage for the selected language
+2. Scroll to the About Truck Junction block
+3. Verify the about heading and Read More are visible","536","TC-SEO-01: About Truck Junction SEO block is visible with Read More","SEO - HomePageSeoContent [hi]","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TBR-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Tata Trucks
+**Language:** en
+
+**Description:**
+Open the Tata Trucks page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Tata Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1527","TC-TBR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Tata Trucks","CategoryPages - CategoryListingBrands [tataBrand] [en] — Tata Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-04
+**Title:** Call Now assistance lead submits successfully on HCV
+**Language:** en
+
+**Description:**
+Open the HCV page, click the ""Still confused?"" widget's Call Now button to open the assistance lead form, fill model, name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance form closes after a successful submission.
+
+**Steps:**
+1. Open the HCV page
+2. Click Call Now to open the assistance lead form
+3. Fill model, name, mobile and city
+4. Submit and verify the assistance form closes","2626","TC-CL-04: Call Now assistance lead submits successfully on HCV","CategoryPages - CategoryListing [hcv] [en] — HCV","2026-08-21","passed","2026-08-21","","","",""
+"","5321","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [tippers] [en] — Tippers","2026-08-21","passed","2026-08-21","","","",""
+"","10929","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [tenWheeler] [en] — 10 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"","3539","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [lcv] [en] — LCV","2026-08-21","passed","2026-08-21","","","",""
+"","9403","TC-SEO-00: page links resolve 200/30x; broken links are logged, not failed","SEO - HomePageSeoContent [en]","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-04
+**Title:** Call Now assistance lead submits successfully on LPG Trucks
+**Language:** en
+
+**Description:**
+Open the LPG Trucks page, click the ""Still confused?"" widget's Call Now button to open the assistance lead form, fill model, name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance form closes after a successful submission.
+
+**Steps:**
+1. Open the LPG Trucks page
+2. Click Call Now to open the assistance lead form
+3. Fill model, name, mobile and city
+4. Submit and verify the assistance form closes","2322","TC-CL-04: Call Now assistance lead submits successfully on LPG Trucks","CategoryPages - CategoryListing [lpg] [en] — LPG Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on LCV
+**Language:** en
+
+**Description:**
+Open the LCV page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the LCV page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","3220","TC-CL-01: Check Truck Price lead submits successfully on LCV","CategoryPages - CategoryListing [lcv] [en] — LCV","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-BR-04
+**Title:** Download Brochure lead submits successfully from the ""Latest"" tab on Brochure
+**Language:** en
+
+**Description:**
+Open the Brochure page, switch the ""Best Selling Trucks"" carousel to the ""Latest"" tab, click a card's Download Brochure button to open its lead form (the same shared Check Offers modal used elsewhere on the page), fill name, mobile and city, and submit. Every tab is its own entry point even though all tabs open the same underlying form.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Brochure page
+2. Switch the Best Selling Trucks carousel to the ""Latest"" tab
+3. Click a card's Download Brochure button to open its lead form
+4. Fill name, mobile and city
+5. Submit and verify Thank You confirmation","2173","TC-BR-04: Download Brochure lead submits successfully from the ""Latest"" tab on Brochure","Brochure - Brochure [en] — Brochure","2026-08-21","passed","2026-08-21","","","",""
+"","4470","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [transitMixer] [en] — Transit Mixer","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on HCV
+**Language:** en
+
+**Description:**
+Open the HCV page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the HCV page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2214","TC-CL-01: Check Truck Price lead submits successfully on HCV","CategoryPages - CategoryListing [hcv] [en] — HCV","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Trailers
+**Language:** en
+
+**Description:**
+Open the Trailers page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Trailers page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1266","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Trailers","CategoryPages - CategoryListing [trailers] [en] — Trailers","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-05
+**Title:** Call Now lead submits successfully on Latest Trucks
+**Language:** en
+
+**Description:**
+Open the Latest Trucks listing page, click Call Now to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance lead form closes after a successful submission (verified via the real submit network call). The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Latest Trucks listing page
+2. Click Call Now to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","704","TC-NLP-05: Call Now lead submits successfully on Latest Trucks","ListingPages - NewListingPages [latestTrucks] [en] — Latest Trucks","2026-08-21","broken","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on HCV
+**Language:** en
+
+**Description:**
+Open the HCV page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the HCV page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","994","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on HCV","CategoryPages - CategoryListing [hcv] [en] — HCV","2026-08-21","passed","2026-08-21","","","",""
+"","6281","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [sixteenWheeler] [en] — 16 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-02
+**Title:** Check Truck Price lead submits successfully on BS6 Trucks
+**Language:** en
+
+**Description:**
+Open the BS6 Trucks listing page, click Check Truck Price to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the BS6 Trucks listing page
+2. Click Check Truck Price to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","2385","TC-NLP-02: Check Truck Price lead submits successfully on BS6 Trucks","ListingPages - NewListingPages [bs6Trucks] [en] — BS6 Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Petrol Trucks
+**Language:** en
+
+**Description:**
+Open the Petrol Trucks page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Petrol Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1244","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Petrol Trucks","CategoryPages - CategoryListing [petrol] [en] — Petrol Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on 4 Wheeler
+**Language:** en
+
+**Description:**
+Open the 4 Wheeler page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 4 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1444","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 4 Wheeler","CategoryPages - CategoryListing [fourWheeler] [en] — 4 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Transit Mixer
+**Language:** en
+
+**Description:**
+Open the Transit Mixer page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Transit Mixer page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1353","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Transit Mixer","CategoryPages - CategoryListing [transitMixer] [en] — Transit Mixer","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-04
+**Title:** Call Now assistance lead submits successfully on Diesel Trucks
+**Language:** en
+
+**Description:**
+Open the Diesel Trucks page, click the ""Still confused?"" widget's Call Now button to open the assistance lead form, fill model, name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance form closes after a successful submission.
+
+**Steps:**
+1. Open the Diesel Trucks page
+2. Click Call Now to open the assistance lead form
+3. Fill model, name, mobile and city
+4. Submit and verify the assistance form closes","2660","TC-CL-04: Call Now assistance lead submits successfully on Diesel Trucks","CategoryPages - CategoryListing [diesel] [en] — Diesel Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","194","TC-CL-04: Call Now assistance lead submits successfully on Trailers","CategoryPages - CategoryListing [trailers] [en] — Trailers","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-TSR-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Mahindra Blazo
+**Language:** en
+
+**Description:**
+Open the Mahindra Blazo page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Mahindra Blazo page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1319","TC-TSR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Mahindra Blazo","CategoryPages - CategoryListingTruckSeries [mahindraBlazo] [en] — Mahindra Blazo","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on Petrol Trucks
+**Language:** en
+
+**Description:**
+Open the Petrol Trucks page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Petrol Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2201","TC-CL-01: Check Truck Price lead submits successfully on Petrol Trucks","CategoryPages - CategoryListing [petrol] [en] — Petrol Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-EV-02
+**Title:** Call Now assistance lead submits successfully on Electric Commercial Vehicles
+**Language:** en
+
+**Description:**
+Open the Electric Commercial Vehicles page, click the ""Still confused?"" widget's Call Now button to open the assistance lead form (a different component from Check Truck Price — placeholder-only inputs, heading ""SHARE YOUR DETAILS TO GET ASSISTANCE""), fill model, name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance form closes after a successful submission.
+
+**Steps:**
+1. Open the Electric Commercial Vehicles page
+2. Click Call Now to open the assistance lead form
+3. Fill model, name, mobile and city
+4. Submit and verify the assistance form closes","3168","TC-EV-02: Call Now assistance lead submits successfully on Electric Commercial Vehicles","CategoryPages - ElectricVehicle [en] — Electric Commercial Vehicles","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on 6 Wheeler
+**Language:** en
+
+**Description:**
+Open the 6 Wheeler page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the 6 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2360","TC-CL-01: Check Truck Price lead submits successfully on 6 Wheeler","CategoryPages - CategoryListing [sixWheeler] [en] — 6 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on 16 Wheeler
+**Language:** en
+
+**Description:**
+Open the 16 Wheeler page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 16 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1126","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 16 Wheeler","CategoryPages - CategoryListing [sixteenWheeler] [en] — 16 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Pickups
+**Language:** en
+
+**Description:**
+Open the Pickups page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Pickups page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1282","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Pickups","CategoryPages - CategoryListing [pickups] [en] — Pickups","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Transit Mixer
+**Language:** en
+
+**Description:**
+Open the Transit Mixer page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Transit Mixer page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1086","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Transit Mixer","CategoryPages - CategoryListing [transitMixer] [en] — Transit Mixer","2026-08-21","passed","2026-08-21","","","",""
+"","8545","TC-NLP-00: page links resolve 200/30x; broken links are logged, not failed","ListingPages - NewListingPages [bs6Trucks] [en] — BS6 Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-05
+**Title:** Call Now lead submits successfully on BS6 Trucks
+**Language:** en
+
+**Description:**
+Open the BS6 Trucks listing page, click Call Now to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance lead form closes after a successful submission (verified via the real submit network call). The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the BS6 Trucks listing page
+2. Click Call Now to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","405","TC-NLP-05: Call Now lead submits successfully on BS6 Trucks","ListingPages - NewListingPages [bs6Trucks] [en] — BS6 Trucks","2026-08-21","broken","2026-08-21","","","",""
+"","10785","TC-SEO-00: page links resolve 200/30x; broken links are logged, not failed","SEO - HomePageSeoContent [ta]","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on Hydrogen Trucks
+**Language:** en
+
+**Description:**
+Open the Hydrogen Trucks page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Hydrogen Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2370","TC-CL-01: Check Truck Price lead submits successfully on Hydrogen Trucks","CategoryPages - CategoryListing [hydrogen] [en] — Hydrogen Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","11170","TC-TBR-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListingBrands [tataBrand] [en] — Tata Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-SEO-02
+**Title:** Read More expands the About Truck Junction content
+**Language:** en
+
+**Description:**
+Click Read More on the About Truck Junction block and confirm the content expands (Read Less is shown).
+
+**Expected Result:**
+After Read More, the block is expanded and the Read Less control is visible to the user.
+
+**Steps:**
+1. Open the About Truck Junction block
+2. Click Read More
+3. Verify Read Less is shown","288","TC-SEO-02: Read More expands the About Truck Junction content","SEO - HomePageSeoContent [en]","2026-08-21","passed","2026-08-21","","","",""
+"","3542","TC-TBR-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListingBrands [mahindraBrand] [en] — Mahindra Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","4172","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [lpg] [en] — LPG Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on LPG Trucks
+**Language:** en
+
+**Description:**
+Open the LPG Trucks page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the LPG Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","945","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on LPG Trucks","CategoryPages - CategoryListing [lpg] [en] — LPG Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","8623","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [fourteenWheeler] [en] — 14 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Tippers
+**Language:** en
+
+**Description:**
+Open the Tippers page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Tippers page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1412","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Tippers","CategoryPages - CategoryListing [tippers] [en] — Tippers","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-04
+**Title:** Call Now assistance lead submits successfully on ICV
+**Language:** en
+
+**Description:**
+Open the ICV page, click the ""Still confused?"" widget's Call Now button to open the assistance lead form, fill model, name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance form closes after a successful submission.
+
+**Steps:**
+1. Open the ICV page
+2. Click Call Now to open the assistance lead form
+3. Fill model, name, mobile and city
+4. Submit and verify the assistance form closes","2364","TC-CL-04: Call Now assistance lead submits successfully on ICV","CategoryPages - CategoryListing [icv] [en] — ICV","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on 3 Wheeler
+**Language:** en
+
+**Description:**
+Open the 3 Wheeler page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the 3 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2332","TC-CL-01: Check Truck Price lead submits successfully on 3 Wheeler","CategoryPages - CategoryListing [threeWheeler] [en] — 3 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Mini Trucks
+**Language:** en
+
+**Description:**
+Open the Mini Trucks page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Mini Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1039","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Mini Trucks","CategoryPages - CategoryListing [miniTrucks] [en] — Mini Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-SEO-03
+**Title:** Expanded English SEO headings are visible
+**Language:** en
+
+**Description:**
+After expanding Read More on English, confirm all expected SEO sub-headings inside the About block are visible.
+
+**Expected Result:**
+Each expected SEO heading (for example Get the Best Trucks in India 2026, Why Choose Truck Junction?) is visible in the expanded block.
+
+**Steps:**
+1. Open About Truck Junction
+2. Click Read More
+3. Verify each expected SEO heading is visible","294","TC-SEO-03: expanded English SEO headings are visible","SEO - HomePageSeoContent [en]","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on ICV
+**Language:** en
+
+**Description:**
+Open the ICV page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the ICV page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2998","TC-CL-01: Check Truck Price lead submits successfully on ICV","CategoryPages - CategoryListing [icv] [en] — ICV","2026-08-21","passed","2026-08-21","","","",""
+"","1630","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [eightWheeler] [en] — 8 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on 4 Wheeler
+**Language:** en
+
+**Description:**
+Open the 4 Wheeler page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 4 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1310","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 4 Wheeler","CategoryPages - CategoryListing [fourWheeler] [en] — 4 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"","6079","TC-EV-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - ElectricVehicle [en] — Electric Commercial Vehicles","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on 6 Wheeler
+**Language:** en
+
+**Description:**
+Open the 6 Wheeler page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 6 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","991","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 6 Wheeler","CategoryPages - CategoryListing [sixWheeler] [en] — 6 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TBR-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Mahindra Trucks
+**Language:** en
+
+**Description:**
+Open the Mahindra Trucks page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Mahindra Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1420","TC-TBR-02: Check Truck Price lead form shows required validation when submitted empty on Mahindra Trucks","CategoryPages - CategoryListingBrands [mahindraBrand] [en] — Mahindra Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on LPG Trucks
+**Language:** en
+
+**Description:**
+Open the LPG Trucks page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the LPG Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2143","TC-CL-01: Check Truck Price lead submits successfully on LPG Trucks","CategoryPages - CategoryListing [lpg] [en] — LPG Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Bi Fuel Trucks
+**Language:** en
+
+**Description:**
+Open the Bi Fuel Trucks page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Bi Fuel Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1222","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Bi Fuel Trucks","CategoryPages - CategoryListing [biFuel] [en] — Bi Fuel Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on 14 Wheeler
+**Language:** en
+
+**Description:**
+Open the 14 Wheeler page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 14 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1006","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 14 Wheeler","CategoryPages - CategoryListing [fourteenWheeler] [en] — 14 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TSR-01
+**Title:** Check Truck Price lead submits successfully on Mahindra Bolero
+**Language:** en
+
+**Description:**
+Open the Mahindra Bolero page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Mahindra Bolero page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2463","TC-TSR-01: Check Truck Price lead submits successfully on Mahindra Bolero","CategoryPages - CategoryListingTruckSeries [mahindraBolero] [en] — Mahindra Bolero","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-SEO-02
+**Title:** Read More expands the About Truck Junction content
+**Language:** hi
+
+**Description:**
+Click Read More on the About Truck Junction block and confirm the content expands (Read Less is shown).
+
+**Expected Result:**
+After Read More, the block is expanded and the Read Less control is visible to the user.
+
+**Steps:**
+1. Open the About Truck Junction block
+2. Click Read More
+3. Verify Read Less is shown","408","TC-SEO-02: Read More expands the About Truck Junction content","SEO - HomePageSeoContent [hi]","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-04
+**Title:** Call Now assistance lead submits successfully on Petrol Trucks
+**Language:** en
+
+**Description:**
+Open the Petrol Trucks page, click the ""Still confused?"" widget's Call Now button to open the assistance lead form, fill model, name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance form closes after a successful submission.
+
+**Steps:**
+1. Open the Petrol Trucks page
+2. Click Call Now to open the assistance lead form
+3. Fill model, name, mobile and city
+4. Submit and verify the assistance form closes","2356","TC-CL-04: Call Now assistance lead submits successfully on Petrol Trucks","CategoryPages - CategoryListing [petrol] [en] — Petrol Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","168","TC-CL-04: Call Now assistance lead submits successfully on 10 Wheeler","CategoryPages - CategoryListing [tenWheeler] [en] — 10 Wheeler","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on 10 Wheeler
+**Language:** en
+
+**Description:**
+Open the 10 Wheeler page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 10 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","990","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 10 Wheeler","CategoryPages - CategoryListing [tenWheeler] [en] — 10 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Diesel Trucks
+**Language:** en
+
+**Description:**
+Open the Diesel Trucks page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Diesel Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1276","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Diesel Trucks","CategoryPages - CategoryListing [diesel] [en] — Diesel Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on 8 Wheeler
+**Language:** en
+
+**Description:**
+Open the 8 Wheeler page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the 8 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2254","TC-CL-01: Check Truck Price lead submits successfully on 8 Wheeler","CategoryPages - CategoryListing [eightWheeler] [en] — 8 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"","264","TC-CL-04: Call Now assistance lead submits successfully on 3 Wheeler","CategoryPages - CategoryListing [threeWheeler] [en] — 3 Wheeler","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-TSR-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Mahindra Blazo
+**Language:** en
+
+**Description:**
+Open the Mahindra Blazo page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Mahindra Blazo page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1039","TC-TSR-02: Check Truck Price lead form shows required validation when submitted empty on Mahindra Blazo","CategoryPages - CategoryListingTruckSeries [mahindraBlazo] [en] — Mahindra Blazo","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-02
+**Title:** Check Truck Price lead submits successfully on Best Trucks
+**Language:** en
+
+**Description:**
+Open the Best Trucks listing page, click Check Truck Price to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Best Trucks listing page
+2. Click Check Truck Price to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","2513","TC-NLP-02: Check Truck Price lead submits successfully on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-SEO-05
+**Title:** Read Less is not shown before the About Truck Junction content is expanded
+**Language:** hi
+
+**Description:**
+Confirm the Read Less control is not present while the block is still collapsed.
+
+**Expected Result:**
+Read Less does not exist until Read More has been clicked.
+
+**Steps:**
+1. Open the About Truck Junction block
+2. Verify Read Less is not shown yet","179","TC-SEO-05: Read Less is not shown before the About Truck Junction content is expanded","SEO - HomePageSeoContent [hi]","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-06
+**Title:** Check Offers lead form shows required validation when submitted empty on Find New Trucks
+**Language:** en
+
+**Description:**
+Open the Find New Trucks listing page, open Check Offers, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Find New Trucks listing page
+2. Click Check Offers to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","15607","TC-NLP-06: Check Offers lead form shows required validation when submitted empty on Find New Trucks","ListingPages - NewListingPages [newTrucks] [en] — Find New Trucks","2026-08-21","failed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-06
+**Title:** Check Offers lead form shows required validation when submitted empty on Best Trucks
+**Language:** en
+
+**Description:**
+Open the Best Trucks listing page, open Check Offers, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Best Trucks listing page
+2. Click Check Offers to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","15675","TC-NLP-06: Check Offers lead form shows required validation when submitted empty on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","failed","2026-08-21","","","",""
+"**Test Case ID:** TC-BR-01
+**Title:** Download Brochure lead submits successfully on Brochure
+**Language:** en
+
+**Description:**
+Open the Brochure page, click Download Brochure to open its lead form (the same shared Check Offers modal, submit button reads ""Check Offers""), fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Brochure page
+2. Click Download Brochure to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2707","TC-BR-01: Download Brochure lead submits successfully on Brochure","Brochure - Brochure [en] — Brochure","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-BR-02
+**Title:** Download Brochure lead submits successfully from the ""Popular"" tab on Brochure
+**Language:** en
+
+**Description:**
+Open the Brochure page, switch the ""Best Selling Trucks"" carousel to the ""Popular"" tab, click a card's Download Brochure button to open its lead form (the same shared Check Offers modal used elsewhere on the page), fill name, mobile and city, and submit. Every tab is its own entry point even though all tabs open the same underlying form.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Brochure page
+2. Switch the Best Selling Trucks carousel to the ""Popular"" tab
+3. Click a card's Download Brochure button to open its lead form
+4. Fill name, mobile and city
+5. Submit and verify Thank You confirmation","2078","TC-BR-02: Download Brochure lead submits successfully from the ""Popular"" tab on Brochure","Brochure - Brochure [en] — Brochure","2026-08-21","passed","2026-08-21","","","",""
+"","188","TC-CL-04: Call Now assistance lead submits successfully on 4 Wheeler","CategoryPages - CategoryListing [fourWheeler] [en] — 4 Wheeler","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on Trailers
+**Language:** en
+
+**Description:**
+Open the Trailers page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Trailers page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2447","TC-CL-01: Check Truck Price lead submits successfully on Trailers","CategoryPages - CategoryListing [trailers] [en] — Trailers","2026-08-21","passed","2026-08-21","","","",""
+"","5514","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [autoRickshaw] [en] — Auto Rickshaw","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on Auto Rickshaw
+**Language:** en
+
+**Description:**
+Open the Auto Rickshaw page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Auto Rickshaw page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2252","TC-CL-01: Check Truck Price lead submits successfully on Auto Rickshaw","CategoryPages - CategoryListing [autoRickshaw] [en] — Auto Rickshaw","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on 18 Wheeler
+**Language:** en
+
+**Description:**
+Open the 18 Wheeler page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 18 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1205","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 18 Wheeler","CategoryPages - CategoryListing [eighteenWheeler] [en] — 18 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"","166","TC-CL-04: Call Now assistance lead submits successfully on Mini Trucks","CategoryPages - CategoryListing [miniTrucks] [en] — Mini Trucks","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-SEO-06
+**Title:** Read Less collapses the About Truck Junction content back
+**Language:** en
+
+**Description:**
+Expand via Read More, then click Read Less and confirm the block collapses back (Read More reappears).
+
+**Expected Result:**
+After Read Less, the block is collapsed and Read More is visible again.
+
+**Steps:**
+1. Open the About Truck Junction block
+2. Click Read More, then Read Less
+3. Verify Read More is shown again","304","TC-SEO-06: Read Less collapses the About Truck Junction content back","SEO - HomePageSeoContent [en]","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-06
+**Title:** Check Offers lead form shows required validation when submitted empty on BS6 Trucks
+**Language:** en
+
+**Description:**
+Open the BS6 Trucks listing page, open Check Offers, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the BS6 Trucks listing page
+2. Click Check Offers to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","15327","TC-NLP-06: Check Offers lead form shows required validation when submitted empty on BS6 Trucks","ListingPages - NewListingPages [bs6Trucks] [en] — BS6 Trucks","2026-08-21","failed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on CNG Trucks
+**Language:** en
+
+**Description:**
+Open the CNG Trucks page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the CNG Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2336","TC-CL-01: Check Truck Price lead submits successfully on CNG Trucks","CategoryPages - CategoryListing [cng] [en] — CNG Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on 22 Wheeler
+**Language:** en
+
+**Description:**
+Open the 22 Wheeler page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 22 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1238","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 22 Wheeler","CategoryPages - CategoryListing [twentyTwoWheeler] [en] — 22 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-05
+**Title:** Call Now lead submits successfully on Find New Trucks
+**Language:** en
+
+**Description:**
+Open the Find New Trucks listing page, click Call Now to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance lead form closes after a successful submission (verified via the real submit network call). The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Find New Trucks listing page
+2. Click Call Now to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","434","TC-NLP-05: Call Now lead submits successfully on Find New Trucks","ListingPages - NewListingPages [newTrucks] [en] — Find New Trucks","2026-08-21","broken","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on 22 Wheeler
+**Language:** en
+
+**Description:**
+Open the 22 Wheeler page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the 22 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","955","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 22 Wheeler","CategoryPages - CategoryListing [twentyTwoWheeler] [en] — 22 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-02
+**Title:** Check Truck Price lead submits successfully on Find New Trucks
+**Language:** en
+
+**Description:**
+Open the Find New Trucks listing page, click Check Truck Price to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Find New Trucks listing page
+2. Click Check Truck Price to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","2336","TC-NLP-02: Check Truck Price lead submits successfully on Find New Trucks","ListingPages - NewListingPages [newTrucks] [en] — Find New Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on LNG Trucks
+**Language:** en
+
+**Description:**
+Open the LNG Trucks page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the LNG Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1268","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on LNG Trucks","CategoryPages - CategoryListing [lng] [en] — LNG Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-SEO-05
+**Title:** Read Less is not shown before the About Truck Junction content is expanded
+**Language:** ta
+
+**Description:**
+Confirm the Read Less control is not present while the block is still collapsed.
+
+**Expected Result:**
+Read Less does not exist until Read More has been clicked.
+
+**Steps:**
+1. Open the About Truck Junction block
+2. Verify Read Less is not shown yet","195","TC-SEO-05: Read Less is not shown before the About Truck Junction content is expanded","SEO - HomePageSeoContent [ta]","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TSR-01
+**Title:** Check Truck Price lead submits successfully on Ashok Leyland Boss
+**Language:** en
+
+**Description:**
+Open the Ashok Leyland Boss page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Ashok Leyland Boss page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2297","TC-TSR-01: Check Truck Price lead submits successfully on Ashok Leyland Boss","CategoryPages - CategoryListingTruckSeries [ashokLeylandBoss] [en] — Ashok Leyland Boss","2026-08-21","passed","2026-08-21","","","",""
+"","3117","TC-CL-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListing [sixWheeler] [en] — 6 Wheeler","2026-08-21","passed","2026-08-21","","","",""
+"","3143","TC-TSR-00: page links resolve 200/30x; broken links are logged, not failed","CategoryPages - CategoryListingTruckSeries [ashokLeylandDost] [en] — Ashok Leyland Dost","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Auto Rickshaw
+**Language:** en
+
+**Description:**
+Open the Auto Rickshaw page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Auto Rickshaw page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1267","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Auto Rickshaw","CategoryPages - CategoryListing [autoRickshaw] [en] — Auto Rickshaw","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TSR-01
+**Title:** Check Truck Price lead submits successfully on Ashok Leyland Dost
+**Language:** en
+
+**Description:**
+Open the Ashok Leyland Dost page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the Ashok Leyland Dost page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","2356","TC-TSR-01: Check Truck Price lead submits successfully on Ashok Leyland Dost","CategoryPages - CategoryListingTruckSeries [ashokLeylandDost] [en] — Ashok Leyland Dost","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TBR-03
+**Title:** Check Truck Price lead form rejects mobile that is not 10 digits on Mahindra Trucks
+**Language:** en
+
+**Description:**
+Open the Mahindra Trucks page, open Check Truck Price, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Mahindra Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1791","TC-TBR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Mahindra Trucks","CategoryPages - CategoryListingBrands [mahindraBrand] [en] — Mahindra Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-TBR-02
+**Title:** Check Truck Price lead form shows required validation when submitted empty on Tata Trucks
+**Language:** en
+
+**Description:**
+Open the Tata Trucks page, open Check Truck Price, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Tata Trucks page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1338","TC-TBR-02: Check Truck Price lead form shows required validation when submitted empty on Tata Trucks","CategoryPages - CategoryListingBrands [tataBrand] [en] — Tata Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-CL-01
+**Title:** Check Truck Price lead submits successfully on 4 Wheeler
+**Language:** en
+
+**Description:**
+Open the 4 Wheeler page, click a truck card's ""Check Truck Price"" button to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open the 4 Wheeler page
+2. Click a truck card's ""Check Truck Price"" button to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify Thank You confirmation","3214","TC-CL-01: Check Truck Price lead submits successfully on 4 Wheeler","CategoryPages - CategoryListing [fourWheeler] [en] — 4 Wheeler","2026-08-21","passed","2026-08-21","","","",""

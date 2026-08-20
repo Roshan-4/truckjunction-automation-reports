@@ -1,0 +1,7 @@
+[Redirection Check] CategoryPages - Tata Trucks [en]: 5 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata/lpk -> 504
+  - https://trucks.tractorjunction.com/en/tractor/tata-trucks -> 504
+  - https://trucks.tractorjunction.com/en/dealers/tata/telangana/hyderabad -> 504
+  - https://trucks.tractorjunction.com/en/dealers/tata/bihar/patna -> 504
+  - https://infra.tractorjunction.com/?id=com.truckjunction&utm_medium=footer -> 502
