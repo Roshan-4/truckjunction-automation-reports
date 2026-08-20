@@ -1,0 +1,80 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1515","TC-NLP-04: Notify Me lead submits successfully on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","skipped","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-06
+**Title:** Check Offers lead form shows required validation when submitted empty on Best Trucks
+**Language:** en
+
+**Description:**
+Open the Best Trucks listing page, open Check Offers, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Best Trucks listing page
+2. Click Check Offers to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1881","TC-NLP-06: Check Offers lead form shows required validation when submitted empty on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-07
+**Title:** Check Offers lead form rejects mobile that is not 10 digits on Best Trucks
+**Language:** en
+
+**Description:**
+Open the Best Trucks listing page, open Check Offers, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Best Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","2137","TC-NLP-07: Check Offers lead form rejects mobile that is not 10 digits on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-01
+**Title:** Check Offers lead submits successfully on Best Trucks
+**Language:** en
+
+**Description:**
+Open the Best Trucks listing page, click Check Offers to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Best Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","7875","TC-NLP-01: Check Offers lead submits successfully on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","passed","2026-08-21","","","",""
+"","1336","TC-NLP-05: Call Now lead submits successfully on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","skipped","2026-08-21","","","",""
+"","7313","TC-NLP-00: page links resolve 200/30x; broken links are logged, not failed","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-02
+**Title:** Check Truck Price lead submits successfully on Best Trucks
+**Language:** en
+
+**Description:**
+Open the Best Trucks listing page, click Check Truck Price to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Best Trucks listing page
+2. Click Check Truck Price to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","7866","TC-NLP-02: Check Truck Price lead submits successfully on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","passed","2026-08-21","","","",""
+"**Test Case ID:** TC-NLP-03
+**Title:** Contact Seller lead submits successfully on Best Trucks
+**Language:** en
+
+**Description:**
+Open the Best Trucks listing page, click Contact Seller to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Best Trucks listing page
+2. Click Contact Seller to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","19219","TC-NLP-03: Contact Seller lead submits successfully on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-08-21","failed","2026-08-21","","","",""
