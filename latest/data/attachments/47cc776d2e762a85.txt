@@ -1,0 +1,7 @@
+[Redirection Check] CategoryPages - 10 Wheeler [en]: 5 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/scv -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/tyres -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/news -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/web-stories -> ERROR: fetch failed
+  - https://www.tractorjunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
