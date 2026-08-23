@@ -1,4 +1,0 @@
-[Redirection Check] Homepage - Electric Commercial Vehicles [hi]: 2 broken link(s) found
-(logged only — does not fail the test):
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
-  - https://www.tractorjunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed

@@ -1,4 +1,0 @@
-[Redirection Check] Homepage - Search The Right Truck [hi]: 2 broken link(s) found
-(logged only — does not fail the test):
-  - https://www.tractorjunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
-  - https://thebikejunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed

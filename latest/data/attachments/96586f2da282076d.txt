@@ -1,0 +1,4 @@
+[Redirection Check] Homepage - Electric Commercial Vehicles [hi]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/mahindra/bolero -> 502
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

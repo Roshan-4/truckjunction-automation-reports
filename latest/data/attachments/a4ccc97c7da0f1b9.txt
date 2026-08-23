@@ -1,0 +1,36 @@
+[Redirection Check] CategoryPages - CNG Trucks [en]: 34 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/buses/popular -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/bajaj-truck/maxima-c/review -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/tata-truck/1109g-lpt/review -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/atul-truck/rik-cng/review -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/bada-dost-xpress/review -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/maruti-suzuki-truck/super-carry/review -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/dost-cng/review -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-gold-cng/review -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/mahindra-truck/alfa-load-carrier-plus/review -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/tvs-truck/king-deluxe/review -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-gold-2250cng-plus/review -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/compare/tata+ace-gold-cng-vs-ashok-leyland+dost-cng -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/compare/mahindra+alfa-load-carrier-plus-vs-bajaj+maxima-c -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/compare/bajaj+maxima-c-vs-atul+gem-cargo-200-bi-fuel-cng -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/atul-truck/gem-cargo-200-bi-fuel-cng -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/used-truck/maruti-suzuki/super-carry-cng-standard-25607 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/used-truck/tata/709g-lpt-tt-25573 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/used-truck/tata/1109g-lpt-25534 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/used-truck/mahindra/bolero-maxitruck-cng-25482 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/news/tvs-king-kargo-hd-cng-vs-piaggio-ape-xtra-ht-cng-comparison -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/news/mahindra-supro-mini-truck-review-best-mini-truck-under-10-lakhs -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/news/mahindra-jeeto-strong-diesel-price-mileage-payload -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/news/tvs-king-kargo-hd-cng-launch-price-specs -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/videos/cng-vs-electric-15-sal-ka-anabhava-daraivara-na-btaya-kana-ha-sabsa-bsata-oita-lna-sa-pahalnprra-thakha -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/videos/top-5-eicher-trucks-2025-kamata-mailja-oura-facarasa-truck-junction -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/videos/gst-ka-btha-tapa-5-cng-oita-rakasha-top-5-cng-auto-rickshaw-2025 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/videos/tata-ace-vs-super-carry-aapaka-kama-ka-le-bsata-kana-ace-vs-super-carry-kana-ha-aapaka-kamaii-ka-satha -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/about-us -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/contact-us -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/sitemap -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/advertise-with-us -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/terms-and-condition -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/privacy-policy -> ERROR: fetch failed

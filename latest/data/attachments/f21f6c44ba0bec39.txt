@@ -1,0 +1,24 @@
+[Redirection Check] Homepage - Search The Right Truck [en]: 22 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/bharat-benz -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/tata-truck/winger-cargo -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/tata-truck/yodha-pickup -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/mahindra-truck/bolero-pikup-4x4 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/force-truck/tempo-traveller-3050 -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/?utm_source=bottom_nav&utm_medium=navigation&utm_campaign=homepage -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/brands?bottom_nav&utm_medium=navigation&utm_campaign=brands -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/new-trucks?bottom_nav&utm_medium=navigation&utm_campaign=new_trucks -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/compare?utm_source=bottom_nav&utm_medium=navigation&utm_campaign=compare -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/onroadprice?utm_source=bottom_nav&utm_medium=navigation&utm_campaign=on_road_price -> ERROR: fetch failed
+  - https://www.tractorjunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://thebikejunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://www.itoty.org/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://infra.tractorjunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://mycarjunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/about-us -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/contact-us -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/sitemap -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/advertise-with-us -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/terms-and-condition -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/privacy-policy -> ERROR: fetch failed

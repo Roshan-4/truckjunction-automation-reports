@@ -1,0 +1,3 @@
+[Redirection Check] UtilityPages - EMI Calculator [en]: 1 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/sell-used-truck -> 502

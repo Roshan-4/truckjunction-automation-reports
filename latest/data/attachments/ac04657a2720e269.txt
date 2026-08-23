@@ -1,5 +1,0 @@
-[Redirection Check] Homepage - Electric Commercial Vehicles [en]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://www.eulermotors.com/en/turbo?utm_source=marketing&utm_medium=truckjunction&utm_campaign=truckjunction_turbo_display_campaign -> 403
-  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
-  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

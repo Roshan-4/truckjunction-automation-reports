@@ -1,0 +1,6 @@
+[Redirection Check] CategoryPages - Mahindra Blazo [en]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/mahindra/furio -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/golf-cart -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/atul/gem -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/news -> ERROR: fetch failed

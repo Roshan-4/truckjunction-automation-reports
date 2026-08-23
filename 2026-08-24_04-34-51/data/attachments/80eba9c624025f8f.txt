@@ -1,0 +1,5 @@
+[Redirection Check] Homepage - Popular Truck Comparison [ta]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/tata -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/videos -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

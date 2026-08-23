@@ -1,0 +1,9 @@
+[Redirection Check] CategoryPages - LPG Trucks [en]: 7 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/e-challan-check-pay-online -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/buses/mahindra -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/buses/latest -> ERROR: fetch failed
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://thebikejunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed

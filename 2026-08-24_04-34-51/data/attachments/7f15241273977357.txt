@@ -1,0 +1,4 @@
+[Redirection Check] Brochure - Brochure [en]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/new-trucks -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/buses/latest -> ERROR: fetch failed

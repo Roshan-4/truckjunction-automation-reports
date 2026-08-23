@@ -1,0 +1,12 @@
+[Redirection Check] CategoryPages - Mahindra Trucks [en]: 10 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/latest-trucks -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/buses/mahindra -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/select-your-truck -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/6-wheeler -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/pickup/mahindra-trucks -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/e-rickshaw/mahindra-trucks -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/mahindra-truck/furio-16 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/news/mahindra-crosses-4-lakh-ev-sales -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/videos/2026-mahindra-udo-detailed-review-price-range-top-features-full-walkaround-truck-junction -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
