@@ -1,0 +1,5 @@
+[Redirection Check] Homepage - Search The Right Truck [hi]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/euler-truck/storm-ev -> 502
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
