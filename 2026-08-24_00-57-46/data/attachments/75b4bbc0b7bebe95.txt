@@ -1,0 +1,5 @@
+[Redirection Check] Buses - Popular Buses [en]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/buses/eicher/6016-r-lpo-chassis -> 502

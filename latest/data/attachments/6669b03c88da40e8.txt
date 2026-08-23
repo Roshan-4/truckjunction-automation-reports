@@ -1,3 +1,0 @@
-[Redirection Check] CategoryPages - Auto Rickshaw [en]: 1 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/used-truck/piaggio/ape-city-plus-3-seater1920lpg-4020 -> 502

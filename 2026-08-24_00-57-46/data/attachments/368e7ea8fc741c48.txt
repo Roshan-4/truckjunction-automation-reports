@@ -1,0 +1,4 @@
+[Redirection Check] UsedTruck - Buy Used Trucks [en]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed

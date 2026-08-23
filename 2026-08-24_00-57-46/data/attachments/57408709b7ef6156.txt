@@ -1,0 +1,8 @@
+[Redirection Check] CategoryPages - Tata Ace [en]: 6 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-gold -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-gold-2250cng-plus -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-gold-2100diesel-plus -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/5-ton-10-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/atul/shakti -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/sitemap -> ERROR: The operation was aborted due to timeout
