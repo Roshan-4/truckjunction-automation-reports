@@ -1,4 +1,0 @@
-[Redirection Check] UtilityPages - Select Your Truck [en]: 2 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/select-your-truck/agriculture-transportation -> 404
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

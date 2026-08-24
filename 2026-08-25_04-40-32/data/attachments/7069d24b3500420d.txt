@@ -1,0 +1,33 @@
+[Redirection Check] SEO - Homepage SEO Content [hi]: 31 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/eicher -> 502
+  - https://trucks.tractorjunction.com/hi/ashok-leyland/dost -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/10-wheeler -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/14-wheeler -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/16-wheeler -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/18-wheeler -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/diesel -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/petrol -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/icv -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/videos -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/blog/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/web-stories -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/videos/desh-ke-super-saarthis-salute-to-indias-truck-drivers-tata-motors -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/videos/tata-intra-v40-ac-full-review-features-payload-details-truck-junction -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/used-truck-in-patna -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/used-truck-in-pune -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/used-truck-in-hyderabad -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/used-truck-in-indore -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/used-truck-in-jaipur -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/used-truck-in-delhi -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/used-truck-in-bangalore -> ERROR: fetch failed
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://www.tractorjunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://thebikejunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/contact-us -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/sitemap -> ERROR: fetch failed
+  - https://play.google.com/store/apps/details?id=com.truckjunction -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/terms-and-condition -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/privacy-policy -> ERROR: fetch failed

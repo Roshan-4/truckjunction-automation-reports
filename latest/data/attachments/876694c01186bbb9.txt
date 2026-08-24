@@ -1,0 +1,4 @@
+[Redirection Check] Homepage - Popular Truck Brands [en]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/new-trucks -> 502
+  - https://trucks.tractorjunction.com/en/tvs -> 404

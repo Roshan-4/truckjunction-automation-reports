@@ -1,6 +1,0 @@
-[Redirection Check] CategoryPages - Hydrogen Trucks [en]: 4 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/eicher-truck/pro-3015-fuel-cell -> ERROR: fetch failed
-  - https://trucks.tractorjunction.com/en/used-truck/tata/prima-h28t-21214 -> ERROR: fetch failed
-  - https://trucks.tractorjunction.com/en/trucks -> ERROR: fetch failed
-  - https://trucks.tractorjunction.com/en/contact-us -> ERROR: fetch failed

@@ -1,8 +1,0 @@
-[Redirection Check] CategoryPages - LNG Trucks [en]: 6 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/tata-truck/prima-5528s -> ERROR: fetch failed
-  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/avtr-uf3522 -> ERROR: fetch failed
-  - https://trucks.tractorjunction.com/en/tata-truck/prima-5530-s-lng -> ERROR: fetch failed
-  - https://trucks.tractorjunction.com/en/tata-truck/prima-5528s/review -> ERROR: fetch failed
-  - https://trucks.tractorjunction.com/en/transit-mixer -> ERROR: fetch failed
-  - https://trucks.tractorjunction.com/en/about-us -> ERROR: fetch failed

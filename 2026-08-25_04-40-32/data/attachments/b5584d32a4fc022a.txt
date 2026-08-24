@@ -1,0 +1,5 @@
+[Redirection Check] UtilityPages - Tyres [en]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://www.tractorjunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://infra.tractorjunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
