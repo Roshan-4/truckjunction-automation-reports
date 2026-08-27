@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html dir="ltr" lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="allure-report-uuid" content="181d57ee-e2bb-4bb3-9501-e370dfa4b28d">
-    <title>Truck Junction Automation Report</title>
-    <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon.png">
-    
-    <!-- allure-core-head:start -->
-    <!-- allure-core-head:end -->
-    <link rel="stylesheet" type="text/css" href="plugin/custom-logo/styles.css">
-<style id="tj-allure-brand">/* Truck Junction Automation Report — official site logo (embedded SVG) */
+/* Truck Junction Automation Report — official site logo (embedded SVG) */
 .side-nav__brand {
   background: #ffffff !important;
   border-bottom: 1px solid #e5e7eb !important;
@@ -41,40 +29,3 @@
   background-size: contain !important;
   background-color: transparent !important;
 }
-</style>
-</head>
-<body>
-    <div id="alert"></div>
-    <div id="content">
-        <span class="spinner">
-            <span class="spinner__circle"></span>
-        </span>
-    </div>
-    <div id="popup"></div>
-    <!-- allure-core-body:start -->
-    <script>
-        window.__allureCoreLoaded = new Promise(function (resolve, reject) {
-        window.__allureResolveCoreLoaded = resolve;
-        window.__allureRejectCoreLoaded = reject;
-    });
-    </script>
-    <script src="assets/index-BraRl9ss.js"></script>
-    <script>
-        if (typeof window.__allureResolveCoreLoaded === "function") {
-            window.__allureResolveCoreLoaded([]);
-        }
-    </script>
-    <!-- allure-core-body:end -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FVWC4GKEYS"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-FVWC4GKEYS', {
-          'allureVersion': '2.43.0',
-          'reportUuid': '181d57ee-e2bb-4bb3-9501-e370dfa4b28d',
-          'single_file': false
-        });
-    </script>
-</body>
-</html>
