@@ -1,7 +1,0 @@
-[Redirection Check] SEO structure - News Article Detail [en] [en]: 5 broken link(s) found
-(logged only — does not fail the test):
-  - https://www.facebook.com/sharer.php?u=https://trucks.tractorjunction.com/en/news/eka-2-5t-electric-truck-range-payload-specifications -> ERROR: fetch failed
-  - https://api.whatsapp.com/send/?text=EKA%202.5T%3A%20Bharat%20Ki%20EVCV%20with%20180%20KM%20Range%20%26%201500%20KG%20Payload%20https%3A%2F%2Ftrucks.tractorjunction.com%2Fen%2Fnews%2Feka-2-5t-electric-truck-range-payload-specifications&type=custom_url&app_absent=0 -> ERROR: fetch failed
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
-  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
-  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

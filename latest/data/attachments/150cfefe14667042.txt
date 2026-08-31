@@ -1,5 +1,0 @@
-[Redirection Check] SEO structure - Tata Yodha 2.0 Reviews [ta] [ta]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/ta/buy-used-trucks -> 502
-  - https://trucks.tractorjunction.com/ta/tata/ace -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

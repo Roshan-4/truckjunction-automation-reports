@@ -1,0 +1,12 @@
+[Redirection Check] SEO structure - Brochure [en] [en]: 10 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/intra-v10 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/ultra-sleek-t6 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/710-lpt -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/ultra-t16-amt -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/euler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bharat-benz -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/mahindra-treo-xtra-range-battery-features-specifications -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/eicher-pro-6028-features-specs-price -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/tata-motors-drivn-electric-truck-leasing -> ERROR: The operation was aborted due to timeout
