@@ -1,0 +1,10 @@
+[Redirection Check] SEO structure - Latest Trucks [en] [en]: 8 broken link(s) found
+(logged only — does not fail the test):
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://www.itoty.org/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/sitemap -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/advertise-with-us -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/terms-and-condition -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/privacy-policy -> ERROR: fetch failed

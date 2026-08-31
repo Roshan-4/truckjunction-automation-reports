@@ -1,0 +1,44 @@
+[Redirection Check] SEO structure - Popular Truck Series [hi] [hi]: 42 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/tata -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/petrol -> 502
+  - https://trucks.tractorjunction.com/hi/videos -> 404
+  - https://trucks.tractorjunction.com/hi/tata-truck/712-sfc -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/710-sfc -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata/intra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland-truck/boss-1415-hb -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland-truck/ecomet-1215-he -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland-truck/partner-6-tyre -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland-truck/dost-plus-xl -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/supro-profit-truck-excel-cng-duo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/supro-profittruck-mini -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra/furio -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher/pro -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul-truck/shakti-cargo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul/elite -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul-truck/rik-lpg -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul-truck/rik-plus-cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul/rik -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/sml-isuzu-truck/sartaj-gs-5252 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/sml-isuzu/sartaj -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/sml-isuzu-truck/samrat-gs -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/volvo-truck/fm-500-6x4-puller -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/volvo-truck/fm-420-8x4-23-cu-m -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/blazo-x-40 -> 502
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/blazo-x-35-m-dura -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/blazo-x-42 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/blazo-x-49 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/bolero-pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/furio-8 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/furio-7-hd -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/furio-10 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/furio-11 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/furio-17 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher-truck/pro-3019-cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher-truck/pro-2049xp -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul-truck/gem-cargo-200-bi-fuel-cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul-truck/gem-cargo-cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul-truck/gem-paxx-petrol -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul-truck/gem-lpg -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul-truck/gem-cargo -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

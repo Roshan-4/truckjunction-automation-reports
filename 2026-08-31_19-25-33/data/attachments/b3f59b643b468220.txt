@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - Eka 3W Cargo Reviews [ta] [ta]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/compare/eka-mobility+3w-cargo-vs-mahindra+treo-zor -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

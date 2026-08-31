@@ -1,0 +1,5 @@
+[Redirection Check] SEO structure - 14 Wheeler [en] [en]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata-truck/signa-4225t -> 502
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

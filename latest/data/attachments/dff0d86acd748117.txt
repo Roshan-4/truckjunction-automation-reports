@@ -1,0 +1,5 @@
+[Redirection Check] UtilityPages - Tyres listing - JK Tyres [en]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/e-challan-check-pay-online -> 502
+  - https://trucks.tractorjunction.com/en/transit-mixer -> 502
+  - https://trucks.tractorjunction.com/en/scv -> 502

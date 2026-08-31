@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - 5 ton - 10 ton Trucks [en] [en]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/4-wheeler -> 502
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

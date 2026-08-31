@@ -1,0 +1,6 @@
+[Redirection Check] UtilityPages - Dealers [en]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/service-center -> 502
+  - https://trucks.tractorjunction.com/en/petrol -> 502
+  - https://trucks.tractorjunction.com/en/dealers/karnataka/bangalore -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

@@ -1,0 +1,8 @@
+[Redirection Check] SEO structure - Tata Yodha 2.0 Specifications [hi] [hi]: 6 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/buses/eicher -> 502
+  - https://trucks.tractorjunction.com/hi/8-wheeler -> 502
+  - https://trucks.tractorjunction.com/hi/offers -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

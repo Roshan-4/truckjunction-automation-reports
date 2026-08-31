@@ -1,0 +1,6 @@
+[Redirection Check] SEO structure - CV Permit [en] [en]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata -> 502
+  - https://trucks.tractorjunction.com/en/mahindra-truck/supro-profit-truck-excel -> 502
+  - https://vahan.parivahan.gov.in/vahanservice/vahan/ui/statevalidation/homepage.xhtml -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
