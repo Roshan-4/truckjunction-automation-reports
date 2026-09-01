@@ -1,6 +1,0 @@
-[Redirection Check] SEO structure - Body Makers [en] [en]: 4 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/tata-truck/ace-ev -> 502
-  - https://trucks.tractorjunction.com/en/bs-vi -> 502
-  - https://trucks.tractorjunction.com/en/mahindra/blazo -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

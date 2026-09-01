@@ -1,7 +1,0 @@
-[Redirection Check] SEO structure - 20 ton - 40 ton Trucks [en] [en]: 5 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/select-your-truck/milk-transportation -> 502
-  - https://trucks.tractorjunction.com/en/compare -> 502
-  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
-  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

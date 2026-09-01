@@ -1,6 +1,0 @@
-[Redirection Check] Homepage - Popular Second Hand Truck [en]: 4 broken link(s) found
-(logged only — does not fail the test):
-  - https://www.eulermotors.com/en/turbo?utm_source=marketing&utm_medium=truckjunction&utm_campaign=truckjunction_turbo_display_campaign -> 403
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
-  - https://www.itoty.org/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
-  - https://infra.tractorjunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed

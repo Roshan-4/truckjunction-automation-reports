@@ -1,4 +1,0 @@
-[Redirection Check] CategoryPages - HCV [en]: 2 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/select-your-truck -> 502
-  - https://trucks.tractorjunction.com/en/tata-truck/signa-2823k-hd-9s/review -> 502

@@ -1,6 +1,0 @@
-[Redirection Check] SEO structure - Sell Used Trucks [hi] [hi]: 4 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/tata-truck/ace-ev -> 502
-  - https://trucks.tractorjunction.com/hi/commercial-vehicle-series -> 502
-  - https://trucks.tractorjunction.com/hi/brands?bottom_nav&utm_medium=navigation&utm_campaign=brands -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

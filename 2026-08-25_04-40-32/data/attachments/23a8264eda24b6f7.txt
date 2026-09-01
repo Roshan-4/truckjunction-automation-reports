@@ -1,7 +1,0 @@
-[Redirection Check] CategoryPages - Ashok Leyland Boss [en]: 5 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/new-trucks -> 502
-  - https://trucks.tractorjunction.com/en/upcoming-trucks -> 502
-  - https://trucks.tractorjunction.com/en/4-wheeler -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/en/videos -> 404
-  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/boss-1215-hb -> ERROR: The operation was aborted due to timeout

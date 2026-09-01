@@ -1,4 +1,0 @@
-[Redirection Check] PDP - New Truck PDP (Tata Yodha 2.0) [en]: 2 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/lng -> 502
-  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/bada-dost-i6 -> 502

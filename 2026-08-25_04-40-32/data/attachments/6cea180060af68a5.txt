@@ -1,5 +1,0 @@
-[Redirection Check] CategoryPages - Mahindra Trucks [en]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/sitemap -> ERROR: The operation was aborted due to timeout
-  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
-  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

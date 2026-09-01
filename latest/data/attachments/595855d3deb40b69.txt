@@ -1,3 +1,0 @@
-[Redirection Check] SEO structure - Electric Vehicle [en] [en]: 1 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/piaggio-truck/ape-e-city-fx -> 502

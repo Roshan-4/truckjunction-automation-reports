@@ -1,7 +1,0 @@
-[Redirection Check] CategoryPages - 3 Wheeler [en]: 5 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/buses/brands -> 502
-  - https://trucks.tractorjunction.com/en/buses/latest -> 502
-  - https://trucks.tractorjunction.com/en/3-wheeler/sn-solar-energy-trucks -> 502
-  - https://trucks.tractorjunction.com/en/bajaj-truck/compact-re -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

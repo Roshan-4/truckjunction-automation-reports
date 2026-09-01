@@ -1,5 +1,0 @@
-[Redirection Check] CategoryPages - Electric Commercial Vehicles [en]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/buses/ashok-leyland -> ERROR: fetch failed
-  - https://trucks.tractorjunction.com/en/mahindra-truck/zor-grand/review -> ERROR: fetch failed
-  - https://trucks.tractorjunction.com/en/mahindra-truck/e-alfa-plus/review -> ERROR: fetch failed

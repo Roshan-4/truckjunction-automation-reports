@@ -1,5 +1,0 @@
-[Redirection Check] CategoryPages - Mahindra Bolero [en]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/8-wheeler -> 502
-  - https://trucks.tractorjunction.com/en/select-your-truck/construction -> 502
-  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
