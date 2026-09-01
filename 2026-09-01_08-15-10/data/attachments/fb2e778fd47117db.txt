@@ -1,0 +1,5 @@
+[Redirection Check] SEO structure - Dealers [hi] [hi]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/mahindra -> 502
+  - https://trucks.tractorjunction.com/hi/buses/tata -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

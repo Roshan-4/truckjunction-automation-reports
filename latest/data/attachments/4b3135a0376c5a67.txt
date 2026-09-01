@@ -1,0 +1,36 @@
+[Redirection Check] CategoryPages - 3 Wheeler [en]: 34 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/popular-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/new-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/latest-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tippers -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/auto-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tempo-traveller -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/4-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/12-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/22-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/lng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/lcv -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/icv -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/videos -> 404
+  - https://trucks.tractorjunction.com/en/3-wheeler/osm-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/3-wheeler/mahindra-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/3-wheeler/baxy-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/3-wheeler/mayuri-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/3-wheeler/sn-solar-energy-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/3-wheeler/gkon-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/3-wheeler/city-life-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/3-wheeler/mini-metro-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/3-wheeler/bajaj-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/euler-truck/neo-hirange -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bajaj-truck/wego-p9018 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/supertech-truck/passenger-maxx -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/saarthi-truck/dlx -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/piaggio -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/thukral-electric -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/montra-electric -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/jsa -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/videos/indias-first-ai-powered-intelligent-truck-mahindra-blazo-i-trk-range-launched-review-features -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/videos/desh-ke-super-saarthis-salute-to-indias-truck-drivers-tata-motors -> ERROR: The operation was aborted due to timeout

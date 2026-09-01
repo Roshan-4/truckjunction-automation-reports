@@ -1,0 +1,48 @@
+[Redirection Check] SEO structure - Tata Yodha 2.0 Reviews [hi] [hi]: 46 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/trucks -> 404
+  - https://trucks.tractorjunction.com/hi/tata -> 500
+  - https://trucks.tractorjunction.com/hi/ashok-leyland -> 404
+  - https://trucks.tractorjunction.com/hi/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra -> 404
+  - https://trucks.tractorjunction.com/hi/tata-truck/yodha-2-0 -> 404
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/zeo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/popular-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/latest-trucks -> 404
+  - https://trucks.tractorjunction.com/hi/compare -> 404
+  - https://trucks.tractorjunction.com/hi/3-wheeler -> 404
+  - https://trucks.tractorjunction.com/hi/buses/eicher -> 404
+  - https://trucks.tractorjunction.com/hi/buses -> 404
+  - https://trucks.tractorjunction.com/hi/buses/popular -> 404
+  - https://trucks.tractorjunction.com/hi/buses/upcoming -> 404
+  - https://trucks.tractorjunction.com/hi/spare-parts -> 404
+  - https://trucks.tractorjunction.com/hi/commercial-vehicle-by-brand-and-ton -> 404
+  - https://trucks.tractorjunction.com/hi/tata/ace -> 404
+  - https://trucks.tractorjunction.com/hi/mahindra/bolero -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland/dost -> 404
+  - https://trucks.tractorjunction.com/hi/tractor -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mini-truck -> 404
+  - https://trucks.tractorjunction.com/hi/pickup -> 404
+  - https://trucks.tractorjunction.com/hi/transit-mixer -> 404
+  - https://trucks.tractorjunction.com/hi/8-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/14-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/16-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/22-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/diesel -> 404
+  - https://trucks.tractorjunction.com/hi/petrol -> 404
+  - https://trucks.tractorjunction.com/hi/lpg -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/offers -> 404
+  - https://trucks.tractorjunction.com/hi/compare/tata+yodha-2-0-vs-tata+yodha-pickup -> 404
+  - https://trucks.tractorjunction.com/hi/bharat-benz -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/volvo -> 404
+  - https://trucks.tractorjunction.com/hi/scania -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/kinetic -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tvs -> 404
+  - https://trucks.tractorjunction.com/hi/isuzu -> 500
+  - https://trucks.tractorjunction.com/hi/piaggio -> 404
+  - https://trucks.tractorjunction.com/hi/tata-truck/winger-cargo -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/advertise-with-us -> 404
+  - https://trucks.tractorjunction.com/hi/terms-and-condition -> 404
+  - https://trucks.tractorjunction.com/hi/privacy-policy -> 404

@@ -1,0 +1,11 @@
+[Redirection Check] Homepage - The Buzz Board [hi]: 9 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/videos -> 404
+  - https://trucks.tractorjunction.com/hi/tata-truck/signa-5530s-4x2 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/ultra-t14-lng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/ace-gold-cx -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/used-truck-in-pune -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/used-truck-in-hyderabad -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/intra-v20-gold -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
+  - https://trucks.tractorjunction.com/hi/brands?bottom_nav&utm_medium=navigation&utm_campaign=brands -> 404

@@ -1,0 +1,7 @@
+[Redirection Check] SEO structure - EMI Calculator [ta] [ta]: 5 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/buses/eicher -> 502
+  - https://trucks.tractorjunction.com/ta/buses -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

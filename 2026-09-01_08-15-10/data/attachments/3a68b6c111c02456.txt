@@ -1,0 +1,8 @@
+[Redirection Check] SEO structure - 4 Wheeler [ta] [ta]: 6 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/mahindra/blazo -> 502
+  - https://trucks.tractorjunction.com/ta/4-wheeler/switch-mobility-trucks -> 502
+  - https://trucks.tractorjunction.com/ta/under-40-lakh -> 502
+  - https://trucks.tractorjunction.com/ta/tata-truck/winger -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

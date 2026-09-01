@@ -1,0 +1,63 @@
+[Redirection Check] UtilityPages - Tyres listing - MRF Tyres [en]: 61 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/login -> 500
+  - https://trucks.tractorjunction.com/en/tata -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/brands -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/zeo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/popular-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/new-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/brochure -> 404
+  - https://trucks.tractorjunction.com/en/buy-used-trucks -> 404
+  - https://trucks.tractorjunction.com/en/electric -> 404
+  - https://trucks.tractorjunction.com/en/3-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/buses/ashok-leyland -> 404
+  - https://trucks.tractorjunction.com/en/buses/brands -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/emi-calculator -> 404
+  - https://trucks.tractorjunction.com/en/commercial-vehicle-by-brand-and-ton -> 404
+  - https://trucks.tractorjunction.com/en/tata/ace -> 404
+  - https://trucks.tractorjunction.com/en/mahindra/blazo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/bolero -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/dost -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/commercial-vehicle-series -> 404
+  - https://trucks.tractorjunction.com/en/tippers -> 404
+  - https://trucks.tractorjunction.com/en/tractor -> 404
+  - https://trucks.tractorjunction.com/en/mini-truck -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/pickup -> 404
+  - https://trucks.tractorjunction.com/en/transit-mixer -> 404
+  - https://trucks.tractorjunction.com/en/auto-rickshaw -> 404
+  - https://trucks.tractorjunction.com/en/4-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/8-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/10-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/12-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/14-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/16-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/18-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/22-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/diesel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/lpg -> 404
+  - https://trucks.tractorjunction.com/en/lng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/hydrogen -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bi-fuel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/scv -> 404
+  - https://trucks.tractorjunction.com/en/icv -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news -> 404
+  - https://trucks.tractorjunction.com/en/videos -> 404
+  - https://trucks.tractorjunction.com/web-stories -> 404
+  - https://trucks.tractorjunction.com/en/offers -> 404
+  - https://trucks.tractorjunction.com/en/mrf-tyres/super-miler-99 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mrf-tyres/sand-grip -> 404
+  - https://trucks.tractorjunction.com/en/mrf-tyres/m-77 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mrf-tyres/steel-muscle-s1m4 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mrf-tyres/super-lug-999 -> 404
+  - https://trucks.tractorjunction.com/en/apollo-tyres -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/continental-tyres -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/dunlop-tyres -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mrf-tyres/musclerok-x -> 404
+  - https://trucks.tractorjunction.com/en/mrf-tyres/super-lug-fifty-plus -> 404
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

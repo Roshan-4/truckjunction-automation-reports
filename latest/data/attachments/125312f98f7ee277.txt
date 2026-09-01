@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - Ashok Leyland Boss [ta] [ta]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/pickup -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - Brand And Tonnage [ta] [ta]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/select-your-truck -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

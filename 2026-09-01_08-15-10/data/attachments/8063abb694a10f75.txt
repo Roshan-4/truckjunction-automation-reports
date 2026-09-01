@@ -1,0 +1,5 @@
+[Redirection Check] UtilityPages - Popular Truck Series [en]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata-truck/magic-ev -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

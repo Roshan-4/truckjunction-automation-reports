@@ -1,0 +1,18 @@
+[Redirection Check] SEO structure - Tata Yodha 2.0 [ta] [ta]: 16 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/brands -> 404
+  - https://trucks.tractorjunction.com/ta/mini-truck -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/6-wheeler -> 502
+  - https://trucks.tractorjunction.com/ta/12-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/bi-fuel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata-truck/yodha-pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata/prima -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata/intra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/1-ton-2.5-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/5-ton-10-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/mahindra/supro -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/eicher/pro -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/sml-isuzu/samrat -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

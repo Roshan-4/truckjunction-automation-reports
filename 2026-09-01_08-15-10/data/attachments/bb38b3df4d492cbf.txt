@@ -1,0 +1,5 @@
+[Redirection Check] Homepage - Find Reliable Used Trucks Near You [ta]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/login -> 502
+  - https://trucks.tractorjunction.com/ta/scv -> 502
+  - https://trucks.tractorjunction.com/ta/privacy-policy -> 502

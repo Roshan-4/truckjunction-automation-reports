@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - Petrol Trucks [ta] [ta]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/buses/mahindra -> 502
+  - https://trucks.tractorjunction.com/ta/tata-truck/magic-mantra/review -> 502

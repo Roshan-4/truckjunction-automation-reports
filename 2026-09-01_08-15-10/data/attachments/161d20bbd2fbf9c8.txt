@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - Offers [en] [en]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/offers/mahindra-treo-xtra-discount-offers -> 502
+  - https://trucks.tractorjunction.com/en/offers -> 502

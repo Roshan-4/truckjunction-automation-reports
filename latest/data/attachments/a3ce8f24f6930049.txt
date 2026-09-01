@@ -1,0 +1,16 @@
+[Redirection Check] SEO structure - Tempo Traveller [en] [en]: 14 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/buses/tata -> 404
+  - https://trucks.tractorjunction.com/en/mahindra/bolero -> 404
+  - https://trucks.tractorjunction.com/en/tempo-traveller -> 404
+  - https://trucks.tractorjunction.com/en/cng -> 404
+  - https://trucks.tractorjunction.com/en/lng -> 404
+  - https://trucks.tractorjunction.com/en/tyres -> 404
+  - https://trucks.tractorjunction.com/en/tata-truck/magic-gold -> 404
+  - https://trucks.tractorjunction.com/en/tempo-traveller/tata-trucks -> 404
+  - https://trucks.tractorjunction.com/en/1-ton-2.5-ton-trucks -> 404
+  - https://trucks.tractorjunction.com/en/maruti-suzuki -> 404
+  - https://trucks.tractorjunction.com/en/force-truck/urbania/review -> 404
+  - https://trucks.tractorjunction.com/en/videos/tata-intra-v40-ac-full-review-features-payload-details-truck-junction -> 500
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://play.google.com/store/apps/details?id=com.truckjunction -> ERROR: fetch failed

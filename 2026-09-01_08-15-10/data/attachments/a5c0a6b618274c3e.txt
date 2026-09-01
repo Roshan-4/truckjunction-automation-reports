@@ -1,0 +1,4 @@
+[Redirection Check] Homepage - Find Reliable Used Trucks Near You [ta]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/tata-truck/ace-gold-20-bi-fuel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/14-wheeler -> ERROR: The operation was aborted due to timeout

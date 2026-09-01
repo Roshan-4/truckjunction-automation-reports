@@ -1,0 +1,6 @@
+[Redirection Check] SEO structure - About Us [ta] [ta]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/tata/ace -> 502
+  - https://trucks.tractorjunction.com/web-stories -> 502
+  - https://trucks.tractorjunction.com/ta/about-us -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

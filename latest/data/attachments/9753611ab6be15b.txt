@@ -1,0 +1,5 @@
+[Redirection Check] SEO structure - CV Permit [ta] [ta]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://vahan.parivahan.gov.in/vahanservice/vahan/ui/statevalidation/homepage.xhtml -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/18-wheeler -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

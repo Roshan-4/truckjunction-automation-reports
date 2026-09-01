@@ -1,0 +1,6 @@
+[Redirection Check] CategoryPages - 22 Wheeler [en]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/pickup -> 404
+  - https://trucks.tractorjunction.com/en/bi-fuel -> 404
+  - https://trucks.tractorjunction.com/en/news/electric-truck-parts-names-functions -> 404
+  - https://trucks.tractorjunction.com/en/news/bajaj-wego-p7012-electric-auto-range-price-features -> 404
