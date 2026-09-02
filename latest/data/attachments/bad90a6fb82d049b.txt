@@ -1,0 +1,5 @@
+[Redirection Check] SEO structure - 6 Wheeler [en] [en]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/bharat-benz-truck/5528t-4x2 -> 502
+  - https://trucks.tractorjunction.com/en/6-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

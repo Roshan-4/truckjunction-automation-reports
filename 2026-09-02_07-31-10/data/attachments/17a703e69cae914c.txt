@@ -1,0 +1,19 @@
+[Redirection Check] SEO structure - Eicher Trucks [hi] [hi]: 17 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/latest-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/bi-fuel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher-truck/pro-6055 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher-truck/pro-2050 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher-truck/pro-2095 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/4-wheeler/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/12-wheeler/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher-truck/pro-2059 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher-truck/pro-2055-ev -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/bharat-benz -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/volvo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/transit-mixer/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher-truck/108 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/ultra-2821t -> ERROR: The operation was aborted due to timeout
+  - https://thebikejunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: The operation was aborted due to timeout

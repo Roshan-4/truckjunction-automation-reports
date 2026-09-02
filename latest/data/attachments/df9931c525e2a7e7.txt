@@ -1,0 +1,5 @@
+[Redirection Check] SEO structure - 14 Wheeler [hi] [hi]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/ashok-leyland-truck/4225-tipper -> 502
+  - https://trucks.tractorjunction.com/hi/mini-truck -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

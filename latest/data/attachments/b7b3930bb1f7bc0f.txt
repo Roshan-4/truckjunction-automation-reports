@@ -1,0 +1,70 @@
+[Redirection Check] Homepage - Electric Commercial Vehicles [en]: 68 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/brands -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/supro-profit-truck-excel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/sell-used-truck -> 502
+  - https://trucks.tractorjunction.com/en/electric -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/3-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/ace -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/blazo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/bolero -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/dost -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tractor -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mini-truck -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/transit-mixer -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tempo-traveller -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/8-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/10-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/12-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/14-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/16-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/18-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/hydrogen -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bi-fuel -> ERROR: The operation was aborted due to timeout
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/news/tata-motors-cv-sales-report-august-2026 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/tata-motors-drivn-electric-truck-leasing -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/maruti-suzuki-eeco-vs-tata-magic-express -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/euler-truck/hiload-ev-x -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/signa-5530s -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/signa-5530s-4x2 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/zor-grand -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bajaj -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-ev-1000 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/treo-plus -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/treo-zor -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bajaj-truck/maxima-x-wide -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ogata-motors-truck/dlx -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/gkon-truck/pro -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/kinetic-truck/super-dx -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/jezza-truck/super-j1000 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-gold-cx -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-gold-diesel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/magic-ev -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/saathi -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/used-truck-in-patna -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/used-truck-in-indore -> 404
+  - https://trucks.tractorjunction.com/en/used-truck-in-lucknow -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/used-truck-in-bangalore -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-gold-20-bi-fuel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/intra-v20-bi-fuel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/supro-profit-truck-excel-cng-duo -> 404
+  - https://trucks.tractorjunction.com/en/tata-truck/intra-v30-gold -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bharat-benz-truck/1015r -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/ecomet-1615-he -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bharat-benz -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/piaggio -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/yodha-pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/force-truck/tempo-traveller-3050 -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/brands?bottom_nav&utm_medium=navigation&utm_campaign=brands -> ERROR: The operation was aborted due to timeout
+  - https://thebikejunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: The operation was aborted due to timeout

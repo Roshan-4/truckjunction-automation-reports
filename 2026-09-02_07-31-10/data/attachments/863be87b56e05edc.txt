@@ -1,0 +1,6 @@
+[Redirection Check] SEO structure - Tata Yodha 2.0 Images [en] [en]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/pickup -> 502
+  - https://trucks.tractorjunction.com/en/tata-truck/yodha-1700-bs6/images -> 404
+  - https://trucks.tractorjunction.com/en/compare/tata+yodha-2-0-vs-tata+yodha-1700-bs6 -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

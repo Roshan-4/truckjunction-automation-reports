@@ -1,0 +1,16 @@
+[Redirection Check] SEO structure - Compare Trucks [hi] [hi]: 14 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata/ace -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/10-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/tata-truck/signa-5530s -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/jeeto -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland-truck/4220-tipper -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul-truck/gem-cargo -> ERROR: The operation was aborted due to timeout
+  - https://thebikejunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://www.itoty.org/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

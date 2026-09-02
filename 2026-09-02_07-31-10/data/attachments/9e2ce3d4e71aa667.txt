@@ -1,0 +1,13 @@
+[Redirection Check] Homepage - Latest Truck Updates [ta]: 11 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/mahindra/bolero -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/mini-truck -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/bi-fuel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/used-truck-in-pune -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/used-truck-in-hyderabad -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/used-truck-in-indore -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/used-truck-in-jaipur -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/used-truck-in-delhi -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/used-truck-in-bangalore -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
+  - https://trucks.tractorjunction.com/ta/sitemap -> ERROR: The operation was aborted due to timeout

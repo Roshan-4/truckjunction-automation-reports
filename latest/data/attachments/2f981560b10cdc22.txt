@@ -1,3 +1,0 @@
-[Redirection Check] SEO structure - Brochure [en] [en]: 1 broken link(s) found
-(logged only — does not fail the test):
-  - https://www.itoty.org/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed

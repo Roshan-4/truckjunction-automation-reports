@@ -1,0 +1,31 @@
+[Redirection Check] SEO structure - News [hi] [hi]: 29 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/supro-profit-truck-excel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/ace-ev -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/upcoming-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/brochure -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/buy-used-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata/ace -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra/blazo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra/bolero -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland/dost -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mini-truck -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tempo-traveller -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/4-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/6-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/12-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/14-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/petrol -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/offers -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/news/force-urbania-vs-tata-winger-15-seater-comparison -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/news/mahindra-udo-vs-treo-plus-price-range-features -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/news/mahindra-vs-bajaj-vs-tvs-electric-auto-2026 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/news/major-challenges-of-indian-logistics-sector -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/news/increase-in-truck-freight-new-rate-of-truck-union-2023 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/news/dairy-industries-get-support-from-ev-cost-reduced-drastically -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/news/volvo-luxury-buses-for-setc-tamil-nadu -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/sitemap -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

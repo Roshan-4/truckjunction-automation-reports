@@ -1,0 +1,52 @@
+[Redirection Check] UtilityPages - Tyres [en]: 50 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/brands -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/supro-profit-truck-excel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-ev -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/popular-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/upcoming-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/brochure -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/buy-used-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/3-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/buses/brands -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/buses/latest -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/service-center -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/ace -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/blazo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/bolero -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tractor -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mini-truck -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/transit-mixer -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/auto-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tempo-traveller -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/4-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/8-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/10-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/14-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/16-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/18-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/diesel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/petrol -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/lpg -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/hydrogen -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bi-fuel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/icv -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/videos -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/continental-tyres/hdw2 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/apollo-tyres/alt-118 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/apollo-tyres/endu-trax-ma -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/dunlop-tyres -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/about-us -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/contact-us -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/sitemap -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.linkedin.com/company/truck-junction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/advertise-with-us -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/terms-and-condition -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/privacy-policy -> ERROR: fetch failed

@@ -1,0 +1,14 @@
+[Redirection Check] UtilityPages - All Authors [en]: 12 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/brochure -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/buses/brands -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/scv -> ERROR: The operation was aborted due to timeout
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/authors/rakesh-khandelwal -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/blazo-x-28-tipper -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/t12g-ultra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/sitemap -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

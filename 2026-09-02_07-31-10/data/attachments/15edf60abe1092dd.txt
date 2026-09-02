@@ -1,0 +1,13 @@
+[Redirection Check] SEO structure - Ashok Leyland Dost [hi] [hi]: 11 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/mahindra -> 500
+  - https://trucks.tractorjunction.com/hi/transit-mixer -> 404
+  - https://trucks.tractorjunction.com/hi/auto-rickshaw -> 404
+  - https://trucks.tractorjunction.com/hi/8-wheeler -> 404
+  - https://trucks.tractorjunction.com/hi/isuzu -> 404
+  - https://trucks.tractorjunction.com/hi/under-15-lakh -> 404
+  - https://trucks.tractorjunction.com/hi/tata/lpt -> 404
+  - https://trucks.tractorjunction.com/hi/tata/ultra -> 404
+  - https://trucks.tractorjunction.com/hi/eicher/pro -> 404
+  - https://trucks.tractorjunction.com/hi/news/new-truck-buyer-guide -> 404
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

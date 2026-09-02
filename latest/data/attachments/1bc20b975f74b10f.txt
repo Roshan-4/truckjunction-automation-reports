@@ -1,0 +1,7 @@
+[Redirection Check] CategoryPages - Hydrogen Trucks [en]: 5 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/brochure -> ERROR: The operation was aborted due to timeout
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/sitemap -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

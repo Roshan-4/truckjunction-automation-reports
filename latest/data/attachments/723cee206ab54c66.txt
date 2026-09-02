@@ -1,0 +1,23 @@
+[Redirection Check] Homepage - Latest Models by Category [hi]: 21 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/brochure -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/auto-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/16-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/offers -> ERROR: The operation was aborted due to timeout
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/tata-truck/ace-gold -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/compare/tata+intra-v20-gold-vs-tata+intra-v20-bi-fuel -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/tata-truck/intra-v20-bi-fuel -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/supro-profit-truck-excel-cng-duo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/bolero-pikup-4x4 -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/onroadprice?utm_source=bottom_nav&utm_medium=navigation&utm_campaign=on_road_price -> ERROR: fetch failed
+  - https://www.tractorjunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/about-us -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/contact-us -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/sitemap -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/advertise-with-us -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/terms-and-condition -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/privacy-policy -> ERROR: fetch failed

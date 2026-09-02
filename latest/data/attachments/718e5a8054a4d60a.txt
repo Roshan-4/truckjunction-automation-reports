@@ -1,0 +1,5 @@
+[Redirection Check] SEO structure - Dealers [en] [en]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/electric -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

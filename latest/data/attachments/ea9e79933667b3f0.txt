@@ -1,0 +1,33 @@
+[Redirection Check] SEO structure - Tempo Traveller [hi] [hi]: 31 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/tempo-traveller/tata-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/6-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/force -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/maruti-suzuki -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/latest-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/3-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tractor -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/golf-cart -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/electric/tempo-traveller -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/news/best-tempo-traveller-models-and-prices -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/news/top-5-force-tempo-travelers-in-india-with-more-seater -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/news/top-5-tempo-travelers-in-india-which-give-strong-mileage-at-low-cost -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/supro-profit-truck-excel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/bs-vi -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/commercial-vehicle-by-brand-and-ton -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata/ace -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra/blazo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra/bolero -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/12-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/16-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/diesel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/petrol -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/cng -> ERROR: The operation was aborted due to timeout
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/maruti-suzuki-truck/eeco-cargo -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

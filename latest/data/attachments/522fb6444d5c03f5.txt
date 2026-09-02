@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - 10 Wheeler [ta] [ta]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/10-wheeler/ashok-leyland-trucks -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

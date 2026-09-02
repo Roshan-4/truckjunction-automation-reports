@@ -1,0 +1,6 @@
+[Redirection Check] SEO structure - Mini Trucks [en] [en]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://play.google.com/store/apps/details?id=com.truckjunction -> ERROR: fetch failed
