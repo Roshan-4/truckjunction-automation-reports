@@ -1,4 +1,0 @@
-H1: Truck EMI Calculator
-H2: Calculate Your EMI
-H3: About Commercial Vehicle EMI Calculator
-H2: Frequently Asked Questions on Commercial Vehicle EMI Calculator

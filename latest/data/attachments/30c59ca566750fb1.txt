@@ -1,3 +1,0 @@
-[Redirection Check] SEO structure - Tata Trucks [ta] [ta]: 1 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/ta/mahindra-truck/bolero-pikup-4x4 -> 502

@@ -1,0 +1,12 @@
+[Redirection Check] UtilityPages - Popular Truck Series [en]: 10 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-pro-ev -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/t12g-ultra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/610-sfc -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/610-sfc-tt -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/winger-15-seater -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/bada-dost-i3-plus-with-lnt -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/bada-dost-i4 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/furio-12 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/furio-11 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/atul-truck/gem-cargo-cng-aqua-6f -> ERROR: The operation was aborted due to timeout

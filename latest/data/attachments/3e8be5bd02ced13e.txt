@@ -1,5 +1,0 @@
-[Redirection Check] SEO structure - EMI Calculator [hi] [hi]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/spare-parts -> 502
-  - https://trucks.tractorjunction.com/hi/hydrogen -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

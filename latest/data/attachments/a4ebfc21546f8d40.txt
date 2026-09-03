@@ -1,5 +1,0 @@
-[Redirection Check] SEO structure - Homepage [hi] [hi]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/6-wheeler -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/hi/news/tata-lpt-4825-vs-4925-truck-compare-price-features-and-specifications -> ERROR: The operation was aborted due to timeout
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

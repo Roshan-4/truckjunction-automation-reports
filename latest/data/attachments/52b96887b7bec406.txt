@@ -1,9 +1,0 @@
-[Redirection Check] SEO structure - LNG Trucks [hi] [hi]: 7 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/trucks -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/hi/buy-used-trucks -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/hi/mahindra/blazo -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/hi/mahindra/bolero -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/hi/auto-rickshaw -> ERROR: The operation was aborted due to timeout
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
-  - https://www.linkedin.com/company/truck-junction/ -> 429

@@ -1,5 +1,0 @@
-[Redirection Check] SEO structure - Popular Buses [ta] [ta]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/login -> 502
-  - https://trucks.tractorjunction.com/ta/buses/ashok-leyland/cheetah -> 502
-  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed

@@ -1,5 +1,0 @@
-[Redirection Check] SEO structure - Electric Vehicle [hi] [hi]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/videos/montra-super-auto-review-thamathara-ijana-oura-jabrathasata-mailja-val-auto -> 502
-  - https://www.linkedin.com/company/truck-junction/ -> 429
-  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

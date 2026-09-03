@@ -1,5 +1,0 @@
-[Redirection Check] SEO structure - Best Trucks [ta] [ta]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/ta/10-wheeler -> 502
-  - https://trucks.tractorjunction.com/ta/eicher-truck/pro-6048/review -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
