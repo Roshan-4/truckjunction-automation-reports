@@ -1,0 +1,8 @@
+[Redirection Check] SEO structure - 5 ton - 10 ton Trucks [ta] [ta]: 6 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://trucks.tractorjunction.com/ta/new-trucks/ -> 502
+  - https://trucks.tractorjunction.com/ta/eka-mobility -> 500
+  - https://trucks.tractorjunction.com/ta/switch-mobility -> 500
+  - https://trucks.tractorjunction.com/ta/force -> 500
+  - https://trucks.tractorjunction.com/ta/osm -> 500

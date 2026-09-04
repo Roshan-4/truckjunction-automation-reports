@@ -1,3 +1,0 @@
-[Redirection Check] PDP - Eka 3W Cargo Price in Mumbai [en]: 1 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/compare/eka-mobility+3w-cargo-vs-lohia+narain-cargo -> 502

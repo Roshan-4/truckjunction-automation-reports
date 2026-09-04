@@ -1,0 +1,10 @@
+[Redirection Check] SEO structure - Ashok Leyland Dost [hi] [hi]: 8 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/force -> 500
+  - https://trucks.tractorjunction.com/hi/montra-electric -> 500
+  - https://trucks.tractorjunction.com/hi/euler -> 500
+  - https://trucks.tractorjunction.com/hi/isuzu -> 500
+  - https://trucks.tractorjunction.com/hi/maruti-suzuki -> 500
+  - https://trucks.tractorjunction.com/hi/jupiter -> 500
+  - https://trucks.tractorjunction.com/hi/16-wheeler -> 502
+  - https://trucks.tractorjunction.com/hi/eicher -> 500

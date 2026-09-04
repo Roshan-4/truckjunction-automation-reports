@@ -1,0 +1,10 @@
+[Redirection Check] SEO structure - Trailers [hi] [hi]: 8 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/eicher -> 500
+  - https://trucks.tractorjunction.com/hi/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/hi/volvo -> 500
+  - https://trucks.tractorjunction.com/hi/scania -> 500
+  - https://trucks.tractorjunction.com/hi/montra-electric -> 500
+  - https://trucks.tractorjunction.com/hi/eka-mobility -> 500
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

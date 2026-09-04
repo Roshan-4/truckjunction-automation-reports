@@ -1,0 +1,4 @@
+[Redirection Check] Homepage - The Buzz Board [hi]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/euler -> 500
+  - https://trucks.tractorjunction.com/hi/eicher -> 500

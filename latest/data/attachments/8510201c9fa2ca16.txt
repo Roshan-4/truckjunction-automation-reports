@@ -1,0 +1,66 @@
+[Redirection Check] UtilityPages - Offers [en]: 64 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata -> 404
+  - https://trucks.tractorjunction.com/en/ashok-leyland -> 404
+  - https://trucks.tractorjunction.com/en/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra -> 404
+  - https://trucks.tractorjunction.com/en/popular-trucks -> 404
+  - https://trucks.tractorjunction.com/en/electric -> 404
+  - https://trucks.tractorjunction.com/en/3-wheeler -> 404
+  - https://trucks.tractorjunction.com/en/buses/tata -> 404
+  - https://trucks.tractorjunction.com/en/buses/mahindra -> 404
+  - https://trucks.tractorjunction.com/en/select-your-truck -> 404
+  - https://trucks.tractorjunction.com/en/tata/ace -> 404
+  - https://trucks.tractorjunction.com/en/mahindra/blazo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/dost -> 404
+  - https://trucks.tractorjunction.com/en/tippers -> 404
+  - https://trucks.tractorjunction.com/en/tractor -> 404
+  - https://trucks.tractorjunction.com/en/pickup -> 404
+  - https://trucks.tractorjunction.com/en/transit-mixer -> 404
+  - https://trucks.tractorjunction.com/en/auto-rickshaw -> 404
+  - https://trucks.tractorjunction.com/en/tempo-traveller -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/4-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/8-wheeler -> 404
+  - https://trucks.tractorjunction.com/en/16-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/diesel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/petrol -> 404
+  - https://trucks.tractorjunction.com/en/cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/lpg -> 404
+  - https://trucks.tractorjunction.com/en/lng -> 404
+  - https://trucks.tractorjunction.com/en/hydrogen -> 404
+  - https://trucks.tractorjunction.com/en/bi-fuel -> 404
+  - https://trucks.tractorjunction.com/en/lcv -> 404
+  - https://trucks.tractorjunction.com/web-stories -> 404
+  - https://trucks.tractorjunction.com/en/offers/mahindra-jeeto-festive-gold-offer -> 404
+  - https://trucks.tractorjunction.com/en/offers/mahindra-e-alfa-plus-celebrate-with-gold -> 404
+  - https://trucks.tractorjunction.com/en/offers/mahindra-zeo-sparkling-festive-offer -> 404
+  - https://trucks.tractorjunction.com/en/offers/lohia-narain-c-plus-festive-gold-gift-offer -> 404
+  - https://trucks.tractorjunction.com/en/offers/mahindra-alfa-dx-duo-gst -> 404
+  - https://trucks.tractorjunction.com/en/tata-truck/407-gold-sfc -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/1920 -> 404
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/ecomet-1615-he -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/prima-fl-5530s -> 404
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-gold -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/dost -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/dost-strong -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/yodha-pickup -> 404
+  - https://trucks.tractorjunction.com/en/tata-truck/intra-v10 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/3520-tipper -> 404
+  - https://trucks.tractorjunction.com/en/tata-truck/1212-lpk -> 404
+  - https://trucks.tractorjunction.com/en/tata-truck/prima-2830k-repto -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/prima-3530k-repto -> 404
+  - https://trucks.tractorjunction.com/en/mahindra-truck/treo -> 404
+  - https://trucks.tractorjunction.com/en/force-truck/traveller-delivery-van -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/force-truck/traveller-delivery-van-wider -> 404
+  - https://trucks.tractorjunction.com/en/force-truck/tempo-traveller-3050 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/electric/e-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/winger-cargo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-gold-cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/magic-ev -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/buy-used-trucks -> 404
+  - https://trucks.tractorjunction.com/en/dealers -> 404
+  - https://trucks.tractorjunction.com/en/contact-us -> 404
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/privacy-policy -> 404

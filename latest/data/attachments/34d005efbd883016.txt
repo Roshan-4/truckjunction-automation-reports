@@ -1,0 +1,49 @@
+[Redirection Check] SEO structure - Tata Yodha 2.0 Price in Gurgaon [hi] [hi]: 47 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/tata -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/yodha-2-0 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/supro-profit-truck-excel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/popular-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/buses/tata -> 404
+  - https://trucks.tractorjunction.com/hi/buses/sml-isuzu -> 404
+  - https://trucks.tractorjunction.com/hi/tata/ace -> 404
+  - https://trucks.tractorjunction.com/hi/mahindra/blazo -> 404
+  - https://trucks.tractorjunction.com/hi/mahindra/bolero -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tippers -> 404
+  - https://trucks.tractorjunction.com/hi/tractor -> 404
+  - https://trucks.tractorjunction.com/hi/transit-mixer -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tempo-traveller -> 404
+  - https://trucks.tractorjunction.com/hi/4-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/10-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/14-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/16-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/22-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/petrol -> 404
+  - https://trucks.tractorjunction.com/hi/hydrogen -> 404
+  - https://trucks.tractorjunction.com/hi/lcv -> 404
+  - https://trucks.tractorjunction.com/hi/scv -> 404
+  - https://trucks.tractorjunction.com/hi/icv -> 404
+  - https://trucks.tractorjunction.com/hi/news -> 404
+  - https://trucks.tractorjunction.com/hi/tata-truck/yodha-pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/yodha-pickup/price/gurgaon -> 404
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/bolero-maxx-pik-up-hd -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/compare/tata+yodha-2-0-vs-mahindra+bolero-maxx-pik-up-hd -> 404
+  - https://trucks.tractorjunction.com/hi/tata-truck/yodha-2-0/price/ahmedabad -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/yodha-2-0/price/nagpur -> 404
+  - https://trucks.tractorjunction.com/hi/tata-truck/yodha-2-0/price/bhilwara -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/isuzu-truck/d-max-high-rideflat-deck -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/isuzu-truck/d-max-high-ridecab-chassis -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/bolero-maxx-pik-up-hd-17l-lx -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/yodha-2-0/price/south-west -> 404
+  - https://trucks.tractorjunction.com/hi/tata-truck/yodha-2-0/price/south-delhi -> 404
+  - https://trucks.tractorjunction.com/hi/tata-truck/yodha-2-0/price/west-delhi -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/yodha-2-0/price/north-west -> 404
+  - https://trucks.tractorjunction.com/hi/tata-truck/yodha-2-0/price/south-east -> 404
+  - https://trucks.tractorjunction.com/hi/new-trucks -> 404
+  - https://trucks.tractorjunction.com/hi/about-us -> 404
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

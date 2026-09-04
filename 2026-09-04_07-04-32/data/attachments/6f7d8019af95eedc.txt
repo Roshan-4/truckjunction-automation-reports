@@ -1,0 +1,73 @@
+[Redirection Check] UtilityPages - Top Bus Brands [en]: 71 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/supro-profit-truck-excel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/popular-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/electric -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/3-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/buses/brands -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/ace -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/blazo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/bolero -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/dost -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tippers -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tractor -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mini-truck -> 404
+  - https://trucks.tractorjunction.com/en/pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/auto-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tempo-traveller -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/4-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/8-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/10-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/12-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/14-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/16-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/18-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/22-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/diesel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/petrol -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/cng -> 404
+  - https://trucks.tractorjunction.com/en/lpg -> 404
+  - https://trucks.tractorjunction.com/en/lng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/hydrogen -> 404
+  - https://trucks.tractorjunction.com/en/bi-fuel -> 404
+  - https://trucks.tractorjunction.com/en/lcv -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/scv -> 404
+  - https://trucks.tractorjunction.com/en/icv -> 404
+  - https://trucks.tractorjunction.com/en/buses/ashok-leyland/cheetah -> 404
+  - https://trucks.tractorjunction.com/en/buses/ashok-leyland/viking-school -> 404
+  - https://trucks.tractorjunction.com/en/buses/ashok-leyland/mitr-school -> 404
+  - https://trucks.tractorjunction.com/en/buses/tata/inter-city-chassis -> 404
+  - https://trucks.tractorjunction.com/en/buses/eicher/skyline-pro-3009-h-school -> 404
+  - https://trucks.tractorjunction.com/en/buses/eicher/skyline-2075-h -> 404
+  - https://trucks.tractorjunction.com/en/buses/eicher/skyline-2090-l -> 404
+  - https://trucks.tractorjunction.com/en/buses/mahindra/cruzio-grande-school -> 404
+  - https://trucks.tractorjunction.com/en/buses/mahindra/cruzio-staff -> 404
+  - https://trucks.tractorjunction.com/en/buses/scania -> 404
+  - https://trucks.tractorjunction.com/en/buses/eicher/2075-h-chassis -> 404
+  - https://trucks.tractorjunction.com/en/buses/eicher/chassis-2065-e-diesel -> 404
+  - https://trucks.tractorjunction.com/en/buses/eicher/pro-3009-h-chassis -> 404
+  - https://trucks.tractorjunction.com/en/buses/jbm/ecolife-electric -> 404
+  - https://trucks.tractorjunction.com/en/buses/eicher/sleeper-124m -> 404
+  - https://trucks.tractorjunction.com/en/buses/eicher/skyline-pro-3010-l-route-permit -> 404
+  - https://trucks.tractorjunction.com/en/buses/tata/starbus-urban-city-electric -> 404
+  - https://trucks.tractorjunction.com/en/buses/ashok-leyland/viking-cng-staff -> 404
+  - https://trucks.tractorjunction.com/en/buses/force/traveller-mono-scholar -> 404
+  - https://trucks.tractorjunction.com/en/buses/scania/citywide -> 404
+  - https://trucks.tractorjunction.com/en/buses/force/traveller-school-3700 -> 404
+  - https://trucks.tractorjunction.com/en/buses/eicher/2050-c-chassis -> 404
+  - https://trucks.tractorjunction.com/en/buses/ashok-leyland/oyster-staff -> 404
+  - https://trucks.tractorjunction.com/en/buses/ashok-leyland/oyster-wide-city -> 404
+  - https://trucks.tractorjunction.com/en/buses/eicher/starline-2090-l-cng -> 404
+  - https://trucks.tractorjunction.com/en/about-us -> 404
+  - https://trucks.tractorjunction.com/en/dealers -> 404
+  - https://trucks.tractorjunction.com/en/body-makers -> 404
+  - https://trucks.tractorjunction.com/en/new-trucks -> 404
+  - https://trucks.tractorjunction.com/en/buy-used-trucks -> 404
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/privacy-policy -> 404

@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - Sell Used Trucks [ta] [ta]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://trucks.tractorjunction.com/ta/brands?bottom_nav&utm_medium=navigation&utm_campaign=brands -> 502

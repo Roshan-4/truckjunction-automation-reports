@@ -1,0 +1,8 @@
+[Redirection Check] PDP - Tata Yodha 2.0 Videos [en]: 6 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/eicher -> 500
+  - https://trucks.tractorjunction.com/en/10-wheeler -> 502
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/tata-truck/yodha-1700-bs6/videos -> 404
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

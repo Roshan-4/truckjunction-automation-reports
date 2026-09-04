@@ -1,0 +1,9 @@
+[Redirection Check] SEO structure - Tippers [ta] [ta]: 7 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/ta/volvo -> 500
+  - https://trucks.tractorjunction.com/ta/scania -> 500
+  - https://trucks.tractorjunction.com/ta/montra-electric -> 500

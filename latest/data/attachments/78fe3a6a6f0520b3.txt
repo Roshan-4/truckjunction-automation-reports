@@ -1,0 +1,6 @@
+[Redirection Check] SEO structure - LNG Trucks [hi] [hi]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/volvo -> 500
+  - https://trucks.tractorjunction.com/hi/blue-energy -> 500
+  - https://trucks.tractorjunction.com/login -> 502
+  - https://trucks.tractorjunction.com/hi/eicher -> 500

@@ -1,0 +1,10 @@
+[Redirection Check] SEO structure - 40 ton - 300 ton Trucks [ta] [ta]: 8 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://www.linkedin.com/company/truck-junction/ -> 429
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/ta/volvo -> 500
+  - https://trucks.tractorjunction.com/ta/propel -> 500
+  - https://trucks.tractorjunction.com/ta/ipl-tech -> 500
+  - https://trucks.tractorjunction.com/ta/sany -> 500

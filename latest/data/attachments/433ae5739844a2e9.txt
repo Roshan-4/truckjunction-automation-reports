@@ -1,0 +1,8 @@
+[Redirection Check] CategoryPages - Mahindra Bolero [en]: 6 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/eicher -> 500
+  - https://trucks.tractorjunction.com/en/montra-electric -> 500
+  - https://trucks.tractorjunction.com/en/euler -> 500
+  - https://trucks.tractorjunction.com/en/isuzu -> 500
+  - https://trucks.tractorjunction.com/en/jupiter -> 500
+  - https://trucks.tractorjunction.com/en/bharat-benz -> 500

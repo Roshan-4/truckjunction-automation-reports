@@ -1,0 +1,11 @@
+[Redirection Check] SEO structure - Best Trucks [hi] [hi]: 9 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/eicher -> 500
+  - https://trucks.tractorjunction.com/hi/buses/ -> 502
+  - https://trucks.tractorjunction.com/hi/buses/popular/ -> 502
+  - https://trucks.tractorjunction.com/hi/16-wheeler -> 502
+  - https://trucks.tractorjunction.com/hi/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/hi/volvo -> 500
+  - https://trucks.tractorjunction.com/hi/scania -> 500
+  - https://trucks.tractorjunction.com/hi/osm -> 500
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

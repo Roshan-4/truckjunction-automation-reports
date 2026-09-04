@@ -1,0 +1,10 @@
+[Redirection Check] SEO structure - 10 Wheeler [ta] [ta]: 8 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://trucks.tractorjunction.com/ta/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/ta/ipl-tech -> 500
+  - https://trucks.tractorjunction.com/ta/olectra -> 500
+  - https://trucks.tractorjunction.com/ta/sany -> 500
+  - https://trucks.tractorjunction.com/ta/scania -> 500
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

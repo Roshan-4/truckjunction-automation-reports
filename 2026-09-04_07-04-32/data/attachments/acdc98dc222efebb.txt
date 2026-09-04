@@ -1,0 +1,38 @@
+[Redirection Check] SEO structure - Mahindra Blazo [en] [en]: 36 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/ace -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/bolero -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tippers -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mini-truck -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/8-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/18-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/22-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/blazo-x-28-tipper -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/blazo-x-35-8x4-tipper -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/furio -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/blazo-x-42-pusher-axle -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/blazo-x-28-transit-mixer -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/en/volvo -> 500
+  - https://trucks.tractorjunction.com/en/sml-isuzu -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/propel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/scania -> 500
+  - https://trucks.tractorjunction.com/en/i-board -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/loadking-optimo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/furio-7-tipper -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tippers/mahindra-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/under-20-lakh -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/40-ton-300-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/partner -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/lpt -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/winger -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/sml-isuzu/samrat -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/atul/gem -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/atul/elite -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/2820-rmc -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/mahindra-udo-3-way-braking-system -> ERROR: The operation was aborted due to timeout
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.linkedin.com/company/truck-junction/ -> 429
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

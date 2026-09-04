@@ -1,0 +1,7 @@
+[Redirection Check] Homepage - Latest Models by Category [ta]: 5 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/euler -> 500
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

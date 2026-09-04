@@ -1,0 +1,13 @@
+[Redirection Check] SEO structure - 2.5 ton - 5 ton Trucks [hi] [hi]: 11 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/ashok-leyland -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/cng -> ERROR: The operation was aborted due to timeout
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/1-ton-2.5-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/force -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/switch-mobility -> 500
+  - https://trucks.tractorjunction.com/hi/montra-electric -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/euler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/isuzu -> 500

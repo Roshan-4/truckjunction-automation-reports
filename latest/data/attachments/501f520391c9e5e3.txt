@@ -1,0 +1,13 @@
+[Redirection Check] SEO structure - HCV [hi] [hi]: 11 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/tata-truck/signa-5530s -> 502
+  - https://trucks.tractorjunction.com/hi/tata-truck/signa-2830k/review -> 502
+  - https://trucks.tractorjunction.com/hi/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/hi/eicher -> 500
+  - https://trucks.tractorjunction.com/hi/volvo -> 500
+  - https://trucks.tractorjunction.com/hi/propel -> 500
+  - https://trucks.tractorjunction.com/hi/blue-energy -> 500
+  - https://trucks.tractorjunction.com/hi/montra-electric -> 500
+  - https://trucks.tractorjunction.com/hi/buses/latest/ -> 502
+  - https://www.linkedin.com/company/truck-junction/ -> 429
+  - https://trucks.tractorjunction.com/hi/tata-truck/1512-lpt -> ERROR: The operation was aborted due to timeout

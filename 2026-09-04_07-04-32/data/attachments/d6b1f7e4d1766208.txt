@@ -1,0 +1,7 @@
+[Redirection Check] CategoryPages - 10 ton - 20 ton Trucks [en]: 5 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/eicher -> 500
+  - https://trucks.tractorjunction.com/en/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/en/select-your-truck/fish-transportation -> 502
+  - https://trucks.tractorjunction.com/en/latest-trucks/ -> 502
+  - https://www.linkedin.com/company/truck-junction/ -> ERROR: fetch failed

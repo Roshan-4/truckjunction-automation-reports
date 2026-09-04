@@ -1,0 +1,5 @@
+[Redirection Check] SEO structure - Ashok Leyland Buses [hi] [hi]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/eicher -> 500
+  - https://trucks.tractorjunction.com/hi/brochure/ -> 502
+  - https://trucks.tractorjunction.com/hi/mini-truck -> 502

@@ -1,0 +1,9 @@
+[Redirection Check] UtilityPages - News Article Detail [en]: 7 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/eicher -> 500
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://www.facebook.com/sharer.php?u=https://trucks.tractorjunction.com/en/news/mahindra-cv-3w-sales-report-august-2026 -> ERROR: fetch failed
+  - https://api.whatsapp.com/send/?text=Mahindra%20CV%20%26%203W%20Sales%20Rise%2028%25%20to%2042%2C337%20Units%20in%20August%202026%20https%3A%2F%2Ftrucks.tractorjunction.com%2Fen%2Fnews%2Fmahindra-cv-3w-sales-report-august-2026&type=custom_url&app_absent=0 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/euler -> 500
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

@@ -1,0 +1,5 @@
+[Redirection Check] SEO structure - LNG Trucks [ta] [ta]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/blue-energy -> 500
+  - https://trucks.tractorjunction.com/ta/volvo -> 500
+  - https://trucks.tractorjunction.com/ta/eicher -> 500

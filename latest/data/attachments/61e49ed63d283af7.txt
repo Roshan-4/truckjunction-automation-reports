@@ -1,0 +1,14 @@
+[Redirection Check] SEO structure - All Truck Brands [hi] [hi]: 12 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/euler -> 500
+  - https://trucks.tractorjunction.com/hi/eicher -> 500
+  - https://trucks.tractorjunction.com/hi/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/hi/force -> 500
+  - https://trucks.tractorjunction.com/hi/volvo -> 500
+  - https://trucks.tractorjunction.com/hi/saera -> 500
+  - https://trucks.tractorjunction.com/hi/isuzu -> 500
+  - https://trucks.tractorjunction.com/hi/eka-mobility -> 500
+  - https://trucks.tractorjunction.com/hi/maruti-suzuki -> 500
+  - https://trucks.tractorjunction.com/hi/blue-energy -> 500
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

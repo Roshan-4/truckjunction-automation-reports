@@ -1,0 +1,9 @@
+[Redirection Check] CategoryPages - 12 Wheeler [en]: 7 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/eicher -> 500
+  - https://trucks.tractorjunction.com/en/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/en/volvo -> 500
+  - https://trucks.tractorjunction.com/en/propel -> 500
+  - https://trucks.tractorjunction.com/en/scania -> 500
+  - https://trucks.tractorjunction.com/en/i-board -> 500
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

@@ -1,0 +1,6 @@
+[Redirection Check] SEO structure - Upcoming Trucks [ta] [ta]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://www.linkedin.com/company/truck-junction/ -> 429
+  - https://trucks.tractorjunction.com/ta/mahindra-truck/cowl-35t -> 502
+  - https://trucks.tractorjunction.com/ta/force -> 500

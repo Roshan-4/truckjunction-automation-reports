@@ -1,0 +1,6 @@
+[Redirection Check] SEO structure - Mahindra Buses [hi] [hi]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/eicher -> 500
+  - https://trucks.tractorjunction.com/hi/scv -> 502
+  - https://trucks.tractorjunction.com/web-stories -> 502
+  - https://trucks.tractorjunction.com/hi/buses/eka-mobility -> 502

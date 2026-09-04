@@ -1,0 +1,7 @@
+[Redirection Check] SEO structure - 18 Wheeler [hi] [hi]: 5 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/eicher -> 500
+  - https://trucks.tractorjunction.com/hi/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/hi/blue-energy -> 500
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

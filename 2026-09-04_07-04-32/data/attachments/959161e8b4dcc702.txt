@@ -1,0 +1,12 @@
+[Redirection Check] SEO structure - 3 Wheeler [en] [en]: 10 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/3-wheeler/osm-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/3-wheeler/baxy-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/3-wheeler/sn-solar-energy-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/3-wheeler/gkon-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/montra-electric -> 500
+  - https://trucks.tractorjunction.com/en/16-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/eicher -> 500
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.linkedin.com/company/truck-junction/ -> 429
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

@@ -1,0 +1,24 @@
+[Redirection Check] SEO structure - Mahindra Blazo [hi] [hi]: 22 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra -> 502
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/zeo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra/bolero -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/transit-mixer -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/blazo-x-m-dura-28 -> 502
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/blazo-x-35 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/blazo-x-28-transit-mixer -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/bharat-benz -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/volvo -> 500
+  - https://trucks.tractorjunction.com/hi/propel -> 502
+  - https://trucks.tractorjunction.com/hi/scania -> 500
+  - https://trucks.tractorjunction.com/hi/i-board -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tippers/mahindra-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/under-1-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland/partner -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata/lpt -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata/winger -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher/pro -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/volvo/fm -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland-truck/2820-rmc -> 502
+  - https://trucks.tractorjunction.com/hi/about-us -> 502

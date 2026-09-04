@@ -1,0 +1,12 @@
+[Redirection Check] SEO structure - Mini Trucks [hi] [hi]: 10 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/mini-truck/switch-mobility-trucks -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/1-ton-2.5-ton-trucks -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/eicher -> 500
+  - https://trucks.tractorjunction.com/hi/maruti-suzuki -> 500
+  - https://trucks.tractorjunction.com/hi/osm -> 500
+  - https://trucks.tractorjunction.com/hi/euler -> 500
+  - https://trucks.tractorjunction.com/hi/e-trio -> 500
+  - https://trucks.tractorjunction.com/hi/eka-mobility -> 500
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

@@ -1,0 +1,11 @@
+[Redirection Check] SEO structure - Popular Truck [ta] [ta]: 9 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://trucks.tractorjunction.com/ta/electric -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/buses/eicher -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/ashok-leyland/dost -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/videos -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/ta/maruti-suzuki -> 500
+  - https://trucks.tractorjunction.com/ta/volvo -> 500
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

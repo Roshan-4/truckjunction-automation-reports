@@ -1,0 +1,9 @@
+[Redirection Check] SEO structure - Brand And Tonnage [ta] [ta]: 7 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://trucks.tractorjunction.com/ta/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/ta/euler -> 500
+  - https://trucks.tractorjunction.com/ta/force -> 500
+  - https://trucks.tractorjunction.com/ta/maruti-suzuki -> 500
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
+  - https://www.linkedin.com/company/truck-junction/ -> 429

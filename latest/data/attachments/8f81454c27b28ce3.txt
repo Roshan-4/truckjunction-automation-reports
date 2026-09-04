@@ -1,0 +1,11 @@
+[Redirection Check] PDP - Eka 3W Cargo Reviews [en]: 9 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/eicher -> 500
+  - https://trucks.tractorjunction.com/en/eka-mobility -> 500
+  - https://trucks.tractorjunction.com/en/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/en/volvo -> 500
+  - https://trucks.tractorjunction.com/en/sml-isuzu -> 502
+  - https://trucks.tractorjunction.com/en/scania -> 500
+  - https://trucks.tractorjunction.com/en/force -> 500
+  - https://trucks.tractorjunction.com/en/isuzu -> 500
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

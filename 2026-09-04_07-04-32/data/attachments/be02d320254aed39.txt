@@ -1,0 +1,12 @@
+[Redirection Check] SEO structure - Mini Trucks [en] [en]: 10 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/eicher -> 500
+  - https://trucks.tractorjunction.com/en/maruti-suzuki -> 500
+  - https://trucks.tractorjunction.com/en/osm -> 500
+  - https://trucks.tractorjunction.com/en/euler -> 500
+  - https://trucks.tractorjunction.com/en/e-trio -> 500
+  - https://trucks.tractorjunction.com/en/eka-mobility -> 500
+  - https://trucks.tractorjunction.com/en/mahindra/blazo -> 502
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

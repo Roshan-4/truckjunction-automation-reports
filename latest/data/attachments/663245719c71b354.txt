@@ -1,0 +1,9 @@
+[Redirection Check] SEO structure - Pickups [en] [en]: 7 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/isuzu -> 500
+  - https://trucks.tractorjunction.com/en/euler -> 500
+  - https://trucks.tractorjunction.com/en/montra-electric -> 500
+  - https://trucks.tractorjunction.com/en/jupiter -> 500
+  - https://trucks.tractorjunction.com/en/eicher -> 500
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

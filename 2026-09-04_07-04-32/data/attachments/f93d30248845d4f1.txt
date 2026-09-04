@@ -1,0 +1,21 @@
+[Redirection Check] SEO structure - Mahindra Bolero [ta] [ta]: 19 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/mahindra/blazo -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/tata -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://trucks.tractorjunction.com/ta/montra-electric -> 500
+  - https://trucks.tractorjunction.com/ta/euler -> 500
+  - https://trucks.tractorjunction.com/ta/isuzu -> 500
+  - https://trucks.tractorjunction.com/ta/jupiter -> 500
+  - https://trucks.tractorjunction.com/ta/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/ta/select-your-truck/milk-transportation -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/select-your-truck/textile-transportation -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/6-wheeler -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/16-wheeler -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/40-ton-300-ton-trucks -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/commercial-vehicle-series -> 502
+  - https://trucks.tractorjunction.com/ta/news/electric-auto-loan-guide-emi-down-payment-interest-subsidy -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/bs-vi/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/buy-used-trucks/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/sell-used-truck/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/ta/buses/ -> ERROR: fetch failed

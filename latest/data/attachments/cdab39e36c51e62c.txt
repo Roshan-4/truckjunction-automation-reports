@@ -1,0 +1,6 @@
+[Redirection Check] SEO structure - Popular Truck [ta] [ta]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://trucks.tractorjunction.com/ta/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/ta/maruti-suzuki -> 500
+  - https://trucks.tractorjunction.com/ta/volvo -> 500

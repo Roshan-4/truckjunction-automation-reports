@@ -1,0 +1,4 @@
+[Redirection Check] Buses - Tata Starbus Ultra City Electric [en]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/eicher -> 500
+  - https://trucks.tractorjunction.com/en/cng -> 502

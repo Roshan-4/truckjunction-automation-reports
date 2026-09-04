@@ -1,0 +1,26 @@
+[Redirection Check] SEO structure - 6 Wheeler [ta] [ta]: 24 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://trucks.tractorjunction.com/ta/electric -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata/ace -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/22-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/6-wheeler/tata-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/6-wheeler/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/6-wheeler/mahindra-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/6-wheeler/force-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/6-wheeler/volvo-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/6-wheeler/i-board-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/6-wheeler/switch-mobility-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata-truck/signa-1918k -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/ashok-leyland-truck/ecomet-1215-he -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/eicher-truck/pro-2080xpt -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata-truck/1816-lpt -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/ta/volvo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/i-board -> 500
+  - https://trucks.tractorjunction.com/ta/montra-electric -> 500
+  - https://trucks.tractorjunction.com/ta/tata-truck/azura-1212 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata-truck/azura-1918/review -> 502
+  - https://trucks.tractorjunction.com/ta/new-trucks -> ERROR: The operation was aborted due to timeout
+  - https://www.linkedin.com/company/truck-junction/ -> 429
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
