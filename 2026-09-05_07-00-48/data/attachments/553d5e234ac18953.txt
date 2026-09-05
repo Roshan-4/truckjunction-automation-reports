@@ -1,0 +1,34 @@
+[Redirection Check] PDP - New Truck PDP (Tata Yodha 2.0) [en]: 32 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/popular-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/ace -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/dost -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tractor -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/8-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/10-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/petrol -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/lpg -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/bada-dost-i6 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/yodha-1700-bs6 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/intra-ev -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/signa -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/prima -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/winger -> 502
+  - https://trucks.tractorjunction.com/en/tata/intra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/magic -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/under-10-lakh -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/under-15-lakh -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/above-40-lakh -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/electric/e-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/golf-cart -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/under-1-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/2.5-ton-5-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/40-ton-300-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/partner -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/furio -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/eicher/pro -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/sml-isuzu/sartaj -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/atul/shakti -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

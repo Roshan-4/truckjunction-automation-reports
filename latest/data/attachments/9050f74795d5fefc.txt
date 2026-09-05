@@ -1,9 +1,0 @@
-[Redirection Check] SEO structure - 12 Wheeler [ta] [ta]: 7 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/ta/eicher -> 500
-  - https://trucks.tractorjunction.com/ta/scv -> 502
-  - https://trucks.tractorjunction.com/ta/bharat-benz -> 500
-  - https://trucks.tractorjunction.com/ta/volvo -> 500
-  - https://trucks.tractorjunction.com/ta/propel -> 500
-  - https://trucks.tractorjunction.com/ta/scania -> 500
-  - https://trucks.tractorjunction.com/ta/i-board -> 500

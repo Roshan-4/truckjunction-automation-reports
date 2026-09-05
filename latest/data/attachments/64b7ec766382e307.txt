@@ -1,0 +1,5 @@
+[Redirection Check] UtilityPages - Select Your Truck [en]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/under-20-lakh -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed

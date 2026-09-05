@@ -1,0 +1,14 @@
+[Redirection Check] SEO structure - Hydrogen Trucks [en] [en]: 12 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bi-fuel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/ace -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/blazo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/auto-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/8-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/10-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/18-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

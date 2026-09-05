@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - Tata Starbus Ultra City Electric [en] [en]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

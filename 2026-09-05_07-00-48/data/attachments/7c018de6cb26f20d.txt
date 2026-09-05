@@ -1,0 +1,7 @@
+[Redirection Check] SEO structure - News Article Detail [hi] [hi]: 5 broken link(s) found
+(logged only — does not fail the test):
+  - https://www.facebook.com/sharer.php?u=https://trucks.tractorjunction.com/hi/news/mahindra-cv-3w-sales-report-august-2026 -> ERROR: fetch failed
+  - https://api.whatsapp.com/send/?text=%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%BE%20CV%20%E0%A4%94%E0%A4%B0%203W%20%E0%A4%B8%E0%A5%87%E0%A4%B2%E0%A5%8D%E0%A4%B8%20%E0%A4%B0%E0%A4%BF%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F%3A%20%E0%A4%85%E0%A4%97%E0%A4%B8%E0%A5%8D%E0%A4%A4%202026%20%E0%A4%AE%E0%A5%87%E0%A4%82%2028%25%20%E0%A4%95%E0%A5%80%20%E0%A4%AC%E0%A4%A2%E0%A4%BC%E0%A4%A4%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%2042%2C337%20%E0%A4%B5%E0%A4%BE%E0%A4%B9%E0%A4%A8%20%E0%A4%AC%E0%A4%BF%E0%A4%95%E0%A5%87%20https%3A%2F%2Ftrucks.tractorjunction.com%2Fhi%2Fnews%2Fmahindra-cv-3w-sales-report-august-2026&type=custom_url&app_absent=0 -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

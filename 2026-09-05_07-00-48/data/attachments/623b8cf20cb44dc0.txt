@@ -1,0 +1,32 @@
+[Redirection Check] SEO structure - 6 Wheeler [en] [en]: 30 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/bolero -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mini-truck -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/8-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/14-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/18-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/petrol -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bi-fuel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler/tata-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler/mahindra-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler/sml-isuzu-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler/bharat-benz-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler/force-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler/volvo-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler/i-board-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler/montra-electric-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/eicher-truck/pro-3015 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bharat-benz-truck/1617r -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/1915-he -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/1512-lpt -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/signa-1918k -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/azura-1918 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/eicher-truck/pro-2110-xpt-plus -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/eicher-truck/pro-6055-1xp -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/volvo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/i-board -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/mahindra-jeeto-drive-a-thon-7-states-10-days -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

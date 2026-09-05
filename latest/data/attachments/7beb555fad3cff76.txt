@@ -1,0 +1,22 @@
+[Redirection Check] SEO structure - SCV [hi] [hi]: 20 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/bajaj-truck/compact-re -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/ace-gold-2250cng-plus -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/alfa-load-carrier-plus -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/bajaj-truck/maxima-c -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/yodha-ex-crew-cabin -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/jeeto -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/winger -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/magic-express -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/indo-wagen -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/khalsa -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/osm -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland-truck/partner-6-tyre -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland-truck/ecomet-1615-he -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/1512-lpt -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/912-lpk -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland-truck/ecomet-1015-he -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland-truck/3520-tipper -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/prima-3530k -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/prima-2825ktk -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

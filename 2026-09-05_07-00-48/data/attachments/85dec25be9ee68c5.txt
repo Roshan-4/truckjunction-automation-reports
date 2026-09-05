@@ -1,0 +1,24 @@
+[Redirection Check] SEO structure - Eicher Trucks [hi] [hi]: 22 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/tata -> 502
+  - https://trucks.tractorjunction.com/hi/ashok-leyland -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/petrol -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/lpg -> ERROR: The operation was aborted due to timeout
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/eicher-truck/pro-2110 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/4-wheeler/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/6-wheeler/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/12-wheeler/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/14-wheeler/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/16-wheeler/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher-truck/pro-2118 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/trucks/eicher-trucks/above-40-lakh -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mini-truck/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tippers/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tractor/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/transit-mixer/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher-truck/108 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher-truck/1095 -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://play.google.com/store/apps/details?id=com.truckjunction -> ERROR: fetch failed

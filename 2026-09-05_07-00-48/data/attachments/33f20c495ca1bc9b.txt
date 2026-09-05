@@ -1,0 +1,29 @@
+[Redirection Check] SEO structure - Ashok Leyland Dost [ta] [ta]: 27 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/tata -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/mahindra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata-truck/yodha-2-0 -> 502
+  - https://trucks.tractorjunction.com/ta/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/lpg -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/ashok-leyland/ecomet -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/ashok-leyland/partner -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/ashok-leyland-truck/dost-cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/montra-electric -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/isuzu -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/pickup/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/under-20-lakh -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/under-30-lakh -> 502
+  - https://trucks.tractorjunction.com/ta/trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/20-ton-40-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata/signa -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata/lpt -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata/intra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata/magic -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/mahindra/furio -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/eicher/pro -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/volvo/fm -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/sml-isuzu/samrat -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/atul/gem -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/atul/smart -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/atul/rik -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

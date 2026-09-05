@@ -1,0 +1,5 @@
+[Redirection Check] SEO structure - CNG Trucks [hi] [hi]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/upcoming-trucks/ -> 502
+  - https://trucks.tractorjunction.com/hi/bajaj-truck/maxima-c -> 502
+  - https://trucks.tractorjunction.com/hi/terms-and-condition -> 502

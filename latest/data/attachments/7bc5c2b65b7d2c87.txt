@@ -1,9 +1,0 @@
-[Redirection Check] SEO structure - ICV [en] [en]: 7 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/eicher -> 500
-  - https://trucks.tractorjunction.com/en/bharat-benz -> 500
-  - https://trucks.tractorjunction.com/en/switch-mobility -> 500
-  - https://trucks.tractorjunction.com/en/eka-mobility -> 500
-  - https://trucks.tractorjunction.com/en/force -> 500
-  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
-  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

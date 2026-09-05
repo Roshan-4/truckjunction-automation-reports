@@ -1,0 +1,4 @@
+[Redirection Check] CategoryPages - Ashok Leyland Boss [en]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/atul/shakti -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/morth-automatic-load-covers-tippers-dumpers-april-2027 -> ERROR: The operation was aborted due to timeout

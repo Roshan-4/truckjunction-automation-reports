@@ -1,0 +1,11 @@
+[Redirection Check] SEO structure - Top Bus Brands [en] [en]: 9 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/22-wheeler -> 502
+  - https://trucks.tractorjunction.com/en/buses/sml-isuzu/bh-series-school-bs6 -> 502
+  - https://trucks.tractorjunction.com/en/buses/eicher/skyline-pro-3011-k-school -> 502
+  - https://trucks.tractorjunction.com/en/buses/scania/higer-a30 -> 502
+  - https://trucks.tractorjunction.com/en/buses?seats=0-10 -> 502
+  - https://trucks.tractorjunction.com/en/buses/ashok-leyland/oyster-school -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

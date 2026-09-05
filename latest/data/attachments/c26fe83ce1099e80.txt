@@ -1,0 +1,12 @@
+[Redirection Check] SEO structure - Upcoming Trucks [ta] [ta]: 10 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/mini-truck -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/transit-mixer -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/8-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/16-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/18-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/diesel -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

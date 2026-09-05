@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - Popular Buses [hi] [hi]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/buses/eicher/6016-r-lpo-chassis -> 502
+  - https://trucks.tractorjunction.com/hi/buses/upcoming/ -> 502

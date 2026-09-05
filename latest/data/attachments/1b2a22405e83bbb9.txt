@@ -1,0 +1,16 @@
+[Redirection Check] SEO structure - All Truck Brands [ta] [ta]: 14 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/transit-mixer -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/8-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/eicher-truck/pro-2049 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/bharat-benz-truck/5532t-4x2 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/maruti-suzuki -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tvs-truck/king-duramax -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/volvo-truck/fm-420-4x2 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/ashok-leyland-truck/2820-rmc -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata-truck/610-sfc -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata-truck/ace-ht-plus -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

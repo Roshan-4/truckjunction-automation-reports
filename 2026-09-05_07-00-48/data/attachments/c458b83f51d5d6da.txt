@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - Mahindra Bolero [hi] [hi]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://www.linkedin.com/company/truck-junction/ -> 429
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

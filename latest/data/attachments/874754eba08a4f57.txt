@@ -1,0 +1,19 @@
+[Redirection Check] SEO structure - Ashok Leyland Boss [hi] [hi]: 17 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/tata -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/propel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/transit-mixer -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/electric/e-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/under-1-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/2.5-ton-5-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata/signa -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata/magic -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra/bolero -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/sml-isuzu/sartaj -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul/shakti -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul/rik -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/news/ashok-leyland-august-2026-sales-report -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/news/fada-july-2026-commercial-vehicle-retail-sales-report -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

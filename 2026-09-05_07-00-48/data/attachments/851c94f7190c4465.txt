@@ -1,0 +1,17 @@
+[Redirection Check] SEO structure - Transit Mixer [en] [en]: 15 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/transit-mixer/tata-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/transit-mixer/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/transit-mixer/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/transit-mixer/mahindra-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/12-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/golf-cart -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/zeo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/18-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/diesel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/lpg -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/icv -> ERROR: The operation was aborted due to timeout
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://play.google.com/store/apps/details?id=com.truckjunction -> ERROR: fetch failed

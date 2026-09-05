@@ -1,7 +1,0 @@
-[Redirection Check] Homepage - Find Reliable Used Trucks Near You [en]: 5 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/eicher -> 500
-  - https://trucks.tractorjunction.com/en/euler -> 500
-  - https://trucks.tractorjunction.com/en/force -> 500
-  - https://trucks.tractorjunction.com/en/bharat-benz -> 500
-  - https://trucks.tractorjunction.com/en/atul -> ERROR: The operation was aborted due to timeout

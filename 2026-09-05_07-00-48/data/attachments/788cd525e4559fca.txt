@@ -1,0 +1,34 @@
+[Redirection Check] SEO structure - Web Story [hi] [hi]: 32 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/brands -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/popular-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/electric -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/ace -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/blazo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/dost -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tippers -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mini-truck -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/transit-mixer -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/auto-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/4-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/10-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/16-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/18-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/22-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/petrol -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/lpg -> 502
+  - https://trucks.tractorjunction.com/en/bi-fuel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/icv -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/auto-news -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/logistic-news -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/social -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/bus -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/ultratech-to-deploy-600-electric-trucks-for-greener-logistics -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

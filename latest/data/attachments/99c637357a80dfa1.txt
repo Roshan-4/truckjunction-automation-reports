@@ -1,0 +1,11 @@
+[Redirection Check] PDP - Tata Yodha 2.0 Price in Gurgaon [en]: 9 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-ev -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/brochure/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/icv -> ERROR: fetch failed
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/tata-truck/yodha-2-0/specifications -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/compare/tata+yodha-2-0-vs-mahindra+bolero-maxx-pik-up-hd -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/tata-truck/yodha-2-0/price/gorakhpur -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/tata-truck/yodha-2-0/price/south-west -> ERROR: fetch failed

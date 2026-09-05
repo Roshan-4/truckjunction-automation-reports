@@ -1,0 +1,6 @@
+[Redirection Check] SEO structure - Blog Article Detail [ta] [ta]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://www.facebook.com/sharer.php?u=https://trucks.tractorjunction.com/en/news/ace-pro-ev-vs-treo-zor-vs-reep-l3 -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/new-trucks -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed

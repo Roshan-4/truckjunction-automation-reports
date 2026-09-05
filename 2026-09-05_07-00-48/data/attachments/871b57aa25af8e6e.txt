@@ -1,0 +1,10 @@
+[Redirection Check] CategoryPages - Ashok Leyland Boss [en]: 8 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/auto-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ipl-tech -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/electric/e-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/golf-cart -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/lpk -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/furio -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/morth-automatic-load-covers-tippers-dumpers-april-2027 -> ERROR: The operation was aborted due to timeout
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed

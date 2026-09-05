@@ -1,0 +1,5 @@
+[Redirection Check] SEO structure - News Article Detail [en] [en]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://www.facebook.com/sharer.php?u=https://trucks.tractorjunction.com/en/news/mahindra-cv-3w-sales-report-august-2026 -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

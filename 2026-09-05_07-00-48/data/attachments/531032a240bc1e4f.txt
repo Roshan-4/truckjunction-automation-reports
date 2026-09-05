@@ -1,0 +1,6 @@
+[Redirection Check] SEO structure - Popular Truck Series [ta] [ta]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/tata-truck/lpt-1416 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata-truck/winger-15-seater -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/mahindra-truck/furio-8 -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

@@ -1,8 +1,0 @@
-[Redirection Check] CategoryPages - 10 Wheeler [en]: 6 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/eicher -> 500
-  - https://trucks.tractorjunction.com/en/bharat-benz -> 500
-  - https://trucks.tractorjunction.com/en/ipl-tech -> 500
-  - https://trucks.tractorjunction.com/en/olectra -> 500
-  - https://trucks.tractorjunction.com/en/sany -> 500
-  - https://trucks.tractorjunction.com/en/scania -> 500

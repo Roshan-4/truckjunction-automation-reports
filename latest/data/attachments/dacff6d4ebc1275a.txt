@@ -1,0 +1,7 @@
+[Redirection Check] SEO structure - ICV [hi] [hi]: 5 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/tata-truck/1412-lpt -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/912-lpk -> 502
+  - https://trucks.tractorjunction.com/hi/tata-truck/1512-lpt/review -> 502
+  - https://trucks.tractorjunction.com/hi/tata-truck/lpt-4830-cowl -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

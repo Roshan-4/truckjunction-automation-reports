@@ -1,0 +1,8 @@
+[Redirection Check] SEO structure - Mahindra Buses [hi] [hi]: 6 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/tata-truck/yodha-2-0 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra/blazo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tempo-traveller -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/12-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/icv -> ERROR: The operation was aborted due to timeout

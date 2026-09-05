@@ -1,0 +1,6 @@
+[Redirection Check] SEO structure - LCV [hi] [hi]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/compare/force+tempo-traveller-3050-vs-tata+winger-cargo -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

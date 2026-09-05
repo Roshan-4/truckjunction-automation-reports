@@ -1,9 +1,0 @@
-[Redirection Check] SEO structure - LCV [en] [en]: 7 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/eicher -> 500
-  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
-  - https://trucks.tractorjunction.com/en/force -> 500
-  - https://trucks.tractorjunction.com/en/switch-mobility -> 500
-  - https://trucks.tractorjunction.com/en/montra-electric -> 500
-  - https://trucks.tractorjunction.com/en/osm -> 500
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

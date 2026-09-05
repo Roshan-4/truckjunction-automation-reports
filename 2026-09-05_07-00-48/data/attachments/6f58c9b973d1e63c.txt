@@ -1,0 +1,6 @@
+[Redirection Check] SEO structure - CNG Trucks [hi] [hi]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/videos/cng-vs-electric-15-sal-ka-anabhava-daraivara-na-btaya-kana-ha-sabsa-bsata-oita-lna-sa-pahalnprra-thakha -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

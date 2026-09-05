@@ -1,0 +1,6 @@
+[Redirection Check] CategoryPages - Tempo Traveller [en]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata-truck/winger-staff -> 502
+  - https://trucks.tractorjunction.com/en/compare/tata+winger-vs-tata+winger-staff -> 502
+  - https://trucks.tractorjunction.com/en/used-truck/force/traveller-delivery-van-3700diesel-5825 -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

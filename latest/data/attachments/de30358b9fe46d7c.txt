@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - Eka 3W Cargo Reviews [ta] [ta]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://www.linkedin.com/company/truck-junction/ -> 429
+  - https://trucks.tractorjunction.com/ta/tata-truck/winger-cargo -> 502

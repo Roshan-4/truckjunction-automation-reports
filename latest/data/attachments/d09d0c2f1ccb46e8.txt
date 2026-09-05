@@ -1,0 +1,7 @@
+[Redirection Check] SEO structure - 2.5 ton - 5 ton Trucks [hi] [hi]: 5 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/tempo-traveller -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata-truck/yodha-pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/switch-mobility -> 502
+  - https://trucks.tractorjunction.com/hi/montra-electric -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

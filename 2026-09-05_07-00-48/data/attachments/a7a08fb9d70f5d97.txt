@@ -1,0 +1,25 @@
+[Redirection Check] SEO structure - Mahindra Bolero [en] [en]: 23 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/tata -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/ace -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/bolero -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/auto-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/4-wheeler -> 502
+  - https://trucks.tractorjunction.com/en/10-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra-truck/bolero-pikup-4x4 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/euler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/jupiter -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bharat-benz -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/pickup/mahindra-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/under-20-lakh -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/under-30-lakh -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/above-40-lakh -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/under-1-ton-trucks -> 502
+  - https://trucks.tractorjunction.com/en/1-ton-2.5-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/5-ton-10-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/signa -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/lpt -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/magic -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/atul/shakti -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/atul/rik -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

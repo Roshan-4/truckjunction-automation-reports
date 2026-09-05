@@ -1,0 +1,3 @@
+[Redirection Check] UsedTruck - Buy Used Trucks [en]: 1 broken link(s) found
+(logged only — does not fail the test):
+  - https://www.linkedin.com/company/truck-junction/ -> 429

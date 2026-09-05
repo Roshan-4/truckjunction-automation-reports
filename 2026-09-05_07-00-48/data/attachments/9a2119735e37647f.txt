@@ -1,0 +1,5 @@
+[Redirection Check] UtilityPages - Terms and Conditions [en]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/6-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/icv -> ERROR: The operation was aborted due to timeout
+  - https://www.linkedin.com/company/truck-junction/ -> 429

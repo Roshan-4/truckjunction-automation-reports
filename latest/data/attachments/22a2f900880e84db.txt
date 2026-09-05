@@ -1,0 +1,10 @@
+[Redirection Check] Homepage - Electric Commercial Vehicles [ta]: 8 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/ashok-leyland -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/tata-truck/ace-ev -> 502
+  - https://trucks.tractorjunction.com/ta/tata-truck/ace-gold-cng -> 502
+  - https://trucks.tractorjunction.com/ta/vehicle-permit-check -> 502
+  - https://trucks.tractorjunction.com/ta/diesel -> ERROR: The operation was aborted due to timeout
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

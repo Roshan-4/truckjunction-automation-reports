@@ -1,0 +1,11 @@
+[Redirection Check] SEO structure - Transit Mixer [ta] [ta]: 9 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/transit-mixer/tata-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/transit-mixer/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/transit-mixer/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/transit-mixer/mahindra-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/brands -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/ta/lpg -> ERROR: The operation was aborted due to timeout
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

@@ -1,0 +1,7 @@
+[Redirection Check] CategoryPages - Bi Fuel Trucks [en]: 5 broken link(s) found
+(logged only — does not fail the test):
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
+  - https://www.tractorjunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://thebikejunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
