@@ -1,0 +1,15 @@
+[Redirection Check] SEO structure - 10 ton - 20 ton Trucks [en] [en]: 13 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/1816-lpt -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/sml-isuzu -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/5-ton-10-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/magic -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/atul/gem -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/atul/shakti -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/atul/elite -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/atul/rik -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/scv -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

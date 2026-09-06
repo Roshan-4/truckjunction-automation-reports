@@ -1,0 +1,4 @@
+[Redirection Check] UtilityPages - Author Profile [en]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/mahindra -> 502
+  - https://trucks.tractorjunction.com/en/news/mahindra-jeeto-drive-a-thon-7-states-10-days -> 502

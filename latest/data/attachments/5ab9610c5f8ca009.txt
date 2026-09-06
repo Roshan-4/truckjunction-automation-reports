@@ -1,0 +1,27 @@
+[Redirection Check] UtilityPages - News Article Detail [en]: 25 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/3-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/supro -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra/bolero -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/euler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bajaj -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/popular-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/electric -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/buses/brands -> 404
+  - https://trucks.tractorjunction.com/en/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/dost -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tippers -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mini-truck -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/auto-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tempo-traveller -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/12-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/22-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/diesel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/lng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/hydrogen -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bi-fuel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/hcv -> ERROR: The operation was aborted due to timeout
+  - https://www.linkedin.com/company/truck-junction/ -> 429

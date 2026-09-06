@@ -1,3 +1,0 @@
-[Redirection Check] CategoryPages - Transit Mixer [en]: 1 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/tata-truck/signa-2823k-rmc-std-6s -> 502

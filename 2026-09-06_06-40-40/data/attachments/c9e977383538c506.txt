@@ -1,0 +1,20 @@
+[Redirection Check] CategoryPages - Eicher Trucks [en]: 18 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/10-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/hydrogen -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/4-wheeler/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/12-wheeler/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/14-wheeler/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/eicher-truck/pro-3018 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/trucks/eicher-trucks/under-40-lakh -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/eicher-truck/pro-2119 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bharat-benz -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tvs -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mini-truck/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tippers/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tractor/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/transit-mixer/eicher-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bharat-benz-truck/5528t-4x2 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/dump-truck-vs-tipper-truck-whats-the-difference -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/eicher-truck/pro-8035xm -> ERROR: The operation was aborted due to timeout

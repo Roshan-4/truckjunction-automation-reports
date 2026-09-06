@@ -1,0 +1,29 @@
+[Redirection Check] CategoryPages - Ashok Leyland Trucks [en]: 27 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/pickup -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/transit-mixer -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/14-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/4-wheeler/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/6-wheeler/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/10-wheeler/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/12-wheeler/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/14-wheeler/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/16-wheeler/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/trucks/ashok-leyland-trucks/under-30-lakh -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/trucks/ashok-leyland-trucks/above-40-lakh -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/partner -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bharat-benz -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/volvo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/scania -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/kinetic -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tvs -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mini-truck/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tippers/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tractor/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tempo-traveller/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-gold-2250cng-plus -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/yodha-ex-crew-cabin -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/dost -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/ashok-leyland-sales-report-august-2026 -> ERROR: The operation was aborted due to timeout
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

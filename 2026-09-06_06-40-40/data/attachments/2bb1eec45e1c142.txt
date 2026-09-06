@@ -1,0 +1,32 @@
+[Redirection Check] SEO structure - Mahindra Blazo [hi] [hi]: 30 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/bharat-benz -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/scania -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tippers/mahindra-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/under-10-lakh -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/under-15-lakh -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/above-40-lakh -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/12-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/lpg -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/under-1-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/40-ton-300-ton-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/ashok-leyland/ecomet -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata/signa -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata/ultra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata/winger -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata/intra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata/magic -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher/pro -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/sml-isuzu/sartaj -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/sml-isuzu/samrat -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul/gem -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul/shakti -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul/elite -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/news/mahindra-udo-vs-treo-plus-price-range-features -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra/blazo -> ERROR: The operation was aborted due to timeout
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

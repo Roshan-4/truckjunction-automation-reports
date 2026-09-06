@@ -1,0 +1,49 @@
+[Redirection Check] SEO structure - Eka 3W Cargo Price in Mumbai [hi] [hi]: 47 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/e-alfa-cargo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/compare/eka-mobility+3w-cargo-vs-mahindra+e-alfa-cargo -> 404
+  - https://trucks.tractorjunction.com/hi/euler-truck/hiload-ev-x -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/compare/eka-mobility+3w-cargo-vs-udaan+e-cart-loader -> 404
+  - https://trucks.tractorjunction.com/hi/lohia-truck/narain-cargo -> 404
+  - https://trucks.tractorjunction.com/hi/astro-truck/triyaan-navya -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/compare/eka-mobility+3w-cargo-vs-astro+triyaan-navya -> 404
+  - https://trucks.tractorjunction.com/hi/compare/eka-mobility+3w-cargo-vs-mahindra+treo-yaari-cargo -> 404
+  - https://trucks.tractorjunction.com/hi/eka-mobility -> 404
+  - https://trucks.tractorjunction.com/hi -> 500
+  - https://trucks.tractorjunction.com/hi/tata -> 404
+  - https://trucks.tractorjunction.com/hi/ashok-leyland -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/eicher -> 404
+  - https://trucks.tractorjunction.com/hi/mahindra -> 404
+  - https://trucks.tractorjunction.com/hi/brands -> 404
+  - https://trucks.tractorjunction.com/hi/popular-trucks -> 404
+  - https://trucks.tractorjunction.com/hi/electric -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata/ace -> 404
+  - https://trucks.tractorjunction.com/hi/mahindra/blazo -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra/bolero -> 404
+  - https://trucks.tractorjunction.com/hi/commercial-vehicle-series -> 404
+  - https://trucks.tractorjunction.com/hi/tippers -> 404
+  - https://trucks.tractorjunction.com/hi/tractor -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mini-truck -> 404
+  - https://trucks.tractorjunction.com/hi/pickup -> 404
+  - https://trucks.tractorjunction.com/hi/transit-mixer -> 404
+  - https://trucks.tractorjunction.com/hi/auto-rickshaw -> 404
+  - https://trucks.tractorjunction.com/hi/tempo-traveller -> 404
+  - https://trucks.tractorjunction.com/hi/8-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/12-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/16-wheeler -> 404
+  - https://trucks.tractorjunction.com/hi/18-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/22-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/cng -> 404
+  - https://trucks.tractorjunction.com/hi/lpg -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/lng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/bi-fuel -> 404
+  - https://trucks.tractorjunction.com/hi/hcv -> 502
+  - https://trucks.tractorjunction.com/hi/scv -> 404
+  - https://trucks.tractorjunction.com/hi/icv -> 404
+  - https://trucks.tractorjunction.com/web-stories -> 404
+  - https://trucks.tractorjunction.com/hi/thukral-electric-truck/ec-1 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mini-metro-truck/white-e-rickshaw-loader -> 404
+  - https://trucks.tractorjunction.com/hi/new-trucks -> 404
+  - https://trucks.tractorjunction.com/hi/about-us -> 404
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
+  - https://trucks.tractorjunction.com/hi/privacy-policy -> 404

@@ -1,0 +1,5 @@
+[Redirection Check] Homepage - Electric Commercial Vehicles [hi]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/zeo -> 502
+  - https://trucks.tractorjunction.com/hi/jezza-truck/super-j1000 -> 502
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
