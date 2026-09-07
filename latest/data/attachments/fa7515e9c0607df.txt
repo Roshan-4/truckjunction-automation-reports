@@ -1,4 +1,0 @@
-[Redirection Check] SEO structure - Offers [hi] [hi]: 2 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/icv -> 502
-  - https://trucks.tractorjunction.com/hi/offers/lohia-narain-c-plus-festive-gold-gift-offer -> 502

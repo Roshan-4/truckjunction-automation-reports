@@ -1,0 +1,6 @@
+[Redirection Check] SEO structure - Bi Fuel Trucks [ta] [ta]: 4 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/eicher-truck/pro-8055-tt -> 502
+  - https://trucks.tractorjunction.com/ta/baxy-truck/cargo-super-king -> 502
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

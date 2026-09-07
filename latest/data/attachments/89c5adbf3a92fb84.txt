@@ -1,0 +1,11 @@
+[Redirection Check] SEO structure - Auto Rickshaw [hi] [hi]: 9 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/auto-rickshaw/piaggio-trucks -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/bajaj-truck/gogo/review -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/tvs-truck/king-ev-max -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/videos/tata-intra-v40-ac-full-review-features-payload-details-truck-junction -> ERROR: fetch failed
+  - https://thebikejunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://infra.tractorjunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/sell-used-truck -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/hi/contact-us -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

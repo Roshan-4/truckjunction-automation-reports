@@ -1,0 +1,7 @@
+[Redirection Check] CategoryPages - Mini Trucks [en]: 5 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/auto-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mini-truck/mahindra-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mini-truck/eka-mobility-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/osm -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/latest-trucks -> ERROR: The operation was aborted due to timeout

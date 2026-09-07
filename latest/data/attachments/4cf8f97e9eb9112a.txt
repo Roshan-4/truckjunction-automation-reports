@@ -1,0 +1,9 @@
+[Redirection Check] SEO structure - CV Permit [en] [en]: 7 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/hydrogen -> 502
+  - https://trucks.tractorjunction.com/en/tyres/ -> 502
+  - https://vahan.parivahan.gov.in/vahanservice/vahan/ui/statevalidation/homepage.xhtml -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/news/mahindra-jeeto-drive-a-thon-7-states-10-days -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
+  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
+  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

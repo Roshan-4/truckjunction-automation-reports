@@ -1,0 +1,26 @@
+[Redirection Check] SEO structure - 3 Wheeler [hi] [hi]: 24 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/eicher -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tata/ace -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mini-truck -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tempo-traveller -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/petrol -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/cng -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/3-wheeler/osm-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/3-wheeler/mahindra-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/3-wheeler/baxy-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/3-wheeler/sn-solar-energy-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/3-wheeler/gkon-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/3-wheeler/jsa-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/3-wheeler/city-life-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/bajaj-truck/wego-p70 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/electric/e-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/bajaj-truck/riki-c4005 -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/tvs -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/saarthi -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/montra-electric -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/supertech-truck/passenger-maxx -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/atul-truck/rik-petrol -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/bajaj-truck/compact-re -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/mahindra-truck/e-alfa-plus -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/hi/news/top-6-mini-trucks-under-1-5-ton-2026 -> ERROR: The operation was aborted due to timeout

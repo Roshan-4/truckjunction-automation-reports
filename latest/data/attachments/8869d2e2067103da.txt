@@ -1,0 +1,29 @@
+[Redirection Check] CategoryPages - Transit Mixer [en]: 27 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/ashok-leyland -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mahindra -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/electric -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata/ace -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland/boss -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/mini-truck -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/16-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/22-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/lpg -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/hydrogen -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bi-fuel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/hcv -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/scv -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/signa-2823k-rmc-std-6s -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/signa-2821k-rmc-std-6s -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/2825-rmc -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/transit-mixer/tata-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/transit-mixer/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/transit-mixer/bharat-benz-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/transit-mixer/mahindra-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/3525-rmc -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/prima-2830k-repto -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bharat-benz-truck/2828c-rmc -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/eicher-truck/pro-6035-tm -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/prima-3530k-repto -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/electric/e-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/news/chhath-puja-2025-heavy-duty-vehicles-traffic-restrictions -> ERROR: The operation was aborted due to timeout

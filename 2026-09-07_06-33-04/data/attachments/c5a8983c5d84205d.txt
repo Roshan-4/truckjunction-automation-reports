@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - Homepage [hi] [hi]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
+  - https://trucks.tractorjunction.com/hi/onroadprice?utm_source=bottom_nav&utm_medium=navigation&utm_campaign=on_road_price -> 502

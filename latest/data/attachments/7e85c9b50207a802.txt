@@ -1,0 +1,19 @@
+[Redirection Check] CategoryPages - Tempo Traveller [en]: 17 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/electric -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tempo-traveller -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/4-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/8-wheeler -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/diesel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/bi-fuel -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/scv -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tata-truck/magic-express-school-van -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tempo-traveller/force-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tempo-traveller/tata-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tempo-traveller/maruti-suzuki-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tempo-traveller/mahindra-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/tempo-traveller/ashok-leyland-trucks -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/force -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/maruti-suzuki -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/electric/e-rickshaw -> ERROR: The operation was aborted due to timeout
+  - https://trucks.tractorjunction.com/en/golf-cart -> ERROR: The operation was aborted due to timeout

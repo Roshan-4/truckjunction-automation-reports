@@ -1,0 +1,5 @@
+[Redirection Check] UtilityPages - Videos [en]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/22-wheeler -> 502
+  - https://www.linkedin.com/company/truck-junction/ -> 429
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

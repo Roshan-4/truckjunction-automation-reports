@@ -1,0 +1,15 @@
+[Redirection Check] SEO structure - Best Trucks [en] [en]: 13 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/lng -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/hcv -> ERROR: fetch failed
+  - https://www.linkedin.com/company/truck-junction/ -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/new-trucks -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/tata-truck/ace-gold -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/eicher-truck/pro-2055-ev -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/tata-truck/ultra-e9 -> ERROR: fetch failed
+  - https://infra.tractorjunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/contact-us -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/sitemap -> ERROR: fetch failed
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
+  - https://play.google.com/store/apps/details?id=com.truckjunction -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/advertise-with-us -> ERROR: fetch failed
