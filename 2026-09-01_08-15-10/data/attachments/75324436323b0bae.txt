@@ -1,4 +1,0 @@
-[Redirection Check] SEO structure - Auto Rickshaw [ta] [ta]: 2 broken link(s) found
-(logged only — does not fail the test):
-  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

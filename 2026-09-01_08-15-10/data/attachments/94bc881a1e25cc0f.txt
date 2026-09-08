@@ -1,4 +1,0 @@
-[Redirection Check] SEO structure - 3 Wheeler [en] [en]: 2 broken link(s) found
-(logged only — does not fail the test):
-  - https://www.linkedin.com/company/truck-junction/ -> 429
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

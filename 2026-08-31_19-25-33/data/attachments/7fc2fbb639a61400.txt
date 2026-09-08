@@ -1,8 +1,0 @@
-[Redirection Check] SEO structure - Tata Buses [en] [en]: 6 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/ashok-leyland/boss -> 502
-  - https://trucks.tractorjunction.com/en/4-wheeler -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
-  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
-  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
-  - https://play.google.com/store/apps/details?id=com.truckjunction -> ERROR: fetch failed

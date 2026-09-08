@@ -1,6 +1,0 @@
-[Redirection Check] Compare - Compare Trucks [en]: 4 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/tata-truck/winger-touriststaff -> 404
-  - https://trucks.tractorjunction.com/en/ashok-leyland-truck/ecomet-1615-he -> 404
-  - https://trucks.tractorjunction.com/en/compare/mahindra+jeeto-vs-bajaj+compact-re -> 404
-  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed

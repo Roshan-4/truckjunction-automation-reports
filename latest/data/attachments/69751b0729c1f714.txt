@@ -1,6 +1,0 @@
-[Redirection Check] SEO structure - 12 Wheeler [en] [en]: 4 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/latest-trucks -> ERROR: fetch failed
-  - https://trucks.tractorjunction.com/en/select-your-truck/construction -> ERROR: fetch failed
-  - https://trucks.tractorjunction.com/en/news/mahindra-jeeto-drive-a-thon-7-states-10-days -> ERROR: fetch failed
-  - https://thebikejunction.com/?id=com.truckjunction&utm_medium=footer -> ERROR: fetch failed

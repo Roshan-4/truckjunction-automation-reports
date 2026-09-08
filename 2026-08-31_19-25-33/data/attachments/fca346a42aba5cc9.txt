@@ -1,7 +1,0 @@
-[Redirection Check] UtilityPages - Dealers [en]: 5 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/mahindra -> 502
-  - https://trucks.tractorjunction.com/en/buy-used-trucks -> 502
-  - https://trucks.tractorjunction.com/en/pickup -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
-  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

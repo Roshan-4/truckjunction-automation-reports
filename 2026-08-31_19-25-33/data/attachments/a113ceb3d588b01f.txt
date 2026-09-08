@@ -1,4 +1,0 @@
-[Redirection Check] SEO structure - Blog Article Detail [ta] [ta]: 2 broken link(s) found
-(logged only — does not fail the test):
-  - http://twitter.com/share?url=https://trucks.tractorjunction.com/blog/ace-pro-ev-vs-treo-zor-vs-reep-l3/&text=ACE%20Pro%20EV%20vs%20Treo%20Zor%20vs%20Reep%203%20Wheeler%3A%20Best%20Electric%20Cargo%20EV%20for%20Your%20Business%20 -> 520
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

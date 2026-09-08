@@ -1,6 +1,0 @@
-[Redirection Check] CategoryPages - ICV [en]: 4 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/service-center -> 502
-  - https://trucks.tractorjunction.com/en/8-wheeler -> 502
-  - https://trucks.tractorjunction.com/en/mahindra-truck/e-alfa-plus -> 502
-  - https://www.linkedin.com/company/truck-junction/ -> 429

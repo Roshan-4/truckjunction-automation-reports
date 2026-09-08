@@ -1,5 +1,0 @@
-[Redirection Check] SEO structure - Diesel Trucks [ta] [ta]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/ta/tata-truck/1412-lpt/review -> 502
-  - https://trucks.tractorjunction.com/ta/mahindra-truck/bolero-pikup-4x4/review -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

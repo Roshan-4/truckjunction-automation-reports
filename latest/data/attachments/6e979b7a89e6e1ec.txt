@@ -1,7 +1,0 @@
-[Redirection Check] SEO structure - 3 Wheeler [ta] [ta]: 5 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/ta/3-wheeler/osm-trucks -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/ta/3-wheeler/baxy-trucks -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/ta/3-wheeler/mayuri-trucks -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/ta/3-wheeler/city-life-trucks -> ERROR: The operation was aborted due to timeout
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

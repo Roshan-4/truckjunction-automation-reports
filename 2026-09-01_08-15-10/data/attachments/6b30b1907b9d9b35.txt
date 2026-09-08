@@ -1,4 +1,0 @@
-[Redirection Check] SEO structure - Latest Trucks [ta] [ta]: 2 broken link(s) found
-(logged only — does not fail the test):
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
-  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

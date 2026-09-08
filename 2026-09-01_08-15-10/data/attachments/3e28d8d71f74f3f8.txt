@@ -1,4 +1,0 @@
-[Redirection Check] SEO structure - Ashok Leyland Trucks [ta] [ta]: 2 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/ta/onroadprice -> 502
-  - https://trucks.tractorjunction.com/ta/emi-calculator -> 502

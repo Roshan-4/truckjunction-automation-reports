@@ -1,4 +1,0 @@
-[Redirection Check] CategoryPages - Electric Commercial Vehicles [en]: 2 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/news/mahindra-crosses-4-lakh-ev-sales -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

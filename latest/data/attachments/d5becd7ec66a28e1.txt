@@ -1,7 +1,0 @@
-[Redirection Check] SEO structure - CNG Trucks [ta] [ta]: 5 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/ta/buses/ -> 502
-  - https://trucks.tractorjunction.com/ta/eicher-truck/pro-2049-cng -> 502
-  - https://trucks.tractorjunction.com/ta/under-20-lakh -> 502
-  - https://trucks.tractorjunction.com/ta/videos/tata-ace-vs-super-carry-aapaka-kama-ka-le-bsata-kana-ace-vs-super-carry-kana-ha-aapaka-kamaii-ka-satha -> 502
-  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed

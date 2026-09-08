@@ -1,5 +1,0 @@
-[Redirection Check] UtilityPages - Spare Parts [en]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/vehicle-permit-check -> 502
-  - https://trucks.tractorjunction.com/en/hydrogen -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

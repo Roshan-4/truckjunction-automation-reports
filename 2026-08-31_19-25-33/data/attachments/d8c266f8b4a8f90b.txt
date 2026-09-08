@@ -1,6 +1,0 @@
-[Redirection Check] UsedTruck - Buy Used Trucks [en]: 4 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/10-wheeler -> 502
-  - https://trucks.tractorjunction.com/en/used-truck/eicher/1095-256 -> 502
-  - https://trucks.tractorjunction.com/en/used-truck-in-west-bengal -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

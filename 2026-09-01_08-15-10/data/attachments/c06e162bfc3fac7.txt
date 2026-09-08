@@ -1,5 +1,0 @@
-[Redirection Check] SEO structure - Spare Parts [en] [en]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/18-wheeler -> 502
-  - https://trucks.tractorjunction.com/en/spare-parts/maharashtra/thane -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

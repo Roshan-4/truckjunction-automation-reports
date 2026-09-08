@@ -1,6 +1,0 @@
-[Redirection Check] SEO structure - LCV [hi] [hi]: 4 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/ashok-leyland -> 502
-  - https://trucks.tractorjunction.com/hi/14-wheeler -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
-  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
