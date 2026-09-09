@@ -1,5 +1,0 @@
-[Redirection Check] UtilityPages - Blog Article Detail [en]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/16-wheeler -> 502
-  - whatsapp://send?text=https%3A%2F%2Ftrucks.tractorjunction.com%2Fblog%2Face-pro-ev-vs-treo-zor-vs-reep-l3%2F%20ACE%20Pro%20EV%20vs%20Treo%20Zor%20vs%20Reep%203%20Wheeler%3A%20Best%20Electric%20Cargo%20EV%20for%20Your%20Business -> ERROR: fetch failed
-  - http://twitter.com/share?url=https://trucks.tractorjunction.com/blog/ace-pro-ev-vs-treo-zor-vs-reep-l3/&text=ACE%20Pro%20EV%20vs%20Treo%20Zor%20vs%20Reep%203%20Wheeler%3A%20Best%20Electric%20Cargo%20EV%20for%20Your%20Business%20 -> 520

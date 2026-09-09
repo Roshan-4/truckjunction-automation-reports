@@ -1,4 +1,0 @@
-[Redirection Check] CategoryPages - Trailers [en]: 2 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/news/fada-combined-cv-retail-sales-report-september-2025 -> 502
-  - https://trucks.tractorjunction.com/en/service-center/ -> 502

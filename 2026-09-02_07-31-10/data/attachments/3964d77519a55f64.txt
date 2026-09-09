@@ -1,3 +1,0 @@
-[Redirection Check] SEO structure - Ashok Leyland Trucks [ta] [ta]: 1 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/ta/4-wheeler -> 502

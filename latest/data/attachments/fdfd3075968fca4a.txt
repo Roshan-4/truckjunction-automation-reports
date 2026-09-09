@@ -1,0 +1,5 @@
+[Redirection Check] SEO structure - All Truck Brands [hi] [hi]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/brochure/ -> 502
+  - https://trucks.tractorjunction.com/hi/cng -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

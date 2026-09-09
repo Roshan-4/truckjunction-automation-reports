@@ -1,0 +1,5 @@
+[Redirection Check] SEO structure - Sitemap [ta] [ta]: 3 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/tippers -> 502
+  - https://trucks.tractorjunction.com/ta/auto-rickshaw/eka-mobility-trucks -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

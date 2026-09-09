@@ -1,6 +1,0 @@
-[Redirection Check] Homepage - The Buzz Board [hi]: 4 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/diesel -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/hi/hcv -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/hi/bharat-benz -> ERROR: The operation was aborted due to timeout
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

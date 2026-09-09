@@ -1,7 +1,0 @@
-[Redirection Check] SEO structure - Popular Buses [ta] [ta]: 5 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/ta/tata -> 502
-  - https://trucks.tractorjunction.com/ta/mini-truck -> 502
-  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
-  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed
