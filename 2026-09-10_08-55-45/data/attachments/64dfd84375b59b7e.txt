@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - 16 Wheeler [ta] [ta]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/tata-truck/lpt-4825 -> 502
+  - https://trucks.tractorjunction.com/ta/mahindra-truck/blazo-x-48 -> 502

@@ -1,6 +1,0 @@
-[Redirection Check] SEO structure - Sitemap [en] [en]: 4 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/evage-motors -> 502
-  - https://trucks.tractorjunction.com/en/3-wheeler/gayatri-electric-trucks -> 502
-  - https://trucks.tractorjunction.com/en/3-wheeler/e-maggic-trucks -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

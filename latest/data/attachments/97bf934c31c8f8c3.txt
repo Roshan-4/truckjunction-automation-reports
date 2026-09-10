@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - Transit Mixer [hi] [hi]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/ashok-leyland-truck/2820-rmc -> 502
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

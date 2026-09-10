@@ -1,4 +1,0 @@
-[Redirection Check] SEO structure - 18 Wheeler [hi] [hi]: 2 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/videos/jcb-vs-dumper-kaunsa-business-hai-best-earnings-investment-guide -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
