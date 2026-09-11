@@ -1,8 +1,0 @@
-[Redirection Check] SEO structure - HCV [hi] [hi]: 6 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/eicher -> 500
-  - https://trucks.tractorjunction.com/hi/bharat-benz -> 500
-  - https://trucks.tractorjunction.com/hi/volvo -> 500
-  - https://trucks.tractorjunction.com/hi/propel -> 500
-  - https://trucks.tractorjunction.com/hi/blue-energy -> 500
-  - https://trucks.tractorjunction.com/hi/montra-electric -> 500

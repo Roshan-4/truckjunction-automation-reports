@@ -1,6 +1,0 @@
-[Redirection Check] SEO structure - Popular Truck Series [ta] [ta]: 4 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/ta/eicher -> 500
-  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed
-  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

@@ -1,8 +1,0 @@
-[Redirection Check] SEO structure - Popular Truck Series [ta] [ta]: 6 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/ta/eicher -> 500
-  - https://trucks.tractorjunction.com/ta/tata-truck/610-sfc -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/ta/tata-truck/intra-v20-bi-fuel -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/ta/ashok-leyland-truck/partner-super-1114 -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/ta/ashok-leyland-truck/partner-super-1014 -> ERROR: The operation was aborted due to timeout
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

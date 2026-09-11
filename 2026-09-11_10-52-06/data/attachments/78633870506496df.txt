@@ -1,0 +1,17 @@
+[Redirection Check] SEO structure - Tempo Traveller [hi] [hi]: 15 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/mahindra -> 404
+  - https://trucks.tractorjunction.com/hi/force -> 404
+  - https://trucks.tractorjunction.com/hi/maruti-suzuki -> 404
+  - https://trucks.tractorjunction.com/hi/force-truck/traveller-n -> 404
+  - https://trucks.tractorjunction.com/hi/force-truck/traveller-n-school-bus -> 404
+  - https://trucks.tractorjunction.com/hi/force-truck/traveller-n-ambulance -> 404
+  - https://trucks.tractorjunction.com/hi/force-truck/urbania-dx -> 404
+  - https://trucks.tractorjunction.com/hi/force-truck/traveller-n-delivery-van -> 404
+  - https://trucks.tractorjunction.com/hi/tata-truck/winger-plus -> 404
+  - https://trucks.tractorjunction.com/hi/latest-trucks -> 404
+  - https://trucks.tractorjunction.com/hi/compare/tata+winger-vs-tata+winger-staff -> 404
+  - https://trucks.tractorjunction.com/hi/compare/force+tempo-traveller-3050-vs-tata+winger-cargo -> 404
+  - https://trucks.tractorjunction.com/hi/compare/tata+winger-touriststaff-vs-force+tempo-traveller-3050 -> 404
+  - https://trucks.tractorjunction.com/hi/used-truck/force/traveller-delivery-van-3700diesel-5825 -> 404
+  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

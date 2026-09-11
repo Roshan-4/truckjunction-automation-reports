@@ -1,7 +1,0 @@
-[Redirection Check] CategoryPages - Ashok Leyland Trucks [en]: 5 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/eicher -> 500
-  - https://trucks.tractorjunction.com/en/bharat-benz -> 500
-  - https://trucks.tractorjunction.com/en/volvo -> 500
-  - https://trucks.tractorjunction.com/en/scania -> 500
-  - https://www.facebook.com/truckjunction/ -> ERROR: fetch failed

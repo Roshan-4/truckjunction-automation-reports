@@ -1,5 +1,0 @@
-[Redirection Check] SEO structure - Compare Trucks [en] [en]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/eicher -> 500
-  - https://trucks.tractorjunction.com/en/volvo -> 500
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

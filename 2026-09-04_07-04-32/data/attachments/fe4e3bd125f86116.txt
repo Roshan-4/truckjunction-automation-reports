@@ -1,4 +1,0 @@
-[Redirection Check] Compare - Compare Trucks [en]: 2 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/eicher -> 500
-  - https://trucks.tractorjunction.com/en/volvo -> 500

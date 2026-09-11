@@ -1,8 +1,0 @@
-[Redirection Check] SEO structure - News [hi] [hi]: 6 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/eicher -> 500
-  - https://trucks.tractorjunction.com/hi/brochure/ -> 502
-  - https://trucks.tractorjunction.com/hi/buses/ -> 502
-  - https://trucks.tractorjunction.com/hi/6-wheeler -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
-  - https://www.linkedin.com/company/truck-junction/ -> 429

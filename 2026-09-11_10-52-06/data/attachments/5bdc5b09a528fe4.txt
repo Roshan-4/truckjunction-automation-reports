@@ -1,0 +1,4 @@
+[Redirection Check] CategoryPages - Ashok Leyland Boss [en]: 2 broken link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/sml-isuzu -> 502
+  - https://trucks.tractorjunction.com/en/used-truck/ashok-leyland/boss-1215-hb-2339 -> 502
