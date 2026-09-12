@@ -1,6 +1,0 @@
-[Redirection Check] Homepage - Latest Models by Category [hi]: 4 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/used-truck-in-lucknow -> 404
-  - https://trucks.tractorjunction.com/hi/used-truck-in-jaipur -> 404
-  - https://trucks.tractorjunction.com/hi/used-truck-in-delhi -> 404
-  - https://trucks.tractorjunction.com/hi/used-truck-in-bangalore -> 404
