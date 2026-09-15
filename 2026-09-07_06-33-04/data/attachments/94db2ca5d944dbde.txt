@@ -1,3 +1,0 @@
-[Redirection Check] Buses - Eicher Buses [en]: 1 broken link(s) found
-(logged only — does not fail the test):
-  - https://www.instagram.com/trucksjunction/ -> ERROR: fetch failed

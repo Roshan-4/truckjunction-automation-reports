@@ -1,6 +1,0 @@
-[Redirection Check] SEO structure - LCV [hi] [hi]: 4 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/ashok-leyland/boss -> 502
-  - https://trucks.tractorjunction.com/hi/transit-mixer -> 502
-  - https://trucks.tractorjunction.com/hi/ashok-leyland-truck/ecomet-1615-he -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

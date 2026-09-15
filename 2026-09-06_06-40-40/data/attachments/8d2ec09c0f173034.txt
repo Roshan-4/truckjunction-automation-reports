@@ -1,3 +1,0 @@
-[Redirection Check] UtilityPages - Videos [en]: 1 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/videos/jcb-vs-dumper-kaunsa-business-hai-best-earnings-investment-guide -> 502

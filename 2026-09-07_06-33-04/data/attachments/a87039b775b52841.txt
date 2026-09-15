@@ -1,5 +1,0 @@
-[Redirection Check] SEO structure - Select Your Truck [hi] [hi]: 3 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/news/ashok-leyland-august-2026-sales-report -> 502
-  - https://trucks.tractorjunction.com/hi/compare?utm_source=bottom_nav&utm_medium=navigation&utm_campaign=compare -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429

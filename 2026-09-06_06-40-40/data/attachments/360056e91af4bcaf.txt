@@ -1,8 +1,0 @@
-[Redirection Check] SEO structure - 8 Wheeler [en] [en]: 6 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/ashok-leyland -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/en/mahindra-truck/zeo -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/en/pickup -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/en/auto-rickshaw -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/en/trucks -> ERROR: The operation was aborted due to timeout
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> ERROR: fetch failed

@@ -1,7 +1,0 @@
-[Redirection Check] SEO structure - 10 ton - 20 ton Trucks [ta] [ta]: 5 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/ta/transit-mixer -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/ta/tata/sfc -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/ta/volvo/fm -> ERROR: The operation was aborted due to timeout
-  - https://trucks.tractorjunction.com/ta/atul/shakti -> 502
-  - https://www.whatsapp.com/channel/0029VanHmWVISTkQLRgXJb20 -> 429
