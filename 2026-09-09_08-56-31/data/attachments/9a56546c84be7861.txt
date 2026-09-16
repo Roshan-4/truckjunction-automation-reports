@@ -1,3 +1,0 @@
-[Redirection Check] SEO structure - Tippers [hi] [hi]: 1 broken link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/compare/ashok-leyland+4825-tipper-vs-tata+signa-4825tk -> 502
