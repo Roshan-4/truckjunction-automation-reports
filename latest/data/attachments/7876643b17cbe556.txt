@@ -1,0 +1,3 @@
+[Redirection Check] SEO structure - Goodyear Tyres [en] [en]: 1 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/buy-used-trucks -> ERROR: fetch failed

@@ -1,0 +1,3 @@
+[Redirection Check] Compare - Compare Trucks [hi]: 1 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/popular-trucks -> ERROR: fetch failed

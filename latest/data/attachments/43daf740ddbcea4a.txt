@@ -1,0 +1,3 @@
+[Redirection Check] SEO structure - Ashok Leyland Trucks [hi] [hi]: 1 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/ashok-leyland-truck/boss-1115-tipper -> ERROR: fetch failed
