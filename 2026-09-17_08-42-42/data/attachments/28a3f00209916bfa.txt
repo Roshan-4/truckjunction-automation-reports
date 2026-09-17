@@ -1,0 +1,12 @@
+[Redirection Check] SEO structure - CNG Trucks [hi] [hi]: 10 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/tata -> 500
+  - https://trucks.tractorjunction.com/hi/eicher -> 500
+  - https://trucks.tractorjunction.com/hi/atul -> 500
+  - https://trucks.tractorjunction.com/hi/piaggio -> 500
+  - https://trucks.tractorjunction.com/hi/ashok-leyland -> 500
+  - https://trucks.tractorjunction.com/hi/mahindra -> 500
+  - https://trucks.tractorjunction.com/hi/jsa -> 500
+  - https://trucks.tractorjunction.com/hi/tvs -> 500
+  - https://trucks.tractorjunction.com/hi/maruti-suzuki -> 500
+  - https://trucks.tractorjunction.com/hi/bajaj -> 500

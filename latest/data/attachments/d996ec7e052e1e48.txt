@@ -1,0 +1,13 @@
+[Redirection Check] SEO structure - 1 ton - 2.5 ton Trucks [ta] [ta]: 11 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/tata -> 500
+  - https://trucks.tractorjunction.com/ta/ashok-leyland -> 500
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://trucks.tractorjunction.com/ta/mahindra -> 500
+  - https://trucks.tractorjunction.com/ta/bajaj -> 500
+  - https://trucks.tractorjunction.com/ta/maruti-suzuki -> 500
+  - https://trucks.tractorjunction.com/ta/thukral-electric -> 500
+  - https://trucks.tractorjunction.com/ta/euler -> 500
+  - https://trucks.tractorjunction.com/ta/atul -> 500
+  - https://trucks.tractorjunction.com/ta/e-ashwa -> 500
+  - https://trucks.tractorjunction.com/ta/jsa -> 500

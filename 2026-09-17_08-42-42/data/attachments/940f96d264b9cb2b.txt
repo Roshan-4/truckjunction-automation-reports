@@ -1,0 +1,9 @@
+[Redirection Check] SEO structure - Pickups [hi] [hi]: 7 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/isuzu -> 500
+  - https://trucks.tractorjunction.com/hi/ashok-leyland -> 500
+  - https://trucks.tractorjunction.com/hi/tata -> 500
+  - https://trucks.tractorjunction.com/hi/mahindra -> 500
+  - https://trucks.tractorjunction.com/hi/euler -> 500
+  - https://trucks.tractorjunction.com/hi/montra-electric -> 500
+  - https://trucks.tractorjunction.com/hi/jupiter -> 500

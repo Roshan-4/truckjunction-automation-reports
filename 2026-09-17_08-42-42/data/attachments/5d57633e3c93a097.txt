@@ -1,0 +1,4 @@
+[Redirection Check] Homepage - Search The Right Truck [en]: 2 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/mahindra-truck/treo-plus -> ERROR: fetch failed
+  - https://trucks.tractorjunction.com/en/mahindra-truck/zor-grand -> ERROR: fetch failed

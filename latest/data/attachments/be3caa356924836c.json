@@ -1,0 +1,51 @@
+{
+  "path": "/en/vehicle-history-report",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Know Your Complete Vehicle History in Seconds"
+    },
+    {
+      "tag": "h2",
+      "text": "How it works"
+    },
+    {
+      "tag": "h2",
+      "text": "Popular Used Trucks"
+    },
+    {
+      "tag": "h2",
+      "text": "Benefits of Vehicle History"
+    },
+    {
+      "tag": "h2",
+      "text": "Looking for New Trucks"
+    },
+    {
+      "tag": "h2",
+      "text": "What Can I Do with a Vehicle History Report?"
+    },
+    {
+      "tag": "h2",
+      "text": "News and Updates"
+    },
+    {
+      "tag": "h2",
+      "text": "FAQ"
+    },
+    {
+      "tag": "h2",
+      "text": "Ready to Check your Vehicle's History?"
+    }
+  ],
+  "faq": {
+    "heading": "",
+    "questions": [
+      "What details are included in the vehicle history report?",
+      "How can I check a vehicle’s history?",
+      "Is the vehicle history data accurate and trustworthy?",
+      "Can I check the history of any commercial vehicle?",
+      "Do I need to sign up to access the report?"
+    ]
+  }
+}

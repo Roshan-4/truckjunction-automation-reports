@@ -1,0 +1,12 @@
+[Redirection Check] SEO structure - Ashok Leyland Boss [hi] [hi]: 10 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/tata -> 500
+  - https://trucks.tractorjunction.com/hi/eicher -> 500
+  - https://trucks.tractorjunction.com/hi/mahindra -> 500
+  - https://trucks.tractorjunction.com/hi/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/hi/sml-isuzu -> 500
+  - https://trucks.tractorjunction.com/hi/volvo -> 500
+  - https://trucks.tractorjunction.com/hi/propel -> 500
+  - https://trucks.tractorjunction.com/hi/ipl-tech -> 500
+  - https://trucks.tractorjunction.com/hi/olectra -> 500
+  - https://trucks.tractorjunction.com/hi/ashok-leyland -> 500

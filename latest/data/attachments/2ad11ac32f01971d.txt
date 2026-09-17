@@ -1,0 +1,11 @@
+[Redirection Check] SEO structure - 3 Wheeler [ta] [ta]: 9 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/mahindra -> 500
+  - https://trucks.tractorjunction.com/ta/bajaj -> 500
+  - https://trucks.tractorjunction.com/ta/piaggio -> 500
+  - https://trucks.tractorjunction.com/ta/tvs -> 500
+  - https://trucks.tractorjunction.com/ta/atul -> 500
+  - https://trucks.tractorjunction.com/ta/saarthi -> 500
+  - https://trucks.tractorjunction.com/ta/thukral-electric -> 500
+  - https://trucks.tractorjunction.com/ta/montra-electric -> 500
+  - https://trucks.tractorjunction.com/ta/jsa -> 500

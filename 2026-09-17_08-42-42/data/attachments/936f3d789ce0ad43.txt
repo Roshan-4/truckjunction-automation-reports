@@ -1,0 +1,7 @@
+[Redirection Check] SEO structure - 16 Wheeler [ta] [ta]: 5 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/tata -> 500
+  - https://trucks.tractorjunction.com/ta/ashok-leyland -> 500
+  - https://trucks.tractorjunction.com/ta/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/ta/mahindra -> 500
+  - https://trucks.tractorjunction.com/ta/eicher -> 500

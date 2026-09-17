@@ -1,0 +1,3 @@
+[Redirection Check] SEO structure - 8 Wheeler [en] [en]: 1 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/contact-us -> ERROR: fetch failed

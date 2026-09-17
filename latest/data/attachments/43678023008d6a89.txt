@@ -1,0 +1,12 @@
+[Redirection Check] SEO structure - Mahindra Bolero [ta] [ta]: 10 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/tata -> 500
+  - https://trucks.tractorjunction.com/ta/ashok-leyland -> 500
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://trucks.tractorjunction.com/ta/mahindra -> 500
+  - https://trucks.tractorjunction.com/ta/montra-electric -> 500
+  - https://trucks.tractorjunction.com/ta/euler -> 500
+  - https://trucks.tractorjunction.com/ta/isuzu -> 500
+  - https://trucks.tractorjunction.com/ta/jupiter -> 500
+  - https://trucks.tractorjunction.com/ta/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/ta/mahindra-truck/bolero-pikup-extrastrong -> ERROR: The operation was aborted due to timeout

@@ -1,0 +1,12 @@
+[Redirection Check] SEO structure - SCV [hi] [hi]: 10 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/mahindra -> 500
+  - https://trucks.tractorjunction.com/hi/tata -> 500
+  - https://trucks.tractorjunction.com/hi/ashok-leyland -> 500
+  - https://trucks.tractorjunction.com/hi/piaggio -> 500
+  - https://trucks.tractorjunction.com/hi/lohia -> 500
+  - https://trucks.tractorjunction.com/hi/atul -> 500
+  - https://trucks.tractorjunction.com/hi/indo-wagen -> 500
+  - https://trucks.tractorjunction.com/hi/khalsa -> 500
+  - https://trucks.tractorjunction.com/hi/osm -> 500
+  - https://trucks.tractorjunction.com/hi/eicher -> 500

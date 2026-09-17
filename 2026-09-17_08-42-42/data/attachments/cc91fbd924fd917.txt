@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - LPG Trucks [ta] [ta]: 2 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/atul -> 500
+  - https://trucks.tractorjunction.com/ta/piaggio -> 500

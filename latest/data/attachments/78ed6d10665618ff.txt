@@ -1,0 +1,6 @@
+[Redirection Check] SEO structure - Spare Parts [ta] [ta]: 4 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/tata -> 500
+  - https://trucks.tractorjunction.com/ta/ashok-leyland -> 500
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://trucks.tractorjunction.com/ta/mahindra -> 500

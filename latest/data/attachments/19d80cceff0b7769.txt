@@ -1,0 +1,3 @@
+[Redirection Check] Homepage - Popular Second Hand Truck [en]: 1 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/used-truck-in-delhi -> ERROR: The operation was aborted due to timeout

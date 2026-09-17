@@ -1,0 +1,16 @@
+[Redirection Check] SEO structure - All Truck Brands [hi] [hi]: 14 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/mahindra -> 500
+  - https://trucks.tractorjunction.com/hi/tata -> 500
+  - https://trucks.tractorjunction.com/hi/euler -> 500
+  - https://trucks.tractorjunction.com/hi/ashok-leyland -> 500
+  - https://trucks.tractorjunction.com/hi/eicher -> 500
+  - https://trucks.tractorjunction.com/hi/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/hi/force -> 500
+  - https://trucks.tractorjunction.com/hi/sml-isuzu -> 500
+  - https://trucks.tractorjunction.com/hi/volvo -> 500
+  - https://trucks.tractorjunction.com/hi/saera -> 500
+  - https://trucks.tractorjunction.com/hi/scania -> 500
+  - https://trucks.tractorjunction.com/hi/isuzu -> 500
+  - https://trucks.tractorjunction.com/hi/maruti-suzuki -> 500
+  - https://trucks.tractorjunction.com/hi/blue-energy -> 500

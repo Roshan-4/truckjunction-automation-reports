@@ -1,4 +1,0 @@
-[Redirection Check] SEO structure - Mahindra Bolero [ta] [ta]: 2 broken Truck Junction link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/ta/service-center -> ERROR: fetch failed
-  - https://trucks.tractorjunction.com/ta/ashok-leyland/dost -> ERROR: fetch failed

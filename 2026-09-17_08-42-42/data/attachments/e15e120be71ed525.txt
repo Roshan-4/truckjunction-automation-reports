@@ -1,0 +1,14 @@
+[Redirection Check] SEO structure - Under 1 Ton Trucks [ta] [ta]: 12 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/mahindra -> 500
+  - https://trucks.tractorjunction.com/ta/bajaj -> 500
+  - https://trucks.tractorjunction.com/ta/piaggio -> 500
+  - https://trucks.tractorjunction.com/ta/tvs -> 500
+  - https://trucks.tractorjunction.com/ta/atul -> 500
+  - https://trucks.tractorjunction.com/ta/saarthi -> 500
+  - https://trucks.tractorjunction.com/ta/yc-electric -> 500
+  - https://trucks.tractorjunction.com/ta/montra-electric -> 500
+  - https://trucks.tractorjunction.com/ta/greaves -> 500
+  - https://trucks.tractorjunction.com/ta/tata -> 500
+  - https://trucks.tractorjunction.com/ta/ashok-leyland -> 500
+  - https://trucks.tractorjunction.com/ta/eicher -> 500

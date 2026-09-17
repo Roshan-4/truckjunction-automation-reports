@@ -1,0 +1,10 @@
+[Redirection Check] SEO structure - Petrol Trucks [ta] [ta]: 8 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/tata -> 500
+  - https://trucks.tractorjunction.com/ta/atul -> 500
+  - https://trucks.tractorjunction.com/ta/tvs -> 500
+  - https://trucks.tractorjunction.com/ta/bajaj -> 500
+  - https://trucks.tractorjunction.com/ta/maruti-suzuki -> 500
+  - https://trucks.tractorjunction.com/ta/ashok-leyland -> 500
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://trucks.tractorjunction.com/ta/mahindra -> 500

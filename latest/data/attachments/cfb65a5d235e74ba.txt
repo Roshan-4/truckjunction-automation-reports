@@ -1,0 +1,3 @@
+[Redirection Check] SEO structure - Eka 3W Cargo Price in Mumbai [hi] [hi]: 1 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/eka-mobility -> 500

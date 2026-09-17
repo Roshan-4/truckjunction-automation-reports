@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - BS6 Trucks [ta] [ta]: 2 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/mahindra -> 500
+  - https://trucks.tractorjunction.com/ta/tata -> 500

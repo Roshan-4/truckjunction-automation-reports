@@ -1,0 +1,13 @@
+[Redirection Check] SEO structure - Electric Vehicle [ta] [ta]: 11 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/tata -> 500
+  - https://trucks.tractorjunction.com/ta/ashok-leyland -> 500
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://trucks.tractorjunction.com/ta/mahindra -> 500
+  - https://trucks.tractorjunction.com/ta/lohia -> 500
+  - https://trucks.tractorjunction.com/ta/osm -> 500
+  - https://trucks.tractorjunction.com/ta/mayuri -> 500
+  - https://trucks.tractorjunction.com/ta/gkon -> 500
+  - https://trucks.tractorjunction.com/ta/sn-solar-energy -> 500
+  - https://trucks.tractorjunction.com/ta/mini-metro -> 500
+  - https://trucks.tractorjunction.com/ta/city-life -> 500

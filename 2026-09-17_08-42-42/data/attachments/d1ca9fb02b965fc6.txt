@@ -1,0 +1,7 @@
+[Redirection Check] SEO structure - Tempo Traveller [hi] [hi]: 5 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/ashok-leyland -> 500
+  - https://trucks.tractorjunction.com/hi/tata -> 500
+  - https://trucks.tractorjunction.com/hi/mahindra -> 500
+  - https://trucks.tractorjunction.com/hi/force -> 500
+  - https://trucks.tractorjunction.com/hi/maruti-suzuki -> 500

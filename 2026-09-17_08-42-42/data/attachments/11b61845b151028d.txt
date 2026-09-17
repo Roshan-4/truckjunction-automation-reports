@@ -1,0 +1,9 @@
+[Redirection Check] SEO structure - Bi Fuel Trucks [ta] [ta]: 7 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/tata -> 500
+  - https://trucks.tractorjunction.com/ta/ashok-leyland -> 500
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://trucks.tractorjunction.com/ta/mahindra -> 500
+  - https://trucks.tractorjunction.com/ta/baxy -> 500
+  - https://trucks.tractorjunction.com/ta/greaves -> 500
+  - https://trucks.tractorjunction.com/ta/tvs -> 500

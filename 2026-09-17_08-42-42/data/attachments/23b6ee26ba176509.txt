@@ -1,0 +1,11 @@
+[Redirection Check] SEO structure - Best Trucks [ta] [ta]: 9 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/tata -> 500
+  - https://trucks.tractorjunction.com/ta/ashok-leyland -> 500
+  - https://trucks.tractorjunction.com/ta/eicher -> 500
+  - https://trucks.tractorjunction.com/ta/mahindra -> 500
+  - https://trucks.tractorjunction.com/ta/bharat-benz -> 500
+  - https://trucks.tractorjunction.com/ta/volvo -> 500
+  - https://trucks.tractorjunction.com/ta/sml-isuzu -> 500
+  - https://trucks.tractorjunction.com/ta/scania -> 500
+  - https://trucks.tractorjunction.com/ta/osm -> 500

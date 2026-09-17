@@ -1,0 +1,3 @@
+[Redirection Check] SEO structure - Mahindra Blazo [en] [en]: 1 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/mahindra-truck/blazo-x-35-lift-axle -> ERROR: The operation was aborted due to timeout
