@@ -1,0 +1,3 @@
+[Redirection Check] SEO structure - Sitemap [en] [en]: 1 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/en/transit-mixer/eicher-trucks -> 404

@@ -1,0 +1,3 @@
+[Redirection Check] SEO structure - 14 Wheeler [ta] [ta]: 1 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/ta/eicher -> 502

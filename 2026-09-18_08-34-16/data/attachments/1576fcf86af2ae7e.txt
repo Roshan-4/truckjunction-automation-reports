@@ -1,0 +1,4 @@
+[Redirection Check] SEO structure - Mahindra Trucks [hi] [hi]: 2 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/commercial-vehicle-series -> 502
+  - https://trucks.tractorjunction.com/hi/tractor -> 502

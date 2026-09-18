@@ -1,0 +1,3 @@
+[Redirection Check] SEO structure - 6 Wheeler [hi] [hi]: 1 broken Truck Junction link(s) found
+(logged only — does not fail the test):
+  - https://trucks.tractorjunction.com/hi/emi-calculator -> 502
