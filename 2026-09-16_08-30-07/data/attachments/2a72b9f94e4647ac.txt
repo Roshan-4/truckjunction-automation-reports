@@ -1,4 +1,0 @@
-[Redirection Check] UtilityPages - News [en]: 2 broken Truck Junction link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/news/maruti-suzuki-eeco-vs-tata-magic-express -> ERROR: fetch failed
-  - https://trucks.tractorjunction.com/en/ashok-leyland -> ERROR: fetch failed

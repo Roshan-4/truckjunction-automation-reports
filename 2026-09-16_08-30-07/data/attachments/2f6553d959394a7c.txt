@@ -1,8 +1,0 @@
-H1: Top Bus Brands
-H2: All Bus Brands
-H2: Bus By Seating Capacity
-H2: Bus By Budget
-H2: More About Bus Brands
-H3: Explore the Best of Bus Brands with Us
-H3: Why BusJunction for Choosing Buses From Top Brands?
-H3: Customer Support Service

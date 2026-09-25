@@ -1,9 +1,0 @@
-[Redirection Check] Homepage - Popular Truck Comparison [ta]: 7 broken Truck Junction link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/ta/tata -> 500
-  - https://trucks.tractorjunction.com/ta/mahindra -> 500
-  - https://trucks.tractorjunction.com/ta/euler -> 500
-  - https://trucks.tractorjunction.com/ta/bajaj -> 500
-  - https://trucks.tractorjunction.com/ta/ashok-leyland -> 500
-  - https://trucks.tractorjunction.com/ta/eicher -> 500
-  - https://trucks.tractorjunction.com/ta/mahindra-truck/zor-grand -> ERROR: fetch failed

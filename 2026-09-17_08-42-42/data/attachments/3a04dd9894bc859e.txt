@@ -1,8 +1,0 @@
-[Redirection Check] Homepage - Search The Right Truck [hi]: 6 broken Truck Junction link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/hi/tata -> 500
-  - https://trucks.tractorjunction.com/hi/mahindra -> 500
-  - https://trucks.tractorjunction.com/hi/euler -> 500
-  - https://trucks.tractorjunction.com/hi/bajaj -> 500
-  - https://trucks.tractorjunction.com/hi/ashok-leyland -> 500
-  - https://trucks.tractorjunction.com/hi/eicher -> 500

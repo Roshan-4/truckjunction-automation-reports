@@ -1,6 +1,0 @@
-[Redirection Check] SEO structure - Tata Yodha 2.0 Videos [en] [en]: 4 broken Truck Junction link(s) found
-(logged only — does not fail the test):
-  - https://trucks.tractorjunction.com/en/tata-truck/yodha-ex-crew-cabin -> 502
-  - https://trucks.tractorjunction.com/en/tata -> 502
-  - https://trucks.tractorjunction.com/en/tata-truck/yodha-2-0/price/east-sikkim -> 502
-  - https://trucks.tractorjunction.com/en/tata-truck/yodha-2-0/price/srinagar -> 502
