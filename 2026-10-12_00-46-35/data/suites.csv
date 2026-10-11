@@ -1,0 +1,979 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1866","TC-BBG-02: Check Truck Price lead form shows required validation when submitted empty on Eicher Trucks Under 20 Lakh","AllLeadForm - BrandBudget [eicherUnder20Lakh] [en] — Eicher Trucks Under 20 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","2212","TC-TSR-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Boss","CategoryPages - CategoryListing [ashokLeylandBoss] [en] — Ashok Leyland Boss","2026-10-11","passed","2026-10-11","","","",""
+"","1868","TC-UTPDP-03: Contact Seller lead form rejects mobile that is not 10 digits on Used Truck Detail","AllLeadForm - UsedTruckPdp [en]","2026-10-11","passed","2026-10-11","","","",""
+"","4153","TC-ESC-04: Call Now assistance lead submits successfully on Electric Mini Truck","AllLeadForm - ElectricSubCategory [miniTruck] [en] — Electric Mini Truck","2026-10-11","passed","2026-10-11","","","",""
+"","1871","TC-BGT-02: Check Truck Price lead form shows required validation when submitted empty on Trucks Above 40 Lakh","AllLeadForm - Budget [above40Lakh] [en] — Trucks Above 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","504","TC-DLB-01: Talk To Dealer lead submits successfully on Ashok Leyland Truck Dealers","AllLeadForm - DealerBrand [ashokLeyland] [en] — Ashok Leyland Truck Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","5864","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 3 Wheeler","CategoryPages - CategoryListing [threeWheeler] [en] — 3 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","3809","TC-CB-01: Check Truck Price lead submits successfully on Ashok Leyland Transit Mixers","AllLeadForm - CategoryBrand [transitMixerAshokLeyland] [en] — Ashok Leyland Transit Mixers","2026-10-11","passed","2026-10-11","","","",""
+"","71737","TC-TMO-01: Check Offers lead submits successfully on every tab of Offers","AllLeadForm - TabbedModelOffers [offers] [en] — Offers","2026-10-11","passed","2026-10-11","","","",""
+"","2438","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on CNG Trucks","CategoryPages - CategoryListing [cng] [en] — CNG Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3582","TC-CL-01: Check Truck Price lead submits successfully on 18 Wheeler","CategoryPages - CategoryListing [eighteenWheeler] [en] — 18 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","2310","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Mini Trucks","CategoryPages - CategoryListing [miniTrucks] [en] — Mini Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1406","TC-BGT-02: Check Truck Price lead form shows required validation when submitted empty on Trucks Under 40 Lakh","AllLeadForm - Budget [under40Lakh] [en] — Trucks Under 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","7381","TC-EV-02: Call Now assistance lead submits successfully on Electric Commercial Vehicles","AllLeadForm - ElectricVehicle [en] — Electric Commercial Vehicles","2026-10-11","passed","2026-10-11","","","",""
+"","1675","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 12 Wheeler","CategoryPages - CategoryListing [twelveWheeler] [en] — 12 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","1587","TC-ESC-03: Check Truck Price lead form rejects mobile that is not 10 digits on Electric Commercial Vehicle Under 5 Lakh","AllLeadForm - ElectricSubCategory [under5Lakh] [en] — Electric Commercial Vehicle Under 5 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","1871","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Tippers","AllLeadForm - CategoryBrand [tippersAshokLeyland] [en] — Ashok Leyland Tippers","2026-10-11","passed","2026-10-11","","","",""
+"","382","TC-NLP-03: Contact Seller lead submits successfully on Latest Trucks","ListingPages - NewListingPages [latestTrucks] [en] — Latest Trucks","2026-10-11","skipped","2026-10-11","","","",""
+"","1745","TC-BBG-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Trucks Under 30 Lakh","AllLeadForm - BrandBudget [ashokLeylandUnder30Lakh] [en] — Ashok Leyland Trucks Under 30 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","2010","TC-BUS-02: lead form shows required validation when submitted empty on New Buses","AllLeadForm - BusListing [newBuses] [en] — New Buses","2026-10-11","passed","2026-10-11","","","",""
+"","4367","TC-PL-04: Call Now assistance lead submits successfully on Under 1 Ton Trucks","CategoryPages - CategoryListing [under1Ton] [en] — Under 1 Ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","7623","TC-TSR-01: Check Truck Price lead submits successfully on Ashok Leyland Boss","CategoryPages - CategoryListing [ashokLeylandBoss] [en] — Ashok Leyland Boss","2026-10-11","passed","2026-10-11","","","",""
+"","1876","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 6 Wheeler","CategoryPages - CategoryListing [sixWheeler] [en] — 6 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","4115","TC-BGT-04: Call Now assistance lead submits successfully on Trucks Under 15 Lakh","AllLeadForm - Budget [under15Lakh] [en] — Trucks Under 15 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","3260","TC-CB-01: Check Truck Price lead submits successfully on Eicher Mini Trucks","AllLeadForm - CategoryBrand [miniTruckEicher] [en] — Eicher Mini Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3369","TC-BGT-04: Call Now assistance lead submits successfully on Trucks Under 20 Lakh","AllLeadForm - Budget [under20Lakh] [en] — Trucks Under 20 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","492","TC-CL-04: Call Now assistance lead submits successfully on Tippers","CategoryPages - CategoryListing [tippers] [en] — Tippers","2026-10-11","skipped","2026-10-11","","","",""
+"","4901","TC-TBR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Trucks","CategoryPages - CategoryListing [ashokLeylandBrand] [en] — Ashok Leyland Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4958","TC-LMC-06: one Check Offers lead from miniTrucks tab submits successfully","AllLeadForm - Homepage LatestModelsByCategory [en]","2026-10-11","passed","2026-10-11","","","",""
+"","1948","TC-PL-02: Check Truck Price lead form shows required validation when submitted empty on 20 ton - 40 ton Trucks","CategoryPages - CategoryListing [ton20to40] [en] — 20 ton - 40 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","13000","TC-PL-01: Check Truck Price lead submits successfully on Under 1 Ton Trucks","CategoryPages - CategoryListing [under1Ton] [en] — Under 1 Ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1848","TC-PDPI-03: Check Offers lead form rejects mobile that is not 10 digits on Tata Yodha 2.0 Videos","PDP - NewTruckInternalPages [yodhaVideos] [en] — Tata Yodha 2.0 Videos","2026-10-11","passed","2026-10-11","","","",""
+"","4244","TC-PDPI-03: Check Offers lead form rejects mobile that is not 10 digits on Tata Yodha 2.0 Mileage","PDP - NewTruckInternalPages [yodhaMileage] [en] — Tata Yodha 2.0 Mileage","2026-10-11","passed","2026-10-11","","","",""
+"","1774","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Tempo Traveller","CategoryPages - CategoryListing [tempoTraveller] [en] — Tempo Traveller","2026-10-11","passed","2026-10-11","","","",""
+"","1500","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on Force Tempo Traveller","AllLeadForm - CategoryBrand [tempoTravellerForce] [en] — Force Tempo Traveller","2026-10-11","passed","2026-10-11","","","",""
+"","1783","TC-BDM-03: Talk To Dealer lead form rejects mobile that is not 10 digits on Body Makers","AllLeadForm - BodyMakers [en] — Body Makers","2026-10-11","passed","2026-10-11","","","",""
+"","6044","TC-TBR-01: Check Truck Price lead submits successfully on Eicher Trucks","CategoryPages - CategoryListing [eicherBrand] [en] — Eicher Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1210","TC-TBR-04: Call Now assistance lead submits successfully on Ashok Leyland Trucks","CategoryPages - CategoryListing [ashokLeylandBrand] [en] — Ashok Leyland Trucks","2026-10-11","skipped","2026-10-11","","","",""
+"","1349","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 14 Wheeler","CategoryPages - CategoryListing [fourteenWheeler] [en] — 14 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","2654","TC-BBG-03: Check Truck Price lead form rejects mobile that is not 10 digits on Eicher Trucks Under 20 Lakh","AllLeadForm - BrandBudget [eicherUnder20Lakh] [en] — Eicher Trucks Under 20 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","3611","TC-BUS-01: lead submits successfully on Ashok Leyland Buses","AllLeadForm - BusListing [ashokLeylandBuses] [en] — Ashok Leyland Buses","2026-10-11","passed","2026-10-11","","","",""
+"","3187","TC-CL-04: Call Now assistance lead submits successfully on LNG Trucks","CategoryPages - CategoryListing [lng] [en] — LNG Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2362","TC-BGT-03: Check Truck Price lead form rejects mobile that is not 10 digits on Trucks Under 15 Lakh","AllLeadForm - Budget [under15Lakh] [en] — Trucks Under 15 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","2012","TC-BGT-02: Check Truck Price lead form shows required validation when submitted empty on Trucks Under 15 Lakh","AllLeadForm - Budget [under15Lakh] [en] — Trucks Under 15 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-02
+**Title:** Check Truck Price lead submits successfully on Best Trucks
+**Language:** en
+
+**Description:**
+Open the Best Trucks listing page, click Check Truck Price to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Best Trucks listing page
+2. Click Check Truck Price to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","4069","TC-NLP-02: Check Truck Price lead submits successfully on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1880","TC-PL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 10 ton - 20 ton Trucks","CategoryPages - CategoryListing [ton10to20] [en] — 10 ton - 20 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1841","TC-BBG-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Trucks Above 40 Lakh","AllLeadForm - BrandBudget [ashokLeylandAbove40Lakh] [en] — Ashok Leyland Trucks Above 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-02
+**Title:** Check Truck Price lead submits successfully on Find New Trucks
+**Language:** en
+
+**Description:**
+Open the Find New Trucks listing page, click Check Truck Price to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Find New Trucks listing page
+2. Click Check Truck Price to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","4030","TC-NLP-02: Check Truck Price lead submits successfully on Find New Trucks","ListingPages - NewListingPages [newTrucks] [en] — Find New Trucks","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-05
+**Title:** Call Now lead submits successfully on Latest Trucks
+**Language:** en
+
+**Description:**
+Open the Latest Trucks listing page, click Call Now to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance lead form closes after a successful submission (verified via the real submit network call). The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Latest Trucks listing page
+2. Click Call Now to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","3535","TC-NLP-05: Call Now lead submits successfully on Latest Trucks","ListingPages - NewListingPages [latestTrucks] [en] — Latest Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1959","TC-VHR-04: Check Offers lead form shows required validation when submitted empty on Vehicle Report","AllLeadForm - VehicleReport [en]","2026-10-11","passed","2026-10-11","","","",""
+"","2966","TC-CL-01: Check Truck Price lead submits successfully on 22 Wheeler","CategoryPages - CategoryListing [twentyTwoWheeler] [en] — 22 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","3653","TC-CL-01: Check Truck Price lead submits successfully on Petrol Trucks","CategoryPages - CategoryListing [petrol] [en] — Petrol Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1918","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 8 Wheeler","CategoryPages - CategoryListing [eightWheeler] [en] — 8 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","3171","TC-PDPI-02: Check Offers lead form shows required validation when submitted empty on Eka 3W Cargo Price in Mumbai","PDP - NewTruckInternalPages [ekaPriceMumbai] [en] — Eka 3W Cargo Price in Mumbai","2026-10-11","passed","2026-10-11","","","",""
+"","3928","TC-CL-01: Check Truck Price lead submits successfully on Pickups","CategoryPages - CategoryListing [pickups] [en] — Pickups","2026-10-11","passed","2026-10-11","","","",""
+"","3430","TC-CB-04: Call Now assistance lead submits successfully on Eicher 10 Wheeler Trucks","AllLeadForm - CategoryBrand [tenWheelerEicher] [en] — Eicher 10 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1893","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on Eicher 4 Wheeler Trucks","AllLeadForm - CategoryBrand [fourWheelerEicher] [en] — Eicher 4 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1772","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on Force Tempo Traveller","AllLeadForm - CategoryBrand [tempoTravellerForce] [en] — Force Tempo Traveller","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-03
+**Title:** Contact Seller lead submits successfully on Best Trucks
+**Language:** en
+
+**Description:**
+Open the Best Trucks listing page, click Contact Seller to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A “Thank You For Contact” confirmation is shown after a successful Contact Seller submission.
+
+**Steps:**
+1. Open the Best Trucks listing page
+2. Click Contact Seller to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","3690","TC-NLP-03: Contact Seller lead submits successfully on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4951","TC-PDPI-05: Get On Road Price lead submits successfully on Tata Yodha 2.0 Specifications","PDP - NewTruckInternalPages [yodhaSpecifications] [en] — Tata Yodha 2.0 Specifications","2026-10-11","passed","2026-10-11","","","",""
+"","4889","TC-BBG-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Trucks Under 15 Lakh","AllLeadForm - BrandBudget [ashokLeylandUnder15Lakh] [en] — Ashok Leyland Trucks Under 15 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-01
+**Title:** Check Offers lead submits successfully on Latest Trucks
+**Language:** en
+
+**Description:**
+Open the Latest Trucks listing page, click Check Offers to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Latest Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","12224","TC-NLP-01: Check Offers lead submits successfully on Latest Trucks","ListingPages - NewListingPages [latestTrucks] [en] — Latest Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","664","TC-SPB-03: Talk To Dealer lead form rejects mobile that is not 10 digits on Eicher Spare Parts Dealers","AllLeadForm - SparePartsBrand [eicher] [en] — Eicher Spare Parts Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","2457","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland 4 Wheeler Trucks","AllLeadForm - CategoryBrand [fourWheelerAshokLeyland] [en] — Ashok Leyland 4 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1328","TC-ESC-02: Check Truck Price lead form shows required validation when submitted empty on Electric Mini Truck","AllLeadForm - ElectricSubCategory [miniTruck] [en] — Electric Mini Truck","2026-10-11","passed","2026-10-11","","","",""
+"","4279","TC-CL-01: Check Truck Price lead submits successfully on Auto Rickshaw","CategoryPages - CategoryListing [autoRickshaw] [en] — Auto Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","2138","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on BharatBenz 6 Wheeler Trucks","AllLeadForm - CategoryBrand [sixWheelerBharatBenz] [en] — BharatBenz 6 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","11572","TC-CL-01: Check Truck Price lead submits successfully on 3 Wheeler","CategoryPages - CategoryListing [threeWheeler] [en] — 3 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","345","TC-NLP-04: Notify Me lead submits successfully on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-10-11","skipped","2026-10-11","","","",""
+"","2061","TC-ESC-02: Check Truck Price lead form shows required validation when submitted empty on Electric Pickup","AllLeadForm - ElectricSubCategory [pickup] [en] — Electric Pickup","2026-10-11","passed","2026-10-11","","","",""
+"","4614","TC-PL-01: Check Truck Price lead submits successfully on 1 ton - 2.5 ton Trucks","CategoryPages - CategoryListing [ton1to2_5] [en] — 1 ton - 2.5 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1645","TC-BUS-03: lead form rejects mobile that is not 10 digits on Mahindra Buses","AllLeadForm - BusListing [mahindraBuses] [en] — Mahindra Buses","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-01
+**Title:** Check Offers lead submits successfully on Find New Trucks
+**Language:** en
+
+**Description:**
+Open the Find New Trucks listing page, click Check Offers to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Find New Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","13313","TC-NLP-01: Check Offers lead submits successfully on Find New Trucks","ListingPages - NewListingPages [newTrucks] [en] — Find New Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","429","TC-TSR-04: Call Now assistance lead submits successfully on Tata Ace","CategoryPages - CategoryListing [tataAce] [en] — Tata Ace","2026-10-11","skipped","2026-10-11","","","",""
+"","1318","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 12 Wheeler","CategoryPages - CategoryListing [twelveWheeler] [en] — 12 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","8637","TC-CT-01: Check Offers lead submits successfully on Compare Trucks","AllLeadForm - CompareTrucks [en]","2026-10-11","passed","2026-10-11","","","",""
+"","2449","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland 6 Wheeler Trucks","AllLeadForm - CategoryBrand [sixWheelerAshokLeyland] [en] — Ashok Leyland 6 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3524","TC-CB-04: Call Now assistance lead submits successfully on Force Tempo Traveller","AllLeadForm - CategoryBrand [tempoTravellerForce] [en] — Force Tempo Traveller","2026-10-11","passed","2026-10-11","","","",""
+"","4817","TC-CVP-01: Check Offers lead submits successfully on CV Permit","AllLeadForm - CvPermit [en]","2026-10-11","passed","2026-10-11","","","",""
+"","396","TC-DLC-01: Talk To Dealer lead submits successfully on Truck Dealers in Jaipur, Rajasthan","AllLeadForm - DealerCity [jaipur] [en] — Truck Dealers in Jaipur, Rajasthan","2026-10-11","broken","2026-10-11","","","",""
+"","5630","TC-BR-02: Download Brochure lead submits successfully from the ""Popular"" tab on Brochure","AllLeadForm - Brochure [en]","2026-10-11","passed","2026-10-11","","","",""
+"","1604","TC-ECH-04: Check Offers lead form rejects mobile that is not 10 digits on E Challan","AllLeadForm - EChallan [en]","2026-10-11","passed","2026-10-11","","","",""
+"","421","TC-DLC-01: Talk To Dealer lead submits successfully on Truck Dealers in Ahmedabad, Gujarat","AllLeadForm - DealerCity [ahmedabad] [en] — Truck Dealers in Ahmedabad, Gujarat","2026-10-11","broken","2026-10-11","","","",""
+"","4324","TC-CL-04: Call Now assistance lead submits successfully on LCV","CategoryPages - CategoryListing [lcv] [en] — LCV","2026-10-11","passed","2026-10-11","","","",""
+"","2281","TC-BBG-02: Check Truck Price lead form shows required validation when submitted empty on Eicher Trucks Above 40 Lakh","AllLeadForm - BrandBudget [eicherAbove40Lakh] [en] — Eicher Trucks Above 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","3562","TC-CL-01: Check Truck Price lead submits successfully on 16 Wheeler","CategoryPages - CategoryListing [sixteenWheeler] [en] — 16 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","2936","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on HCV","CategoryPages - CategoryListing [hcv] [en] — HCV","2026-10-11","passed","2026-10-11","","","",""
+"","1414","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Mini Trucks","AllLeadForm - CategoryBrand [miniTruckAshokLeyland] [en] — Ashok Leyland Mini Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3581","TC-ECV-06: Check Offers lead form rejects mobile that is not 10 digits","AllLeadForm - Homepage ElectricCommercialVehicles [en]","2026-10-11","passed","2026-10-11","","","",""
+"","3983","TC-CL-04: Call Now assistance lead submits successfully on Bi Fuel Trucks","CategoryPages - CategoryListing [biFuel] [en] — Bi Fuel Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","15260","TC-CL-01: Check Truck Price lead submits successfully on Tippers","CategoryPages - CategoryListing [tippers] [en] — Tippers","2026-10-11","passed","2026-10-11","","","",""
+"","322","TC-CL-04: Call Now assistance lead submits successfully on 10 Wheeler","CategoryPages - CategoryListing [tenWheeler] [en] — 10 Wheeler","2026-10-11","skipped","2026-10-11","","","",""
+"","436","TC-NLP-03: Contact Seller lead submits successfully on BS6 Trucks","ListingPages - NewListingPages [bs6Trucks] [en] — BS6 Trucks","2026-10-11","skipped","2026-10-11","","","",""
+"","1771","TC-TMO-02: Check Offers lead form shows required validation when submitted empty on Offers","AllLeadForm - TabbedModelOffers [offers] [en] — Offers","2026-10-11","passed","2026-10-11","","","",""
+"","5364","TC-ESC-01: Check Truck Price lead submits successfully on Electric Auto Rickshaw","AllLeadForm - ElectricSubCategory [autoRickshaw] [en] — Electric Auto Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","1574","TC-CVP-04: Check Offers lead form rejects mobile that is not 10 digits on CV Permit","AllLeadForm - CvPermit [en]","2026-10-11","passed","2026-10-11","","","",""
+"","2518","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on SCV","CategoryPages - CategoryListing [scv] [en] — SCV","2026-10-11","passed","2026-10-11","","","",""
+"","583","TC-SCB-02: Talk To Dealer lead form shows required validation when submitted empty on Ashok Leyland Service Centers","AllLeadForm - ServiceCenterBrand [ashokLeyland] [en] — Ashok Leyland Service Centers","2026-10-11","broken","2026-10-11","","","",""
+"","3219","TC-CB-04: Call Now assistance lead submits successfully on Ashok Leyland Tractor Trailers","AllLeadForm - CategoryBrand [tractorAshokLeyland] [en] — Ashok Leyland Tractor Trailers","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-06
+**Title:** Check Offers lead form shows required validation when submitted empty on Best Trucks
+**Language:** en
+
+**Description:**
+Open the Best Trucks listing page, open Check Offers, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Best Trucks listing page
+2. Click Check Offers to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","2665","TC-NLP-06: Check Offers lead form shows required validation when submitted empty on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2054","TC-PL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 5 ton - 10 ton Trucks","CategoryPages - CategoryListing [ton5to10] [en] — 5 ton - 10 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2161","TC-PL-02: Check Truck Price lead form shows required validation when submitted empty on Under 1 Ton Trucks","CategoryPages - CategoryListing [under1Ton] [en] — Under 1 Ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3435","TC-BUSPDP-01: Check Offers lead submits successfully on Tata Starbus Ultra City Electric","AllLeadForm - BusPdp [starbusUltraCityElectric] [en] — Tata Starbus Ultra City Electric","2026-10-11","passed","2026-10-11","","","",""
+"","14275","TC-PDPI-01: Get On Road Price lead submits successfully on Tata Yodha 2.0 Price in Gurgaon","PDP - NewTruckInternalPages [yodhaPriceGurgaon] [en] — Tata Yodha 2.0 Price in Gurgaon","2026-10-11","passed","2026-10-11","","","",""
+"","1678","TC-BUS-03: lead form rejects mobile that is not 10 digits on Upcoming Buses","AllLeadForm - BusListing [upcomingBuses] [en] — Upcoming Buses","2026-10-11","passed","2026-10-11","","","",""
+"","2268","TC-NTPDP-03: Get Offers lead submits successfully for Eka 3W Cargo","AllLeadForm - NewTruckPdp [leastPopular] [en] — Eka 3W Cargo","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-07
+**Title:** Check Offers lead form rejects mobile that is not 10 digits on Find New Trucks
+**Language:** en
+
+**Description:**
+Open the Find New Trucks listing page, open Check Offers, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Find New Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","3131","TC-NLP-07: Check Offers lead form rejects mobile that is not 10 digits on Find New Trucks","ListingPages - NewListingPages [newTrucks] [en] — Find New Trucks","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-06
+**Title:** Check Offers lead form shows required validation when submitted empty on Find New Trucks
+**Language:** en
+
+**Description:**
+Open the Find New Trucks listing page, open Check Offers, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Find New Trucks listing page
+2. Click Check Offers to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","2835","TC-NLP-06: Check Offers lead form shows required validation when submitted empty on Find New Trucks","ListingPages - NewListingPages [newTrucks] [en] — Find New Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4851","TC-BBG-04: Call Now assistance lead submits successfully on Eicher Trucks Under 20 Lakh","AllLeadForm - BrandBudget [eicherUnder20Lakh] [en] — Eicher Trucks Under 20 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","4460","TC-BUSPDP-01: Check Offers lead submits successfully on Tata Starbus Staff Contract","AllLeadForm - BusPdp [starbusStaffContract] [en] — Tata Starbus Staff Contract","2026-10-11","passed","2026-10-11","","","",""
+"","3369","TC-CB-04: Call Now assistance lead submits successfully on Ashok Leyland 10 Wheeler Trucks","AllLeadForm - CategoryBrand [tenWheelerAshokLeyland] [en] — Ashok Leyland 10 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4391","TC-CB-01: Check Truck Price lead submits successfully on Ashok Leyland 6 Wheeler Trucks","AllLeadForm - CategoryBrand [sixWheelerAshokLeyland] [en] — Ashok Leyland 6 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1329","TC-ESC-02: Check Truck Price lead form shows required validation when submitted empty on Electric E Rickshaw","AllLeadForm - ElectricSubCategory [eRickshaw] [en] — Electric E Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","4790","TC-CB-01: Check Truck Price lead submits successfully on Ashok Leyland Tractor Trailers","AllLeadForm - CategoryBrand [tractorAshokLeyland] [en] — Ashok Leyland Tractor Trailers","2026-10-11","passed","2026-10-11","","","",""
+"","10264","TC-TBR-01: Check Truck Price lead submits successfully on Mahindra Trucks","CategoryPages - CategoryListing [mahindraBrand] [en] — Mahindra Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","6678","TC-TSR-01: Check Truck Price lead submits successfully on Ashok Leyland Dost","CategoryPages - CategoryListing [ashokLeylandDost] [en] — Ashok Leyland Dost","2026-10-11","passed","2026-10-11","","","",""
+"","1711","TC-ESC-03: Check Truck Price lead form rejects mobile that is not 10 digits on Electric Auto Rickshaw","AllLeadForm - ElectricSubCategory [autoRickshaw] [en] — Electric Auto Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","2520","TC-BGT-03: Check Truck Price lead form rejects mobile that is not 10 digits on Trucks Above 40 Lakh","AllLeadForm - Budget [above40Lakh] [en] — Trucks Above 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","1683","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 14 Wheeler","CategoryPages - CategoryListing [fourteenWheeler] [en] — 14 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","7755","TC-TIY-18: Latest Check Offers submits lead and shows Thank You modal","AllLeadForm - Homepage TruckInIndia [en]","2026-10-11","passed","2026-10-11","","","",""
+"","390","TC-DBC-01: Talk To Dealer lead submits successfully on Tata Truck Dealers in Ahmedabad, Gujarat","AllLeadForm - DealerBrandCity [tataAhmedabad] [en] — Tata Truck Dealers in Ahmedabad, Gujarat","2026-10-11","broken","2026-10-11","","","",""
+"","3160","TC-CB-04: Call Now assistance lead submits successfully on Ashok Leyland 4 Wheeler Trucks","AllLeadForm - CategoryBrand [fourWheelerAshokLeyland] [en] — Ashok Leyland 4 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3714","TC-BUS-01: lead submits successfully on Latest Buses","AllLeadForm - BusListing [latestBuses] [en] — Latest Buses","2026-10-11","passed","2026-10-11","","","",""
+"","3146","TC-PDPI-03: Check Offers lead form rejects mobile that is not 10 digits on Tata Yodha 2.0 Specifications","PDP - NewTruckInternalPages [yodhaSpecifications] [en] — Tata Yodha 2.0 Specifications","2026-10-11","passed","2026-10-11","","","",""
+"","1678","TC-BUS-03: lead form rejects mobile that is not 10 digits on Eicher Buses","AllLeadForm - BusListing [eicherBuses] [en] — Eicher Buses","2026-10-11","passed","2026-10-11","","","",""
+"","487","TC-DLB-03: Talk To Dealer lead form rejects mobile that is not 10 digits on Atul 3 Wheeler Dealers","AllLeadForm - DealerBrand [atul] [en] — Atul 3 Wheeler Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","1994","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on Altigreen Auto Rickshaw","AllLeadForm - CategoryBrand [autoRickshawAltigreen] [en] — Altigreen Auto Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","589","TC-TSR-04: Call Now assistance lead submits successfully on Mahindra Bolero","CategoryPages - CategoryListing [mahindraBolero] [en] — Mahindra Bolero","2026-10-11","skipped","2026-10-11","","","",""
+"","5070","TC-PDPI-03: Check Offers lead form rejects mobile that is not 10 digits on Eka 3W Cargo Price in Mumbai","PDP - NewTruckInternalPages [ekaPriceMumbai] [en] — Eka 3W Cargo Price in Mumbai","2026-10-11","passed","2026-10-11","","","",""
+"","2470","TC-TMO-03: Check Offers lead form rejects mobile that is not 10 digits on Select Your Truck","AllLeadForm - TabbedModelOffers [selectYourTruck] [en] — Select Your Truck","2026-10-11","passed","2026-10-11","","","",""
+"","463","TC-DLC-03: Talk To Dealer lead form rejects mobile that is not 10 digits on Truck Dealers in Ahmedabad, Gujarat","AllLeadForm - DealerCity [ahmedabad] [en] — Truck Dealers in Ahmedabad, Gujarat","2026-10-11","broken","2026-10-11","","","",""
+"","5740","TC-CL-01: Check Truck Price lead submits successfully on Trailers","CategoryPages - CategoryListing [trailers] [en] — Trailers","2026-10-11","passed","2026-10-11","","","",""
+"","4050","TC-TBR-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Trucks","CategoryPages - CategoryListing [ashokLeylandBrand] [en] — Ashok Leyland Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1944","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland 10 Wheeler Trucks","AllLeadForm - CategoryBrand [tenWheelerAshokLeyland] [en] — Ashok Leyland 10 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2078","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Auto Rickshaw","CategoryPages - CategoryListing [autoRickshaw] [en] — Auto Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","7066","TC-CL-01: Check Truck Price lead submits successfully on Mini Trucks","CategoryPages - CategoryListing [miniTrucks] [en] — Mini Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2915","TC-PDPI-03: Check Offers lead form rejects mobile that is not 10 digits on Tata Yodha 2.0 Reviews","PDP - NewTruckInternalPages [yodhaReview] [en] — Tata Yodha 2.0 Reviews","2026-10-11","passed","2026-10-11","","","",""
+"","7576","TC-TSR-01: Check Truck Price lead submits successfully on Tata Ace","CategoryPages - CategoryListing [tataAce] [en] — Tata Ace","2026-10-11","passed","2026-10-11","","","",""
+"","4867","TC-BGT-01: Check Truck Price lead submits successfully on Trucks Above 40 Lakh","AllLeadForm - Budget [above40Lakh] [en] — Trucks Above 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","1216","TC-BUS-02: lead form shows required validation when submitted empty on Eicher Buses","AllLeadForm - BusListing [eicherBuses] [en] — Eicher Buses","2026-10-11","passed","2026-10-11","","","",""
+"","3178","TC-CL-01: Check Truck Price lead submits successfully on 12 Wheeler","CategoryPages - CategoryListing [twelveWheeler] [en] — 12 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","2725","TC-PDPI-02: Check Offers lead form shows required validation when submitted empty on Tata Yodha 2.0 Mileage","PDP - NewTruckInternalPages [yodhaMileage] [en] — Tata Yodha 2.0 Mileage","2026-10-11","passed","2026-10-11","","","",""
+"","881","TC-TBR-04: Call Now assistance lead submits successfully on Mahindra Trucks","CategoryPages - CategoryListing [mahindraBrand] [en] — Mahindra Trucks","2026-10-11","skipped","2026-10-11","","","",""
+"","2799","TC-PDPI-02: Check Offers lead form shows required validation when submitted empty on Tata Yodha 2.0 Reviews","PDP - NewTruckInternalPages [yodhaReview] [en] — Tata Yodha 2.0 Reviews","2026-10-11","passed","2026-10-11","","","",""
+"","2748","TC-TSR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Mahindra Bolero","CategoryPages - CategoryListing [mahindraBolero] [en] — Mahindra Bolero","2026-10-11","passed","2026-10-11","","","",""
+"","1638","TC-BUS-02: lead form shows required validation when submitted empty on Ashok Leyland Buses","AllLeadForm - BusListing [ashokLeylandBuses] [en] — Ashok Leyland Buses","2026-10-11","passed","2026-10-11","","","",""
+"","1705","TC-BUS-03: lead form rejects mobile that is not 10 digits on New Buses","AllLeadForm - BusListing [newBuses] [en] — New Buses","2026-10-11","passed","2026-10-11","","","",""
+"","3940","TC-CL-04: Call Now assistance lead submits successfully on SCV","CategoryPages - CategoryListing [scv] [en] — SCV","2026-10-11","passed","2026-10-11","","","",""
+"","4533","TC-BUS-01: lead submits successfully on SML ISUZU Buses","AllLeadForm - BusListing [smlIsuzuBuses] [en] — SML ISUZU Buses","2026-10-11","passed","2026-10-11","","","",""
+"","12426","TC-CL-01: Check Truck Price lead submits successfully on Diesel Trucks","CategoryPages - CategoryListing [diesel] [en] — Diesel Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3582","TC-BGT-04: Call Now assistance lead submits successfully on Trucks Under 30 Lakh","AllLeadForm - Budget [under30Lakh] [en] — Trucks Under 30 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","5726","TC-LMC-05: one Check Offers lead from eRickshaw tab submits successfully","AllLeadForm - Homepage LatestModelsByCategory [en]","2026-10-11","passed","2026-10-11","","","",""
+"","9326","TC-BUT-01: Contact Seller lead submits successfully on Buy Used Trucks","AllLeadForm - BuyUsedTrucks [en]","2026-10-11","passed","2026-10-11","","","",""
+"","1390","TC-TBR-04: Call Now assistance lead submits successfully on Eicher Trucks","CategoryPages - CategoryListing [eicherBrand] [en] — Eicher Trucks","2026-10-11","skipped","2026-10-11","","","",""
+"","2667","TC-ESC-03: Check Truck Price lead form rejects mobile that is not 10 digits on Electric Pickup","AllLeadForm - ElectricSubCategory [pickup] [en] — Electric Pickup","2026-10-11","passed","2026-10-11","","","",""
+"","1429","TC-CT-03: Check Offers lead form rejects mobile that is not 10 digits on Compare Trucks","AllLeadForm - CompareTrucks [en]","2026-10-11","passed","2026-10-11","","","",""
+"","3329","TC-CL-01: Check Truck Price lead submits successfully on 14 Wheeler","CategoryPages - CategoryListing [fourteenWheeler] [en] — 14 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","1712","TC-BGT-03: Check Truck Price lead form rejects mobile that is not 10 digits on Trucks Under 30 Lakh","AllLeadForm - Budget [under30Lakh] [en] — Trucks Under 30 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","412","TC-DLC-03: Talk To Dealer lead form rejects mobile that is not 10 digits on Truck Dealers in Pune, Maharashtra","AllLeadForm - DealerCity [pune] [en] — Truck Dealers in Pune, Maharashtra","2026-10-11","broken","2026-10-11","","","",""
+"","1226","TC-SCB-01: Talk To Dealer lead submits successfully on Mahindra Service Centers","AllLeadForm - ServiceCenterBrand [mahindra] [en] — Mahindra Service Centers","2026-10-11","broken","2026-10-11","","","",""
+"","4745","TC-PDPI-05: Get On Road Price lead submits successfully on Eka 3W Cargo Price in Mumbai","PDP - NewTruckInternalPages [ekaPriceMumbai] [en] — Eka 3W Cargo Price in Mumbai","2026-10-11","passed","2026-10-11","","","",""
+"","1496","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Pickups","CategoryPages - CategoryListing [pickups] [en] — Pickups","2026-10-11","passed","2026-10-11","","","",""
+"","2008","TC-TMO-02: Check Offers lead form shows required validation when submitted empty on Select Your Truck","AllLeadForm - TabbedModelOffers [selectYourTruck] [en] — Select Your Truck","2026-10-11","passed","2026-10-11","","","",""
+"","2380","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on Atul 3 Wheeler","AllLeadForm - CategoryBrand [threeWheelerAtul] [en] — Atul 3 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","495","TC-CL-04: Call Now assistance lead submits successfully on 8 Wheeler","CategoryPages - CategoryListing [eightWheeler] [en] — 8 Wheeler","2026-10-11","skipped","2026-10-11","","","",""
+"","3316","TC-CB-01: Check Truck Price lead submits successfully on Eicher 10 Wheeler Trucks","AllLeadForm - CategoryBrand [tenWheelerEicher] [en] — Eicher 10 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2415","TC-BBG-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Trucks Under 15 Lakh","AllLeadForm - BrandBudget [ashokLeylandUnder15Lakh] [en] — Ashok Leyland Trucks Under 15 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","1760","TC-ESC-03: Check Truck Price lead form rejects mobile that is not 10 digits on Electric 3 Wheeler","AllLeadForm - ElectricSubCategory [threeWheeler] [en] — Electric 3 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-01
+**Title:** Check Offers lead submits successfully on Best Trucks
+**Language:** en
+
+**Description:**
+Open the Best Trucks listing page, click Check Offers to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Best Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","18057","TC-NLP-01: Check Offers lead submits successfully on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","30","TC-PDPI-05: lead submits successfully on Eka 3W Cargo Reviews","PDP - NewTruckInternalPages [ekaReview] [en] — Eka 3W Cargo Reviews","2026-10-11","skipped","2026-10-11","","","",""
+"","1060","TC-DBC-01: Talk To Dealer lead submits successfully on Tata Truck Dealers in Pune, Maharashtra","AllLeadForm - DealerBrandCity [tataPune] [en] — Tata Truck Dealers in Pune, Maharashtra","2026-10-11","broken","2026-10-11","","","",""
+"","260","TC-CL-04: Call Now assistance lead submits successfully on 18 Wheeler","CategoryPages - CategoryListing [eighteenWheeler] [en] — 18 Wheeler","2026-10-11","skipped","2026-10-11","","","",""
+"","960","TC-BUSPDP-02: Check Offers lead form shows required validation when submitted empty on Tata Starbus Ultra City Electric","AllLeadForm - BusPdp [starbusUltraCityElectric] [en] — Tata Starbus Ultra City Electric","2026-10-11","passed","2026-10-11","","","",""
+"","3094","TC-ESC-04: Call Now assistance lead submits successfully on Electric Auto Rickshaw","AllLeadForm - ElectricSubCategory [autoRickshaw] [en] — Electric Auto Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","1612","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Transit Mixer","CategoryPages - CategoryListing [transitMixer] [en] — Transit Mixer","2026-10-11","passed","2026-10-11","","","",""
+"","3581","TC-BGT-01: Check Truck Price lead submits successfully on Trucks Under 30 Lakh","AllLeadForm - Budget [under30Lakh] [en] — Trucks Under 30 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","3185","TC-ESC-04: Call Now assistance lead submits successfully on Electric Trucks","AllLeadForm - ElectricSubCategory [trucks] [en] — Electric Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1567","TC-ESC-03: Check Truck Price lead form rejects mobile that is not 10 digits on Electric Commercial Vehicle Under 1 Lakh","AllLeadForm - ElectricSubCategory [under1Lakh] [en] — Electric Commercial Vehicle Under 1 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","5072","TC-EV-03: Check Truck Price lead form shows required validation when submitted empty on Electric Commercial Vehicles","AllLeadForm - ElectricVehicle [en] — Electric Commercial Vehicles","2026-10-11","passed","2026-10-11","","","",""
+"","415","TC-TSR-04: Call Now assistance lead submits successfully on Ashok Leyland Dost","CategoryPages - CategoryListing [ashokLeylandDost] [en] — Ashok Leyland Dost","2026-10-11","skipped","2026-10-11","","","",""
+"","4588","TC-CL-01: Check Truck Price lead submits successfully on Bi Fuel Trucks","CategoryPages - CategoryListing [biFuel] [en] — Bi Fuel Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4329","TC-PL-01: Check Truck Price lead submits successfully on 40 ton - 300 ton Trucks","CategoryPages - CategoryListing [ton40to300] [en] — 40 ton - 300 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1023","TC-NTPDP-04: Get Offers lead shows validation when empty for Tata Yodha 2.0","AllLeadForm - NewTruckPdp [mostPopular] [en] — Tata Yodha 2.0","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-02
+**Title:** Check Truck Price lead submits successfully on Latest Trucks
+**Language:** en
+
+**Description:**
+Open the Latest Trucks listing page, click Check Truck Price to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Latest Trucks listing page
+2. Click Check Truck Price to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","15710","TC-NLP-02: Check Truck Price lead submits successfully on Latest Trucks","ListingPages - NewListingPages [latestTrucks] [en] — Latest Trucks","2026-10-11","failed","2026-10-11","","","",""
+"","2280","TC-PL-02: Check Truck Price lead form shows required validation when submitted empty on 40 ton - 300 ton Trucks","CategoryPages - CategoryListing [ton40to300] [en] — 40 ton - 300 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2138","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Tippers","AllLeadForm - CategoryBrand [tippersAshokLeyland] [en] — Ashok Leyland Tippers","2026-10-11","passed","2026-10-11","","","",""
+"","3037","TC-CB-04: Call Now assistance lead submits successfully on Allfine E Rickshaw","AllLeadForm - CategoryBrand [eRickshawAllfine] [en] — Allfine E Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-06
+**Title:** Check Offers lead form shows required validation when submitted empty on Upcoming Trucks
+**Language:** en
+
+**Description:**
+Open the Upcoming Trucks listing page, open Check Offers, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Upcoming Trucks listing page
+2. Click Check Offers to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1374","TC-NLP-06: Check Offers lead form shows required validation when submitted empty on Upcoming Trucks","ListingPages - NewListingPages [upcomingTrucks] [en] — Upcoming Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1817","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on Eicher Mini Trucks","AllLeadForm - CategoryBrand [miniTruckEicher] [en] — Eicher Mini Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1931","TC-TSR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Tata Ace","CategoryPages - CategoryListing [tataAce] [en] — Tata Ace","2026-10-11","passed","2026-10-11","","","",""
+"","666","TC-SPB-02: Talk To Dealer lead form shows required validation when submitted empty on Mahindra Spare Parts Dealers","AllLeadForm - SparePartsBrand [mahindra] [en] — Mahindra Spare Parts Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","1795","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on Eicher 4 Wheeler Trucks","AllLeadForm - CategoryBrand [fourWheelerEicher] [en] — Eicher 4 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-02
+**Title:** Check Truck Price lead submits successfully on BS6 Trucks
+**Language:** en
+
+**Description:**
+Open the BS6 Trucks listing page, click Check Truck Price to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the BS6 Trucks listing page
+2. Click Check Truck Price to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","3435","TC-NLP-02: Check Truck Price lead submits successfully on BS6 Trucks","ListingPages - NewListingPages [bs6Trucks] [en] — BS6 Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","14099","TC-CB-01: Check Truck Price lead submits successfully on Ashok Leyland 4 Wheeler Trucks","AllLeadForm - CategoryBrand [fourWheelerAshokLeyland] [en] — Ashok Leyland 4 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1684","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 22 Wheeler","CategoryPages - CategoryListing [twentyTwoWheeler] [en] — 22 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","1731","TC-ESC-03: Check Truck Price lead form rejects mobile that is not 10 digits on Electric Mini Truck","AllLeadForm - ElectricSubCategory [miniTruck] [en] — Electric Mini Truck","2026-10-11","passed","2026-10-11","","","",""
+"","3454","TC-PL-01: Check Truck Price lead submits successfully on 10 ton - 20 ton Trucks","CategoryPages - CategoryListing [ton10to20] [en] — 10 ton - 20 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1787","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on LPG Trucks","CategoryPages - CategoryListing [lpg] [en] — LPG Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1873","TC-BGT-03: Check Truck Price lead form rejects mobile that is not 10 digits on Trucks Under 10 Lakh","AllLeadForm - Budget [under10Lakh] [en] — Trucks Under 10 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","4542","TC-CL-04: Call Now assistance lead submits successfully on HCV","CategoryPages - CategoryListing [hcv] [en] — HCV","2026-10-11","passed","2026-10-11","","","",""
+"","1877","TC-TSR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Dost","CategoryPages - CategoryListing [ashokLeylandDost] [en] — Ashok Leyland Dost","2026-10-11","passed","2026-10-11","","","",""
+"","1562","TC-PL-02: Check Truck Price lead form shows required validation when submitted empty on 5 ton - 10 ton Trucks","CategoryPages - CategoryListing [ton5to10] [en] — 5 ton - 10 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","15661","TC-CB-01: Check Truck Price lead submits successfully on Ashok Leyland Tippers","AllLeadForm - CategoryBrand [tippersAshokLeyland] [en] — Ashok Leyland Tippers","2026-10-11","passed","2026-10-11","","","",""
+"","2704","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Tippers","CategoryPages - CategoryListing [tippers] [en] — Tippers","2026-10-11","passed","2026-10-11","","","",""
+"","1550","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Pickups","AllLeadForm - CategoryBrand [pickupAshokLeyland] [en] — Ashok Leyland Pickups","2026-10-11","passed","2026-10-11","","","",""
+"","2627","TC-BUS-03: lead form rejects mobile that is not 10 digits on Ashok Leyland Buses","AllLeadForm - BusListing [ashokLeylandBuses] [en] — Ashok Leyland Buses","2026-10-11","passed","2026-10-11","","","",""
+"","744","TC-CL-04: Call Now assistance lead submits successfully on Tempo Traveller","CategoryPages - CategoryListing [tempoTraveller] [en] — Tempo Traveller","2026-10-11","skipped","2026-10-11","","","",""
+"","3841","TC-TSR-01: Check Truck Price lead submits successfully on Mahindra Blazo","CategoryPages - CategoryListing [mahindraBlazo] [en] — Mahindra Blazo","2026-10-11","passed","2026-10-11","","","",""
+"","1762","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland 4 Wheeler Trucks","AllLeadForm - CategoryBrand [fourWheelerAshokLeyland] [en] — Ashok Leyland 4 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-07
+**Title:** Check Offers lead form rejects mobile that is not 10 digits on Latest Trucks
+**Language:** en
+
+**Description:**
+Open the Latest Trucks listing page, open Check Offers, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Latest Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1944","TC-NLP-07: Check Offers lead form rejects mobile that is not 10 digits on Latest Trucks","ListingPages - NewListingPages [latestTrucks] [en] — Latest Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1722","TC-BUT-03: Contact Seller lead form rejects mobile that is not 10 digits on Buy Used Trucks","AllLeadForm - BuyUsedTrucks [en]","2026-10-11","passed","2026-10-11","","","",""
+"","4469","TC-CL-04: Call Now assistance lead submits successfully on CNG Trucks","CategoryPages - CategoryListing [cng] [en] — CNG Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","9470","TC-CL-01: Check Truck Price lead submits successfully on 4 Wheeler","CategoryPages - CategoryListing [fourWheeler] [en] — 4 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","587","TC-SPB-01: Talk To Dealer lead submits successfully on Eicher Spare Parts Dealers","AllLeadForm - SparePartsBrand [eicher] [en] — Eicher Spare Parts Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","2915","TC-ESC-04: Call Now assistance lead submits successfully on Electric Pickup","AllLeadForm - ElectricSubCategory [pickup] [en] — Electric Pickup","2026-10-11","passed","2026-10-11","","","",""
+"","506","TC-SPB-01: Talk To Dealer lead submits successfully on Mahindra Spare Parts Dealers","AllLeadForm - SparePartsBrand [mahindra] [en] — Mahindra Spare Parts Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","127733","TC-TMO-01: Check Offers lead submits successfully on every tab of Select Your Truck","AllLeadForm - TabbedModelOffers [selectYourTruck] [en] — Select Your Truck","2026-10-11","passed","2026-10-11","","","",""
+"","2771","TC-BUSVAR-01: Check Offers lead submits successfully on Tata Starbus Staff Contract 24+D LP 407/36 CNG","AllLeadForm - BusVariant [starbus24dLp407] [en] — Tata Starbus Staff Contract 24+D LP 407/36 CNG","2026-10-11","passed","2026-10-11","","","",""
+"","4508","TC-BGT-01: Check Truck Price lead submits successfully on Trucks Under 20 Lakh","AllLeadForm - Budget [under20Lakh] [en] — Trucks Under 20 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","2448","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 8 Wheeler","CategoryPages - CategoryListing [eightWheeler] [en] — 8 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","1593","TC-BDM-02: Talk To Dealer lead form shows required validation when submitted empty on Body Makers","AllLeadForm - BodyMakers [en] — Body Makers","2026-10-11","passed","2026-10-11","","","",""
+"","2341","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on LPG Trucks","CategoryPages - CategoryListing [lpg] [en] — LPG Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","6933","TC-PDPI-05: Get On Road Price lead submits successfully on Tata Yodha 2.0 Mileage","PDP - NewTruckInternalPages [yodhaMileage] [en] — Tata Yodha 2.0 Mileage","2026-10-11","passed","2026-10-11","","","",""
+"","4288","TC-PDPI-03: Check Offers lead form rejects mobile that is not 10 digits on Tata Yodha 2.0 Images","PDP - NewTruckInternalPages [yodhaImages] [en] — Tata Yodha 2.0 Images","2026-10-11","passed","2026-10-11","","","",""
+"","1713","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Mini Trucks","AllLeadForm - CategoryBrand [miniTruckAshokLeyland] [en] — Ashok Leyland Mini Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1338","TC-ESC-02: Check Truck Price lead form shows required validation when submitted empty on Electric Auto Rickshaw","AllLeadForm - ElectricSubCategory [autoRickshaw] [en] — Electric Auto Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","1449","TC-DLB-02: Talk To Dealer lead form shows required validation when submitted empty on Tata Truck Dealers","AllLeadForm - DealerBrand [tata] [en] — Tata Truck Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","247","TC-NLP-04: Notify Me lead submits successfully on Find New Trucks","ListingPages - NewListingPages [newTrucks] [en] — Find New Trucks","2026-10-11","skipped","2026-10-11","","","",""
+"","3716","TC-PDPI-05: Get On Road Price lead submits successfully on Tata Yodha 2.0 Videos","PDP - NewTruckInternalPages [yodhaVideos] [en] — Tata Yodha 2.0 Videos","2026-10-11","passed","2026-10-11","","","",""
+"","3694","TC-TBR-02: Check Truck Price lead form shows required validation when submitted empty on Eicher Trucks","CategoryPages - CategoryListing [eicherBrand] [en] — Eicher Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3547","TC-PDPI-03: Download Brochure lead form rejects mobile that is not 10 digits on Tata Yodha 2.0 Brochure","PDP - NewTruckInternalPages [yodhaBrochure] [en] — Tata Yodha 2.0 Brochure","2026-10-11","passed","2026-10-11","","","",""
+"","2024","TC-DBC-02: Talk To Dealer lead form shows required validation when submitted empty on Tata Truck Dealers in Pune, Maharashtra","AllLeadForm - DealerBrandCity [tataPune] [en] — Tata Truck Dealers in Pune, Maharashtra","2026-10-11","broken","2026-10-11","","","",""
+"","4182","TC-PDPI-02: Check Offers lead form shows required validation when submitted empty on Tata Yodha 2.0 Specifications","PDP - NewTruckInternalPages [yodhaSpecifications] [en] — Tata Yodha 2.0 Specifications","2026-10-11","passed","2026-10-11","","","",""
+"","1490","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Petrol Trucks","CategoryPages - CategoryListing [petrol] [en] — Petrol Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3541","TC-VHR-02: Contact Seller lead submits successfully on Vehicle Report","AllLeadForm - VehicleReport [en]","2026-10-11","passed","2026-10-11","","","",""
+"","544","TC-SCB-03: Talk To Dealer lead form rejects mobile that is not 10 digits on Ashok Leyland Service Centers","AllLeadForm - ServiceCenterBrand [ashokLeyland] [en] — Ashok Leyland Service Centers","2026-10-11","broken","2026-10-11","","","",""
+"","2499","TC-DLB-01: Talk To Dealer lead submits successfully on Tata Truck Dealers","AllLeadForm - DealerBrand [tata] [en] — Tata Truck Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","973","TC-NTPDP-04: Get Offers lead shows validation when empty for Eka 3W Cargo","AllLeadForm - NewTruckPdp [leastPopular] [en] — Eka 3W Cargo","2026-10-11","passed","2026-10-11","","","",""
+"","1397","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 16 Wheeler","CategoryPages - CategoryListing [sixteenWheeler] [en] — 16 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","3607","TC-PL-01: Check Truck Price lead submits successfully on 5 ton - 10 ton Trucks","CategoryPages - CategoryListing [ton5to10] [en] — 5 ton - 10 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4877","TC-TSR-01: Check Truck Price lead submits successfully on Mahindra Bolero","CategoryPages - CategoryListing [mahindraBolero] [en] — Mahindra Bolero","2026-10-11","passed","2026-10-11","","","",""
+"","11368","TC-PDPI-01: Check Offers lead submits successfully on Tata Yodha 2.0 Images","PDP - NewTruckInternalPages [yodhaImages] [en] — Tata Yodha 2.0 Images","2026-10-11","passed","2026-10-11","","","",""
+"","1474","TC-SPB-01: Talk To Dealer lead submits successfully on Tata Spare Parts Dealers","AllLeadForm - SparePartsBrand [tata] [en] — Tata Spare Parts Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","8908","TC-BUS-01: lead submits successfully on New Buses","AllLeadForm - BusListing [newBuses] [en] — New Buses","2026-10-11","passed","2026-10-11","","","",""
+"","1786","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 18 Wheeler","CategoryPages - CategoryListing [eighteenWheeler] [en] — 18 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","17106","TC-BBG-01: Check Truck Price lead submits successfully on Ashok Leyland Trucks Under 15 Lakh","AllLeadForm - BrandBudget [ashokLeylandUnder15Lakh] [en] — Ashok Leyland Trucks Under 15 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","3995","TC-CL-01: Check Truck Price lead submits successfully on LPG Trucks","CategoryPages - CategoryListing [lpg] [en] — LPG Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1558","TC-BGT-02: Check Truck Price lead form shows required validation when submitted empty on Trucks Under 30 Lakh","AllLeadForm - Budget [under30Lakh] [en] — Trucks Under 30 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","1792","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Pickups","AllLeadForm - CategoryBrand [pickupAshokLeyland] [en] — Ashok Leyland Pickups","2026-10-11","passed","2026-10-11","","","",""
+"","5190","TC-TBR-02: Check Truck Price lead form shows required validation when submitted empty on Tata Trucks","CategoryPages - CategoryListing [tataBrand] [en] — Tata Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3167","TC-ESC-01: Check Truck Price lead submits successfully on Electric E Rickshaw","AllLeadForm - ElectricSubCategory [eRickshaw] [en] — Electric E Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","223","TC-ESC-04: Call Now assistance lead submits successfully on Electric Commercial Vehicle Under 1 Lakh","AllLeadForm - ElectricSubCategory [under1Lakh] [en] — Electric Commercial Vehicle Under 1 Lakh","2026-10-11","skipped","2026-10-11","","","",""
+"","32","TC-PDPI-03: Check Offers lead form rejects mobile that is not 10 digits on Eka 3W Cargo Reviews","PDP - NewTruckInternalPages [ekaReview] [en] — Eka 3W Cargo Reviews","2026-10-11","skipped","2026-10-11","","","",""
+"","1068","TC-NLP-01: Check Offers lead submits successfully on Popular Truck","ListingPages - NewListingPages [popularTrucks] [en] — Popular Truck","2026-10-11","skipped","2026-10-11","","","",""
+"","642","TC-TSR-04: Call Now assistance lead submits successfully on Ashok Leyland Boss","CategoryPages - CategoryListing [ashokLeylandBoss] [en] — Ashok Leyland Boss","2026-10-11","skipped","2026-10-11","","","",""
+"","405","TC-DBC-03: Talk To Dealer lead form rejects mobile that is not 10 digits on Tata Truck Dealers in Ahmedabad, Gujarat","AllLeadForm - DealerBrandCity [tataAhmedabad] [en] — Tata Truck Dealers in Ahmedabad, Gujarat","2026-10-11","broken","2026-10-11","","","",""
+"","1693","TC-ESC-03: Check Truck Price lead form rejects mobile that is not 10 digits on Electric E Rickshaw","AllLeadForm - ElectricSubCategory [eRickshaw] [en] — Electric E Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","2057","TC-BUSVAR-03: Check Offers lead form rejects mobile that is not 10 digits on Tata Starbus Staff Contract 40+D LP 909/52 CNG","AllLeadForm - BusVariant [starbus40dLp909] [en] — Tata Starbus Staff Contract 40+D LP 909/52 CNG","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-06
+**Title:** Check Offers lead form shows required validation when submitted empty on BS6 Trucks
+**Language:** en
+
+**Description:**
+Open the BS6 Trucks listing page, open Check Offers, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the BS6 Trucks listing page
+2. Click Check Offers to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","3328","TC-NLP-06: Check Offers lead form shows required validation when submitted empty on BS6 Trucks","ListingPages - NewListingPages [bs6Trucks] [en] — BS6 Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2499","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on Altigreen Auto Rickshaw","AllLeadForm - CategoryBrand [autoRickshawAltigreen] [en] — Altigreen Auto Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","4433","TC-LMC-11: Check Offers lead form rejects mobile that is not 10 digits","AllLeadForm - Homepage LatestModelsByCategory [en]","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-02
+**Title:** Check Truck Price lead submits successfully on Popular Truck
+**Language:** en
+
+**Description:**
+Open the Popular Truck listing page, click Check Truck Price to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Popular Truck listing page
+2. Click Check Truck Price to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","13594","TC-NLP-02: Check Truck Price lead submits successfully on Popular Truck","ListingPages - NewListingPages [popularTrucks] [en] — Popular Truck","2026-10-11","passed","2026-10-11","","","",""
+"","3420","TC-BUS-01: lead submits successfully on Upcoming Buses","AllLeadForm - BusListing [upcomingBuses] [en] — Upcoming Buses","2026-10-11","passed","2026-10-11","","","",""
+"","1555","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on Eicher 10 Wheeler Trucks","AllLeadForm - CategoryBrand [tenWheelerEicher] [en] — Eicher 10 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1441","TC-ESC-02: Check Truck Price lead form shows required validation when submitted empty on Electric Trucks","AllLeadForm - ElectricSubCategory [trucks] [en] — Electric Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2863","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Petrol Trucks","CategoryPages - CategoryListing [petrol] [en] — Petrol Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","6367","TC-TBR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Tata Trucks","CategoryPages - CategoryListing [tataBrand] [en] — Tata Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4119","TC-BUS-01: lead submits successfully on Mahindra Buses","AllLeadForm - BusListing [mahindraBuses] [en] — Mahindra Buses","2026-10-11","passed","2026-10-11","","","",""
+"","2431","TC-UTPDP-05: Check Offers lead form shows required validation when submitted empty on Used Truck Detail","AllLeadForm - UsedTruckPdp [en]","2026-10-11","passed","2026-10-11","","","",""
+"","569","TC-SCB-03: Talk To Dealer lead form rejects mobile that is not 10 digits on Mahindra Service Centers","AllLeadForm - ServiceCenterBrand [mahindra] [en] — Mahindra Service Centers","2026-10-11","broken","2026-10-11","","","",""
+"","3443","TC-CB-04: Call Now assistance lead submits successfully on Eicher 4 Wheeler Trucks","AllLeadForm - CategoryBrand [fourWheelerEicher] [en] — Eicher 4 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2043","TC-PL-02: Check Truck Price lead form shows required validation when submitted empty on 2.5 ton - 5 ton Trucks","CategoryPages - CategoryListing [ton2_5to5] [en] — 2.5 ton - 5 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2761","TC-TSR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Boss","CategoryPages - CategoryListing [ashokLeylandBoss] [en] — Ashok Leyland Boss","2026-10-11","passed","2026-10-11","","","",""
+"","3237","TC-PL-04: Call Now assistance lead submits successfully on 10 ton - 20 ton Trucks","CategoryPages - CategoryListing [ton10to20] [en] — 10 ton - 20 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4271","TC-CB-04: Call Now assistance lead submits successfully on Ashok Leyland Transit Mixers","AllLeadForm - CategoryBrand [transitMixerAshokLeyland] [en] — Ashok Leyland Transit Mixers","2026-10-11","passed","2026-10-11","","","",""
+"","3714","TC-BR-04: Download Brochure lead submits successfully from the ""Latest"" tab on Brochure","AllLeadForm - Brochure [en]","2026-10-11","passed","2026-10-11","","","",""
+"","720","TC-NTPDP-01: Get Offers lead opens on launch for Tata Yodha 2.0","AllLeadForm - NewTruckPdp [mostPopular] [en] — Tata Yodha 2.0","2026-10-11","passed","2026-10-11","","","",""
+"","2888","TC-VHR-03: Check Vehicle Report lead requests OTP successfully on Vehicle Report","AllLeadForm - VehicleReport [en]","2026-10-11","passed","2026-10-11","","","",""
+"","2109","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on LCV","CategoryPages - CategoryListing [lcv] [en] — LCV","2026-10-11","passed","2026-10-11","","","",""
+"","469","TC-DLB-01: Talk To Dealer lead submits successfully on Atul 3 Wheeler Dealers","AllLeadForm - DealerBrand [atul] [en] — Atul 3 Wheeler Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","2049","TC-BUSVAR-02: Check Offers lead form shows required validation when submitted empty on Tata Starbus Staff Contract 40+D LP 909/52 CNG","AllLeadForm - BusVariant [starbus40dLp909] [en] — Tata Starbus Staff Contract 40+D LP 909/52 CNG","2026-10-11","passed","2026-10-11","","","",""
+"","25515","TC-PDPI-01: Check Offers lead submits successfully on Tata Yodha 2.0 Specifications","PDP - NewTruckInternalPages [yodhaSpecifications] [en] — Tata Yodha 2.0 Specifications","2026-10-11","passed","2026-10-11","","","",""
+"","3988","TC-CL-01: Check Truck Price lead submits successfully on HCV","CategoryPages - CategoryListing [hcv] [en] — HCV","2026-10-11","passed","2026-10-11","","","",""
+"","387","TC-DBC-03: Talk To Dealer lead form rejects mobile that is not 10 digits on Tata Truck Dealers in Pune, Maharashtra","AllLeadForm - DealerBrandCity [tataPune] [en] — Tata Truck Dealers in Pune, Maharashtra","2026-10-11","broken","2026-10-11","","","",""
+"","1719","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 10 Wheeler","CategoryPages - CategoryListing [tenWheeler] [en] — 10 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","1662","TC-BBG-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Trucks Under 30 Lakh","AllLeadForm - BrandBudget [ashokLeylandUnder30Lakh] [en] — Ashok Leyland Trucks Under 30 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","6153","TC-CL-01: Check Truck Price lead submits successfully on CNG Trucks","CategoryPages - CategoryListing [cng] [en] — CNG Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3726","TC-ESC-01: Check Truck Price lead submits successfully on Electric Commercial Vehicle Under 1 Lakh","AllLeadForm - ElectricSubCategory [under1Lakh] [en] — Electric Commercial Vehicle Under 1 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","4337","TC-CL-04: Call Now assistance lead submits successfully on Petrol Trucks","CategoryPages - CategoryListing [petrol] [en] — Petrol Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","5588","TC-CVP-02: Check Permit Info lead requests OTP successfully on CV Permit","AllLeadForm - CvPermit [en]","2026-10-11","passed","2026-10-11","","","",""
+"","2293","TC-TMO-03: Check Offers lead form rejects mobile that is not 10 digits on Offers","AllLeadForm - TabbedModelOffers [offers] [en] — Offers","2026-10-11","passed","2026-10-11","","","",""
+"","3421","TC-CL-04: Call Now assistance lead submits successfully on ICV","CategoryPages - CategoryListing [icv] [en] — ICV","2026-10-11","passed","2026-10-11","","","",""
+"","4992","TC-CL-01: Check Truck Price lead submits successfully on LNG Trucks","CategoryPages - CategoryListing [lng] [en] — LNG Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4756","TC-CL-04: Call Now assistance lead submits successfully on Hydrogen Trucks","CategoryPages - CategoryListing [hydrogen] [en] — Hydrogen Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1212","TC-BUS-02: lead form shows required validation when submitted empty on Mahindra Buses","AllLeadForm - BusListing [mahindraBuses] [en] — Mahindra Buses","2026-10-11","passed","2026-10-11","","","",""
+"","281","TC-CL-04: Call Now assistance lead submits successfully on 14 Wheeler","CategoryPages - CategoryListing [fourteenWheeler] [en] — 14 Wheeler","2026-10-11","skipped","2026-10-11","","","",""
+"","1507","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland 10 Wheeler Trucks","AllLeadForm - CategoryBrand [tenWheelerAshokLeyland] [en] — Ashok Leyland 10 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1224","TC-ESC-02: Check Truck Price lead form shows required validation when submitted empty on Electric Commercial Vehicle Under 1 Lakh","AllLeadForm - ElectricSubCategory [under1Lakh] [en] — Electric Commercial Vehicle Under 1 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","1773","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Tractor Trailers","AllLeadForm - CategoryBrand [tractorAshokLeyland] [en] — Ashok Leyland Tractor Trailers","2026-10-11","passed","2026-10-11","","","",""
+"","2806","TC-BBG-03: Check Truck Price lead form rejects mobile that is not 10 digits on Eicher Trucks Above 40 Lakh","AllLeadForm - BrandBudget [eicherAbove40Lakh] [en] — Eicher Trucks Above 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","1581","TC-PL-02: Check Truck Price lead form shows required validation when submitted empty on 10 ton - 20 ton Trucks","CategoryPages - CategoryListing [ton10to20] [en] — 10 ton - 20 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1313","TC-BR-06: Download Brochure lead form rejects mobile that is not 10 digits on Brochure","AllLeadForm - Brochure [en]","2026-10-11","passed","2026-10-11","","","",""
+"","1956","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Tippers","CategoryPages - CategoryListing [tippers] [en] — Tippers","2026-10-11","passed","2026-10-11","","","",""
+"","1740","TC-BUS-03: lead form rejects mobile that is not 10 digits on Latest Buses","AllLeadForm - BusListing [latestBuses] [en] — Latest Buses","2026-10-11","passed","2026-10-11","","","",""
+"","2418","TC-PL-02: Check Truck Price lead form shows required validation when submitted empty on 1 ton - 2.5 ton Trucks","CategoryPages - CategoryListing [ton1to2_5] [en] — 1 ton - 2.5 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","7383","TC-PDPI-05: Download Brochure lead submits successfully on Tata Yodha 2.0 Price in Gurgaon","PDP - NewTruckInternalPages [yodhaPriceGurgaon] [en] — Tata Yodha 2.0 Price in Gurgaon","2026-10-11","passed","2026-10-11","","","",""
+"","499","TC-DLB-02: Talk To Dealer lead form shows required validation when submitted empty on Ashok Leyland Truck Dealers","AllLeadForm - DealerBrand [ashokLeyland] [en] — Ashok Leyland Truck Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","4142","TC-CB-01: Check Truck Price lead submits successfully on Altigreen Auto Rickshaw","AllLeadForm - CategoryBrand [autoRickshawAltigreen] [en] — Altigreen Auto Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","1326","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 10 Wheeler","CategoryPages - CategoryListing [tenWheeler] [en] — 10 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","1649","TC-BUS-03: lead form rejects mobile that is not 10 digits on Popular Buses","AllLeadForm - BusListing [popularBuses] [en] — Popular Buses","2026-10-11","passed","2026-10-11","","","",""
+"","12166","TC-BGT-01: Check Truck Price lead submits successfully on Trucks Under 5 Lakh","AllLeadForm - Budget [under5Lakh] [en] — Trucks Under 5 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","4134","TC-UTPDP-04: Check Offers lead submits successfully on Used Truck Detail","AllLeadForm - UsedTruckPdp [en]","2026-10-11","passed","2026-10-11","","","",""
+"","442","TC-DLC-02: Talk To Dealer lead form shows required validation when submitted empty on Truck Dealers in Jaipur, Rajasthan","AllLeadForm - DealerCity [jaipur] [en] — Truck Dealers in Jaipur, Rajasthan","2026-10-11","broken","2026-10-11","","","",""
+"","4360","TC-BBG-04: Call Now assistance lead submits successfully on Eicher Trucks Above 40 Lakh","AllLeadForm - BrandBudget [eicherAbove40Lakh] [en] — Eicher Trucks Above 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","5065","TC-UTPDP-01: Contact Seller lead submits successfully on Used Truck Detail","AllLeadForm - UsedTruckPdp [en]","2026-10-11","passed","2026-10-11","","","",""
+"","240","TC-ESC-04: Call Now assistance lead submits successfully on Electric Commercial Vehicle Under 5 Lakh","AllLeadForm - ElectricSubCategory [under5Lakh] [en] — Electric Commercial Vehicle Under 5 Lakh","2026-10-11","skipped","2026-10-11","","","",""
+"","4022","TC-CB-04: Call Now assistance lead submits successfully on Ashok Leyland 6 Wheeler Trucks","AllLeadForm - CategoryBrand [sixWheelerAshokLeyland] [en] — Ashok Leyland 6 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1209","TC-PDPI-05: lead submits successfully on Tata Yodha 2.0 Images","PDP - NewTruckInternalPages [yodhaImages] [en] — Tata Yodha 2.0 Images","2026-10-11","skipped","2026-10-11","","","",""
+"","1769","TC-ESC-03: Check Truck Price lead form rejects mobile that is not 10 digits on Electric Trucks","AllLeadForm - ElectricSubCategory [trucks] [en] — Electric Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1906","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on Allfine E Rickshaw","AllLeadForm - CategoryBrand [eRickshawAllfine] [en] — Allfine E Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","2877","TC-PDPI-02: Download Brochure lead form shows required validation when submitted empty on Tata Yodha 2.0 Brochure","PDP - NewTruckInternalPages [yodhaBrochure] [en] — Tata Yodha 2.0 Brochure","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-07
+**Title:** Check Offers lead form rejects mobile that is not 10 digits on Upcoming Trucks
+**Language:** en
+
+**Description:**
+Open the Upcoming Trucks listing page, open Check Offers, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Upcoming Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","1707","TC-NLP-07: Check Offers lead form rejects mobile that is not 10 digits on Upcoming Trucks","ListingPages - NewListingPages [upcomingTrucks] [en] — Upcoming Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2689","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Mini Trucks","CategoryPages - CategoryListing [miniTrucks] [en] — Mini Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","495","TC-NLP-04: Notify Me lead submits successfully on BS6 Trucks","ListingPages - NewListingPages [bs6Trucks] [en] — BS6 Trucks","2026-10-11","skipped","2026-10-11","","","",""
+"","1642","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Tractor Trailers","AllLeadForm - CategoryBrand [tractorAshokLeyland] [en] — Ashok Leyland Tractor Trailers","2026-10-11","passed","2026-10-11","","","",""
+"","1378","TC-BUS-02: lead form shows required validation when submitted empty on Latest Buses","AllLeadForm - BusListing [latestBuses] [en] — Latest Buses","2026-10-11","passed","2026-10-11","","","",""
+"","3406","TC-BBG-04: Call Now assistance lead submits successfully on Ashok Leyland Trucks Under 15 Lakh","AllLeadForm - BrandBudget [ashokLeylandUnder15Lakh] [en] — Ashok Leyland Trucks Under 15 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","569","TC-DLB-02: Talk To Dealer lead form shows required validation when submitted empty on Atul 3 Wheeler Dealers","AllLeadForm - DealerBrand [atul] [en] — Atul 3 Wheeler Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","765","TC-CL-04: Call Now assistance lead submits successfully on Trailers","CategoryPages - CategoryListing [trailers] [en] — Trailers","2026-10-11","skipped","2026-10-11","","","",""
+"","3208","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on SCV","CategoryPages - CategoryListing [scv] [en] — SCV","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-05
+**Title:** Call Now lead submits successfully on BS6 Trucks
+**Language:** en
+
+**Description:**
+Open the BS6 Trucks listing page, click Call Now to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance lead form closes after a successful submission (verified via the real submit network call). The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the BS6 Trucks listing page
+2. Click Call Now to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","4348","TC-NLP-05: Call Now lead submits successfully on BS6 Trucks","ListingPages - NewListingPages [bs6Trucks] [en] — BS6 Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","309","TC-NLP-05: Call Now lead submits successfully on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-10-11","skipped","2026-10-11","","","",""
+"","470","TC-NLP-02: Check Truck Price lead submits successfully on Upcoming Trucks","ListingPages - NewListingPages [upcomingTrucks] [en] — Upcoming Trucks","2026-10-11","skipped","2026-10-11","","","",""
+"","1835","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 16 Wheeler","CategoryPages - CategoryListing [sixteenWheeler] [en] — 16 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","487","TC-TSR-04: Call Now assistance lead submits successfully on Mahindra Blazo","CategoryPages - CategoryListing [mahindraBlazo] [en] — Mahindra Blazo","2026-10-11","skipped","2026-10-11","","","",""
+"","1524","TC-BGT-02: Check Truck Price lead form shows required validation when submitted empty on Trucks Under 10 Lakh","AllLeadForm - Budget [under10Lakh] [en] — Trucks Under 10 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","280","TC-NLP-07: Check Offers lead form rejects mobile that is not 10 digits on Popular Truck","ListingPages - NewListingPages [popularTrucks] [en] — Popular Truck","2026-10-11","skipped","2026-10-11","","","",""
+"","1653","TC-TSR-02: Check Truck Price lead form shows required validation when submitted empty on Mahindra Bolero","CategoryPages - CategoryListing [mahindraBolero] [en] — Mahindra Bolero","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-05
+**Title:** Call Now lead submits successfully on Upcoming Trucks
+**Language:** en
+
+**Description:**
+Open the Upcoming Trucks listing page, click Call Now to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance lead form closes after a successful submission (verified via the real submit network call). The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Upcoming Trucks listing page
+2. Click Call Now to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","2915","TC-NLP-05: Call Now lead submits successfully on Upcoming Trucks","ListingPages - NewListingPages [upcomingTrucks] [en] — Upcoming Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4392","TC-CL-01: Check Truck Price lead submits successfully on 10 Wheeler","CategoryPages - CategoryListing [tenWheeler] [en] — 10 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","4690","TC-CB-04: Call Now assistance lead submits successfully on Altigreen Auto Rickshaw","AllLeadForm - CategoryBrand [autoRickshawAltigreen] [en] — Altigreen Auto Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","2587","TC-BUS-03: lead form rejects mobile that is not 10 digits on Tata Buses","AllLeadForm - BusListing [tataBuses] [en] — Tata Buses","2026-10-11","passed","2026-10-11","","","",""
+"","1447","TC-BUSPDP-03: Check Offers lead form rejects mobile that is not 10 digits on Tata Starbus Staff Contract","AllLeadForm - BusPdp [starbusStaffContract] [en] — Tata Starbus Staff Contract","2026-10-11","passed","2026-10-11","","","",""
+"","1909","TC-PL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 2.5 ton - 5 ton Trucks","CategoryPages - CategoryListing [ton2_5to5] [en] — 2.5 ton - 5 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1507","TC-BUSVAR-03: Check Offers lead form rejects mobile that is not 10 digits on Tata Starbus Staff Contract 40+D AC LP 913/52 CNG","AllLeadForm - BusVariant [starbus40dAcLp913] [en] — Tata Starbus Staff Contract 40+D AC LP 913/52 CNG","2026-10-11","passed","2026-10-11","","","",""
+"","5020","TC-VHR-01: Check Offers lead submits successfully on Vehicle Report","AllLeadForm - VehicleReport [en]","2026-10-11","passed","2026-10-11","","","",""
+"","1944","TC-PL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Under 1 Ton Trucks","CategoryPages - CategoryListing [under1Ton] [en] — Under 1 Ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","893","TC-SCB-02: Talk To Dealer lead form shows required validation when submitted empty on Mahindra Service Centers","AllLeadForm - ServiceCenterBrand [mahindra] [en] — Mahindra Service Centers","2026-10-11","broken","2026-10-11","","","",""
+"","8772","TC-CUS-01: Submit Request enquiry submits successfully on Contact Us","AllLeadForm - ContactUs [en] — Contact Us","2026-10-11","passed","2026-10-11","","","",""
+"","1791","TC-SCB-02: Talk To Dealer lead form shows required validation when submitted empty on Tata Service Centers","AllLeadForm - ServiceCenterBrand [tata] [en] — Tata Service Centers","2026-10-11","broken","2026-10-11","","","",""
+"","582","TC-SCB-01: Talk To Dealer lead submits successfully on Ashok Leyland Service Centers","AllLeadForm - ServiceCenterBrand [ashokLeyland] [en] — Ashok Leyland Service Centers","2026-10-11","broken","2026-10-11","","","",""
+"","4976","TC-LMC-07: one Check Offers lead from scv tab submits successfully","AllLeadForm - Homepage LatestModelsByCategory [en]","2026-10-11","passed","2026-10-11","","","",""
+"","3473","TC-PL-04: Call Now assistance lead submits successfully on 2.5 ton - 5 ton Trucks","CategoryPages - CategoryListing [ton2_5to5] [en] — 2.5 ton - 5 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","473","TC-DBC-02: Talk To Dealer lead form shows required validation when submitted empty on Tata Truck Dealers in Ahmedabad, Gujarat","AllLeadForm - DealerBrandCity [tataAhmedabad] [en] — Tata Truck Dealers in Ahmedabad, Gujarat","2026-10-11","broken","2026-10-11","","","",""
+"","3262","TC-BGT-01: Check Truck Price lead submits successfully on Trucks Under 40 Lakh","AllLeadForm - Budget [under40Lakh] [en] — Trucks Under 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","3571","TC-CB-04: Call Now assistance lead submits successfully on Ashok Leyland Tippers","AllLeadForm - CategoryBrand [tippersAshokLeyland] [en] — Ashok Leyland Tippers","2026-10-11","passed","2026-10-11","","","",""
+"","15208","TC-BUSVAR-01: Check Offers lead submits successfully on Tata Starbus Staff Contract 40+D LP 909/52 CNG","AllLeadForm - BusVariant [starbus40dLp909] [en] — Tata Starbus Staff Contract 40+D LP 909/52 CNG","2026-10-11","passed","2026-10-11","","","",""
+"","3710","TC-CL-01: Check Truck Price lead submits successfully on 8 Wheeler","CategoryPages - CategoryListing [eightWheeler] [en] — 8 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","3617","TC-CL-01: Check Truck Price lead submits successfully on ICV","CategoryPages - CategoryListing [icv] [en] — ICV","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-06
+**Title:** Check Offers lead form shows required validation when submitted empty on Latest Trucks
+**Language:** en
+
+**Description:**
+Open the Latest Trucks listing page, open Check Offers, and submit with name, mobile and city all left empty.
+
+**Expected Result:**
+The real, page-shown validation messages for name, mobile and location are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Latest Trucks listing page
+2. Click Check Offers to open its lead form
+3. Leave name, mobile and city empty and submit
+4. Verify all three required-field validation messages are shown","1791","TC-NLP-06: Check Offers lead form shows required validation when submitted empty on Latest Trucks","ListingPages - NewListingPages [latestTrucks] [en] — Latest Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","7702","TC-LMC-04: one Check Offers lead from autoRickshaw tab submits successfully","AllLeadForm - Homepage LatestModelsByCategory [en]","2026-10-11","passed","2026-10-11","","","",""
+"","2894","TC-CB-04: Call Now assistance lead submits successfully on Ashok Leyland Mini Trucks","AllLeadForm - CategoryBrand [miniTruckAshokLeyland] [en] — Ashok Leyland Mini Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4172","TC-CB-04: Call Now assistance lead submits successfully on BharatBenz 6 Wheeler Trucks","AllLeadForm - CategoryBrand [sixWheelerBharatBenz] [en] — BharatBenz 6 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3783","TC-CB-04: Call Now assistance lead submits successfully on Ashok Leyland Pickups","AllLeadForm - CategoryBrand [pickupAshokLeyland] [en] — Ashok Leyland Pickups","2026-10-11","passed","2026-10-11","","","",""
+"","2017","TC-SCB-01: Talk To Dealer lead submits successfully on Tata Service Centers","AllLeadForm - ServiceCenterBrand [tata] [en] — Tata Service Centers","2026-10-11","broken","2026-10-11","","","",""
+"","1242","TC-CVP-03: Check Offers lead form shows required validation when submitted empty on CV Permit","AllLeadForm - CvPermit [en]","2026-10-11","passed","2026-10-11","","","",""
+"","4970","TC-CL-01: Check Truck Price lead submits successfully on Tempo Traveller","CategoryPages - CategoryListing [tempoTraveller] [en] — Tempo Traveller","2026-10-11","passed","2026-10-11","","","",""
+"","31","TC-PDPI-02: Check Offers lead form shows required validation when submitted empty on Eka 3W Cargo Reviews","PDP - NewTruckInternalPages [ekaReview] [en] — Eka 3W Cargo Reviews","2026-10-11","skipped","2026-10-11","","","",""
+"","1389","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 6 Wheeler","CategoryPages - CategoryListing [sixWheeler] [en] — 6 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","1796","TC-BGT-03: Check Truck Price lead form rejects mobile that is not 10 digits on Trucks Under 40 Lakh","AllLeadForm - Budget [under40Lakh] [en] — Trucks Under 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-07
+**Title:** Check Offers lead form rejects mobile that is not 10 digits on BS6 Trucks
+**Language:** en
+
+**Description:**
+Open the BS6 Trucks listing page, open Check Offers, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the BS6 Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","3505","TC-NLP-07: Check Offers lead form rejects mobile that is not 10 digits on BS6 Trucks","ListingPages - NewListingPages [bs6Trucks] [en] — BS6 Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1999","TC-CUS-03: Submit Request form rejects mobile that is not 10 digits on Contact Us","AllLeadForm - ContactUs [en] — Contact Us","2026-10-11","passed","2026-10-11","","","",""
+"","4218","TC-BDM-01: Talk To Dealer lead submits successfully on Body Makers","AllLeadForm - BodyMakers [en] — Body Makers","2026-10-11","passed","2026-10-11","","","",""
+"","2658","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on CNG Trucks","CategoryPages - CategoryListing [cng] [en] — CNG Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3742","TC-CB-01: Check Truck Price lead submits successfully on Force Tempo Traveller","AllLeadForm - CategoryBrand [tempoTravellerForce] [en] — Force Tempo Traveller","2026-10-11","passed","2026-10-11","","","",""
+"","1215","TC-TBR-04: Call Now assistance lead submits successfully on Tata Trucks","CategoryPages - CategoryListing [tataBrand] [en] — Tata Trucks","2026-10-11","skipped","2026-10-11","","","",""
+"","3359","TC-CB-01: Check Truck Price lead submits successfully on Ashok Leyland Mini Trucks","AllLeadForm - CategoryBrand [miniTruckAshokLeyland] [en] — Ashok Leyland Mini Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","13568","TC-TBR-01: Check Truck Price lead submits successfully on Tata Trucks","CategoryPages - CategoryListing [tataBrand] [en] — Tata Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","403","TC-CL-04: Call Now assistance lead submits successfully on Mini Trucks","CategoryPages - CategoryListing [miniTrucks] [en] — Mini Trucks","2026-10-11","skipped","2026-10-11","","","",""
+"","4504","TC-BR-03: Download Brochure lead submits successfully from the ""Upcoming"" tab on Brochure","AllLeadForm - Brochure [en]","2026-10-11","passed","2026-10-11","","","",""
+"","1652","TC-BUS-03: lead form rejects mobile that is not 10 digits on SML ISUZU Buses","AllLeadForm - BusListing [smlIsuzuBuses] [en] — SML ISUZU Buses","2026-10-11","passed","2026-10-11","","","",""
+"","2519","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Diesel Trucks","CategoryPages - CategoryListing [diesel] [en] — Diesel Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1257","TC-CL-04: Call Now assistance lead submits successfully on 3 Wheeler","CategoryPages - CategoryListing [threeWheeler] [en] — 3 Wheeler","2026-10-11","skipped","2026-10-11","","","",""
+"","5088","TC-TBR-02: Check Truck Price lead form shows required validation when submitted empty on Mahindra Trucks","CategoryPages - CategoryListing [mahindraBrand] [en] — Mahindra Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3598","TC-ESC-01: Check Truck Price lead submits successfully on Electric Commercial Vehicle Under 5 Lakh","AllLeadForm - ElectricSubCategory [under5Lakh] [en] — Electric Commercial Vehicle Under 5 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","7180","TC-PDPI-01: Check Offers lead submits successfully on Tata Yodha 2.0 Reviews","PDP - NewTruckInternalPages [yodhaReview] [en] — Tata Yodha 2.0 Reviews","2026-10-11","passed","2026-10-11","","","",""
+"","3300","TC-BBG-04: Call Now assistance lead submits successfully on Ashok Leyland Trucks Under 30 Lakh","AllLeadForm - BrandBudget [ashokLeylandUnder30Lakh] [en] — Ashok Leyland Trucks Under 30 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","2104","TC-BUT-02: Contact Seller lead form shows required validation when submitted empty on Buy Used Trucks","AllLeadForm - BuyUsedTrucks [en]","2026-10-11","passed","2026-10-11","","","",""
+"","3186","TC-ESC-04: Call Now assistance lead submits successfully on Electric 3 Wheeler","AllLeadForm - ElectricSubCategory [threeWheeler] [en] — Electric 3 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","273","TC-CL-04: Call Now assistance lead submits successfully on 22 Wheeler","CategoryPages - CategoryListing [twentyTwoWheeler] [en] — 22 Wheeler","2026-10-11","skipped","2026-10-11","","","",""
+"","3511","TC-BGT-04: Call Now assistance lead submits successfully on Trucks Under 5 Lakh","AllLeadForm - Budget [under5Lakh] [en] — Trucks Under 5 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","1032","TC-BUSVAR-02: Check Offers lead form shows required validation when submitted empty on Tata Starbus Staff Contract 24+D LP 407/36 CNG","AllLeadForm - BusVariant [starbus24dLp407] [en] — Tata Starbus Staff Contract 24+D LP 407/36 CNG","2026-10-11","passed","2026-10-11","","","",""
+"","2689","TC-TSR-02: Check Truck Price lead form shows required validation when submitted empty on Tata Ace","CategoryPages - CategoryListing [tataAce] [en] — Tata Ace","2026-10-11","passed","2026-10-11","","","",""
+"","2629","TC-PL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 40 ton - 300 ton Trucks","CategoryPages - CategoryListing [ton40to300] [en] — 40 ton - 300 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","6420","TC-BGT-01: Check Truck Price lead submits successfully on Trucks Under 15 Lakh","AllLeadForm - Budget [under15Lakh] [en] — Trucks Under 15 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","4122","TC-PL-04: Call Now assistance lead submits successfully on 20 ton - 40 ton Trucks","CategoryPages - CategoryListing [ton20to40] [en] — 20 ton - 40 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1709","TC-PDPI-02: Check Offers lead form shows required validation when submitted empty on Tata Yodha 2.0 Videos","PDP - NewTruckInternalPages [yodhaVideos] [en] — Tata Yodha 2.0 Videos","2026-10-11","passed","2026-10-11","","","",""
+"","1542","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on ICV","CategoryPages - CategoryListing [icv] [en] — ICV","2026-10-11","passed","2026-10-11","","","",""
+"","2114","TC-CUS-02: Submit Request form shows required validation when submitted empty on Contact Us","AllLeadForm - ContactUs [en] — Contact Us","2026-10-11","passed","2026-10-11","","","",""
+"","1457","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland 6 Wheeler Trucks","AllLeadForm - CategoryBrand [sixWheelerAshokLeyland] [en] — Ashok Leyland 6 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2054","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Transit Mixer","CategoryPages - CategoryListing [transitMixer] [en] — Transit Mixer","2026-10-11","passed","2026-10-11","","","",""
+"","646","TC-PDPI-05: lead submits successfully on Tata Yodha 2.0 Reviews","PDP - NewTruckInternalPages [yodhaReview] [en] — Tata Yodha 2.0 Reviews","2026-10-11","skipped","2026-10-11","","","",""
+"","4120","TC-PDPI-01: Check Offers lead submits successfully on Tata Yodha 2.0 Videos","PDP - NewTruckInternalPages [yodhaVideos] [en] — Tata Yodha 2.0 Videos","2026-10-11","passed","2026-10-11","","","",""
+"","2167","TC-BUS-02: lead form shows required validation when submitted empty on Tata Buses","AllLeadForm - BusListing [tataBuses] [en] — Tata Buses","2026-10-11","passed","2026-10-11","","","",""
+"","7412","TC-PDPI-01: Check Offers lead submits successfully on Eka 3W Cargo Price in Mumbai","PDP - NewTruckInternalPages [ekaPriceMumbai] [en] — Eka 3W Cargo Price in Mumbai","2026-10-11","passed","2026-10-11","","","",""
+"","5042","TC-BGT-04: Call Now assistance lead submits successfully on Trucks Above 40 Lakh","AllLeadForm - Budget [above40Lakh] [en] — Trucks Above 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","4153","TC-CB-04: Call Now assistance lead submits successfully on Atul 3 Wheeler","AllLeadForm - CategoryBrand [threeWheelerAtul] [en] — Atul 3 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","382","TC-DLC-02: Talk To Dealer lead form shows required validation when submitted empty on Truck Dealers in Ahmedabad, Gujarat","AllLeadForm - DealerCity [ahmedabad] [en] — Truck Dealers in Ahmedabad, Gujarat","2026-10-11","broken","2026-10-11","","","",""
+"","2441","TC-TIY-20: Check Offers lead form shows required validation when submitted empty","AllLeadForm - Homepage TruckInIndia [en]","2026-10-11","passed","2026-10-11","","","",""
+"","6370","TC-BR-01: Download Brochure lead submits successfully on Brochure","AllLeadForm - Brochure [en]","2026-10-11","passed","2026-10-11","","","",""
+"","4883","TC-BGT-04: Call Now assistance lead submits successfully on Trucks Under 10 Lakh","AllLeadForm - Budget [under10Lakh] [en] — Trucks Under 10 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","4306","TC-ESC-01: Check Truck Price lead submits successfully on Electric Mini Truck","AllLeadForm - ElectricSubCategory [miniTruck] [en] — Electric Mini Truck","2026-10-11","passed","2026-10-11","","","",""
+"","1409","TC-BBG-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Trucks Above 40 Lakh","AllLeadForm - BrandBudget [ashokLeylandAbove40Lakh] [en] — Ashok Leyland Trucks Above 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","1040","TC-BR-05: Download Brochure lead form shows required validation when submitted empty on Brochure","AllLeadForm - Brochure [en]","2026-10-11","passed","2026-10-11","","","",""
+"","341","TC-CL-04: Call Now assistance lead submits successfully on Transit Mixer","CategoryPages - CategoryListing [transitMixer] [en] — Transit Mixer","2026-10-11","skipped","2026-10-11","","","",""
+"","3425","TC-BBG-01: Check Truck Price lead submits successfully on Ashok Leyland Trucks Under 30 Lakh","AllLeadForm - BrandBudget [ashokLeylandUnder30Lakh] [en] — Ashok Leyland Trucks Under 30 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","1276","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 22 Wheeler","CategoryPages - CategoryListing [twentyTwoWheeler] [en] — 22 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-ECV-03
+**Title:** One Check Offers lead submits successfully
+**Language:** en
+
+**Description:**
+Open Check Offers once from a card in Electric Commercial Vehicles, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission.
+
+**Steps:**
+1. Open Electric Commercial Vehicles
+2. Open Check Offers
+3. Fill and submit the lead form","14590","TC-ECV-03: one Check Offers lead submits successfully","AllLeadForm - Homepage ElectricCommercialVehicles [en]","2026-10-11","passed","2026-10-11","","","",""
+"","1279","TC-ECH-03: Check Offers lead form shows required validation when submitted empty on E Challan","AllLeadForm - EChallan [en]","2026-10-11","passed","2026-10-11","","","",""
+"","23685","TC-LMC-03: one Check Offers lead from threeWheelers tab submits successfully","AllLeadForm - Homepage LatestModelsByCategory [en]","2026-10-11","passed","2026-10-11","","","",""
+"","909","TC-SCB-03: Talk To Dealer lead form rejects mobile that is not 10 digits on Tata Service Centers","AllLeadForm - ServiceCenterBrand [tata] [en] — Tata Service Centers","2026-10-11","broken","2026-10-11","","","",""
+"","4887","TC-PDPI-03: Get On Road Price lead form rejects mobile that is not 10 digits on Tata Yodha 2.0 Price in Gurgaon","PDP - NewTruckInternalPages [yodhaPriceGurgaon] [en] — Tata Yodha 2.0 Price in Gurgaon","2026-10-11","passed","2026-10-11","","","",""
+"","312","TC-CL-04: Call Now assistance lead submits successfully on 12 Wheeler","CategoryPages - CategoryListing [twelveWheeler] [en] — 12 Wheeler","2026-10-11","skipped","2026-10-11","","","",""
+"","1255","TC-BUS-02: lead form shows required validation when submitted empty on SML ISUZU Buses","AllLeadForm - BusListing [smlIsuzuBuses] [en] — SML ISUZU Buses","2026-10-11","passed","2026-10-11","","","",""
+"","1432","TC-BGT-02: Check Truck Price lead form shows required validation when submitted empty on Trucks Under 20 Lakh","AllLeadForm - Budget [under20Lakh] [en] — Trucks Under 20 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","2369","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Bi Fuel Trucks","CategoryPages - CategoryListing [biFuel] [en] — Bi Fuel Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","732","TC-DLC-02: Talk To Dealer lead form shows required validation when submitted empty on Truck Dealers in Pune, Maharashtra","AllLeadForm - DealerCity [pune] [en] — Truck Dealers in Pune, Maharashtra","2026-10-11","broken","2026-10-11","","","",""
+"","2583","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Hydrogen Trucks","CategoryPages - CategoryListing [hydrogen] [en] — Hydrogen Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4652","TC-TIY-19: Upcoming Check Offers submits lead and shows Thank You modal","AllLeadForm - Homepage TruckInIndia [en]","2026-10-11","passed","2026-10-11","","","",""
+"","3681","TC-CB-01: Check Truck Price lead submits successfully on Ashok Leyland 10 Wheeler Trucks","AllLeadForm - CategoryBrand [tenWheelerAshokLeyland] [en] — Ashok Leyland 10 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1492","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on Allfine E Rickshaw","AllLeadForm - CategoryBrand [eRickshawAllfine] [en] — Allfine E Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","8056","TC-ECV-05: Check Offers lead form shows required validation when submitted empty","AllLeadForm - Homepage ElectricCommercialVehicles [en]","2026-10-11","passed","2026-10-11","","","",""
+"","3874","TC-PL-01: Check Truck Price lead submits successfully on 2.5 ton - 5 ton Trucks","CategoryPages - CategoryListing [ton2_5to5] [en] — 2.5 ton - 5 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","428","TC-CL-04: Call Now assistance lead submits successfully on Auto Rickshaw","CategoryPages - CategoryListing [autoRickshaw] [en] — Auto Rickshaw","2026-10-11","skipped","2026-10-11","","","",""
+"","15268","TC-ECH-01: Check Offers lead submits successfully on E Challan","AllLeadForm - EChallan [en]","2026-10-11","passed","2026-10-11","","","",""
+"","268","TC-NLP-03: Contact Seller lead submits successfully on Find New Trucks","ListingPages - NewListingPages [newTrucks] [en] — Find New Trucks","2026-10-11","skipped","2026-10-11","","","",""
+"","4498","TC-BUSVAR-01: Check Offers lead submits successfully on Tata Starbus Staff Contract 40+D AC LP 913/52 CNG","AllLeadForm - BusVariant [starbus40dAcLp913] [en] — Tata Starbus Staff Contract 40+D AC LP 913/52 CNG","2026-10-11","passed","2026-10-11","","","",""
+"","4995","TC-BUS-01: lead submits successfully on Tata Buses","AllLeadForm - BusListing [tataBuses] [en] — Tata Buses","2026-10-11","passed","2026-10-11","","","",""
+"","3886","TC-ECH-02: Check Challan lead requests OTP successfully on E Challan","AllLeadForm - EChallan [en]","2026-10-11","passed","2026-10-11","","","",""
+"","1858","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Diesel Trucks","CategoryPages - CategoryListing [diesel] [en] — Diesel Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3096","TC-PDPI-02: Check Offers lead form shows required validation when submitted empty on Tata Yodha 2.0 Images","PDP - NewTruckInternalPages [yodhaImages] [en] — Tata Yodha 2.0 Images","2026-10-11","passed","2026-10-11","","","",""
+"","561","TC-SPB-03: Talk To Dealer lead form rejects mobile that is not 10 digits on Mahindra Spare Parts Dealers","AllLeadForm - SparePartsBrand [mahindra] [en] — Mahindra Spare Parts Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","3197","TC-BGT-04: Call Now assistance lead submits successfully on Trucks Under 40 Lakh","AllLeadForm - Budget [under40Lakh] [en] — Trucks Under 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","1062","TC-DLC-01: Talk To Dealer lead submits successfully on Truck Dealers in Pune, Maharashtra","AllLeadForm - DealerCity [pune] [en] — Truck Dealers in Pune, Maharashtra","2026-10-11","broken","2026-10-11","","","",""
+"","2579","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on Eicher Mini Trucks","AllLeadForm - CategoryBrand [miniTruckEicher] [en] — Eicher Mini Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","849","TC-DLB-03: Talk To Dealer lead form rejects mobile that is not 10 digits on Tata Truck Dealers","AllLeadForm - DealerBrand [tata] [en] — Tata Truck Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","4140","TC-CB-04: Call Now assistance lead submits successfully on Eicher Mini Trucks","AllLeadForm - CategoryBrand [miniTruckEicher] [en] — Eicher Mini Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","5328","TC-BBG-01: Check Truck Price lead submits successfully on Eicher Trucks Under 20 Lakh","AllLeadForm - BrandBudget [eicherUnder20Lakh] [en] — Eicher Trucks Under 20 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","1432","TC-BUSPDP-03: Check Offers lead form rejects mobile that is not 10 digits on Tata Starbus Ultra City Electric","AllLeadForm - BusPdp [starbusUltraCityElectric] [en] — Tata Starbus Ultra City Electric","2026-10-11","passed","2026-10-11","","","",""
+"","2545","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on LCV","CategoryPages - CategoryListing [lcv] [en] — LCV","2026-10-11","passed","2026-10-11","","","",""
+"","2951","TC-LMC-10: Check Offers lead form shows required validation when submitted empty","AllLeadForm - Homepage LatestModelsByCategory [en]","2026-10-11","passed","2026-10-11","","","",""
+"","2553","TC-NTPDP-03: Get Offers lead submits successfully for Tata Yodha 2.0","AllLeadForm - NewTruckPdp [mostPopular] [en] — Tata Yodha 2.0","2026-10-11","passed","2026-10-11","","","",""
+"","1342","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 18 Wheeler","CategoryPages - CategoryListing [eighteenWheeler] [en] — 18 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","4093","TC-CB-01: Check Truck Price lead submits successfully on Atul 3 Wheeler","AllLeadForm - CategoryBrand [threeWheelerAtul] [en] — Atul 3 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","1942","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on LNG Trucks","CategoryPages - CategoryListing [lng] [en] — LNG Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","312","TC-CL-04: Call Now assistance lead submits successfully on 16 Wheeler","CategoryPages - CategoryListing [sixteenWheeler] [en] — 16 Wheeler","2026-10-11","skipped","2026-10-11","","","",""
+"","2933","TC-PL-01: Check Truck Price lead submits successfully on 20 ton - 40 ton Trucks","CategoryPages - CategoryListing [ton20to40] [en] — 20 ton - 40 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","7992","TC-NTPDP-01: Get Offers lead opens on launch for Eka 3W Cargo","AllLeadForm - NewTruckPdp [leastPopular] [en] — Eka 3W Cargo","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-01
+**Title:** Check Offers lead submits successfully on Upcoming Trucks
+**Language:** en
+
+**Description:**
+Open the Upcoming Trucks listing page, click Check Offers to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Upcoming Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","10688","TC-NLP-01: Check Offers lead submits successfully on Upcoming Trucks","ListingPages - NewListingPages [upcomingTrucks] [en] — Upcoming Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1724","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on Eicher 10 Wheeler Trucks","AllLeadForm - CategoryBrand [tenWheelerEicher] [en] — Eicher 10 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2174","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Transit Mixers","AllLeadForm - CategoryBrand [transitMixerAshokLeyland] [en] — Ashok Leyland Transit Mixers","2026-10-11","passed","2026-10-11","","","",""
+"","579","TC-SPB-03: Talk To Dealer lead form rejects mobile that is not 10 digits on Tata Spare Parts Dealers","AllLeadForm - SparePartsBrand [tata] [en] — Tata Spare Parts Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","1502","TC-DLB-03: Talk To Dealer lead form rejects mobile that is not 10 digits on Ashok Leyland Truck Dealers","AllLeadForm - DealerBrand [ashokLeyland] [en] — Ashok Leyland Truck Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","3489","TC-ESC-01: Check Truck Price lead submits successfully on Electric Trucks","AllLeadForm - ElectricSubCategory [trucks] [en] — Electric Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","334","TC-NLP-06: Check Offers lead form shows required validation when submitted empty on Popular Truck","ListingPages - NewListingPages [popularTrucks] [en] — Popular Truck","2026-10-11","skipped","2026-10-11","","","",""
+"","1456","TC-BUSVAR-03: Check Offers lead form rejects mobile that is not 10 digits on Tata Starbus Staff Contract 24+D LP 407/36 CNG","AllLeadForm - BusVariant [starbus24dLp407] [en] — Tata Starbus Staff Contract 24+D LP 407/36 CNG","2026-10-11","passed","2026-10-11","","","",""
+"","8435","TC-PDPI-01: Download Brochure lead submits successfully on Tata Yodha 2.0 Brochure","PDP - NewTruckInternalPages [yodhaBrochure] [en] — Tata Yodha 2.0 Brochure","2026-10-11","passed","2026-10-11","","","",""
+"","5473","TC-TBR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Mahindra Trucks","CategoryPages - CategoryListing [mahindraBrand] [en] — Mahindra Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","5850","TC-PDPI-02: Get On Road Price lead form shows required validation when submitted empty on Tata Yodha 2.0 Price in Gurgaon","PDP - NewTruckInternalPages [yodhaPriceGurgaon] [en] — Tata Yodha 2.0 Price in Gurgaon","2026-10-11","passed","2026-10-11","","","",""
+"","6195","TC-BBG-01: Check Truck Price lead submits successfully on Eicher Trucks Above 40 Lakh","AllLeadForm - BrandBudget [eicherAbove40Lakh] [en] — Eicher Trucks Above 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","2903","TC-PL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 20 ton - 40 ton Trucks","CategoryPages - CategoryListing [ton20to40] [en] — 20 ton - 40 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","906","TC-SPB-02: Talk To Dealer lead form shows required validation when submitted empty on Tata Spare Parts Dealers","AllLeadForm - SparePartsBrand [tata] [en] — Tata Spare Parts Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","3736","TC-CB-01: Check Truck Price lead submits successfully on Ashok Leyland Pickups","AllLeadForm - CategoryBrand [pickupAshokLeyland] [en] — Ashok Leyland Pickups","2026-10-11","passed","2026-10-11","","","",""
+"","608","TC-NLP-04: Notify Me lead submits successfully on Popular Truck","ListingPages - NewListingPages [popularTrucks] [en] — Popular Truck","2026-10-11","skipped","2026-10-11","","","",""
+"","2242","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Trailers","CategoryPages - CategoryListing [trailers] [en] — Trailers","2026-10-11","passed","2026-10-11","","","",""
+"","7046","TC-TYR-01: View October Offer lead submits successfully on Tyres","AllLeadForm - Tyres [en] — Tyres","2026-10-11","passed","2026-10-11","","","",""
+"","1443","TC-BUSPDP-02: Check Offers lead form shows required validation when submitted empty on Tata Starbus Staff Contract","AllLeadForm - BusPdp [starbusStaffContract] [en] — Tata Starbus Staff Contract","2026-10-11","passed","2026-10-11","","","",""
+"","3508","TC-BBG-01: Check Truck Price lead submits successfully on Ashok Leyland Trucks Above 40 Lakh","AllLeadForm - BrandBudget [ashokLeylandAbove40Lakh] [en] — Ashok Leyland Trucks Above 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","10321","TC-EV-01: Check Truck Price lead submits successfully on Electric Commercial Vehicles","AllLeadForm - ElectricVehicle [en] — Electric Commercial Vehicles","2026-10-11","passed","2026-10-11","","","",""
+"","1958","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Pickups","CategoryPages - CategoryListing [pickups] [en] — Pickups","2026-10-11","passed","2026-10-11","","","",""
+"","286","TC-PDPI-01: Check Offers lead submits successfully on Eka 3W Cargo Reviews","PDP - NewTruckInternalPages [ekaReview] [en] — Eka 3W Cargo Reviews","2026-10-11","broken","2026-10-11","","","",""
+"","2310","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Hydrogen Trucks","CategoryPages - CategoryListing [hydrogen] [en] — Hydrogen Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3288","TC-BBG-04: Call Now assistance lead submits successfully on Ashok Leyland Trucks Above 40 Lakh","AllLeadForm - BrandBudget [ashokLeylandAbove40Lakh] [en] — Ashok Leyland Trucks Above 40 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","3945","TC-VHR-05: Check Offers lead form rejects mobile that is not 10 digits on Vehicle Report","AllLeadForm - VehicleReport [en]","2026-10-11","passed","2026-10-11","","","",""
+"","12426","TC-CL-01: Check Truck Price lead submits successfully on LCV","CategoryPages - CategoryListing [lcv] [en] — LCV","2026-10-11","passed","2026-10-11","","","",""
+"","2569","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on HCV","CategoryPages - CategoryListing [hcv] [en] — HCV","2026-10-11","passed","2026-10-11","","","",""
+"","3340","TC-BUS-01: lead submits successfully on Popular Buses","AllLeadForm - BusListing [popularBuses] [en] — Popular Buses","2026-10-11","passed","2026-10-11","","","",""
+"","555","TC-CL-04: Call Now assistance lead submits successfully on Pickups","CategoryPages - CategoryListing [pickups] [en] — Pickups","2026-10-11","skipped","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-03
+**Title:** Contact Seller lead submits successfully on Popular Truck
+**Language:** en
+
+**Description:**
+Open the Popular Truck listing page, click Contact Seller to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A “Thank You For Contact” confirmation is shown after a successful Contact Seller submission.
+
+**Steps:**
+1. Open the Popular Truck listing page
+2. Click Contact Seller to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","5439","TC-NLP-03: Contact Seller lead submits successfully on Popular Truck","ListingPages - NewListingPages [popularTrucks] [en] — Popular Truck","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-05
+**Title:** Call Now lead submits successfully on Popular Truck
+**Language:** en
+
+**Description:**
+Open the Popular Truck listing page, click Call Now to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance lead form closes after a successful submission (verified via the real submit network call). The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Popular Truck listing page
+2. Click Call Now to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","4749","TC-NLP-05: Call Now lead submits successfully on Popular Truck","ListingPages - NewListingPages [popularTrucks] [en] — Popular Truck","2026-10-11","passed","2026-10-11","","","",""
+"","1230","TC-ESC-02: Check Truck Price lead form shows required validation when submitted empty on Electric Commercial Vehicle Under 5 Lakh","AllLeadForm - ElectricSubCategory [under5Lakh] [en] — Electric Commercial Vehicle Under 5 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","2438","TC-BGT-02: Check Truck Price lead form shows required validation when submitted empty on Trucks Under 5 Lakh","AllLeadForm - Budget [under5Lakh] [en] — Trucks Under 5 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","6756","TC-TBR-01: Check Truck Price lead submits successfully on Ashok Leyland Trucks","CategoryPages - CategoryListing [ashokLeylandBrand] [en] — Ashok Leyland Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4619","TC-PL-04: Call Now assistance lead submits successfully on 40 ton - 300 ton Trucks","CategoryPages - CategoryListing [ton40to300] [en] — 40 ton - 300 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3732","TC-CL-01: Check Truck Price lead submits successfully on Hydrogen Trucks","CategoryPages - CategoryListing [hydrogen] [en] — Hydrogen Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","324","TC-CL-04: Call Now assistance lead submits successfully on 4 Wheeler","CategoryPages - CategoryListing [fourWheeler] [en] — 4 Wheeler","2026-10-11","skipped","2026-10-11","","","",""
+"","2940","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Bi Fuel Trucks","CategoryPages - CategoryListing [biFuel] [en] — Bi Fuel Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4572","TC-CL-04: Call Now assistance lead submits successfully on LPG Trucks","CategoryPages - CategoryListing [lpg] [en] — LPG Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3055","TC-TSR-02: Check Truck Price lead form shows required validation when submitted empty on Mahindra Blazo","CategoryPages - CategoryListing [mahindraBlazo] [en] — Mahindra Blazo","2026-10-11","passed","2026-10-11","","","",""
+"","23387","TC-TIY-17: Popular Check Offers submits lead and shows Thank You modal","AllLeadForm - Homepage TruckInIndia [en]","2026-10-11","passed","2026-10-11","","","",""
+"","1972","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 4 Wheeler","CategoryPages - CategoryListing [fourWheeler] [en] — 4 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","1642","TC-TYR-02: lead form shows required validation when submitted empty on Tyres","AllLeadForm - Tyres [en] — Tyres","2026-10-11","passed","2026-10-11","","","",""
+"","3135","TC-UTPDP-06: Check Offers lead form rejects mobile that is not 10 digits on Used Truck Detail","AllLeadForm - UsedTruckPdp [en]","2026-10-11","passed","2026-10-11","","","",""
+"","5363","TC-PDPI-05: Check Offers lead submits successfully on Tata Yodha 2.0 Brochure","PDP - NewTruckInternalPages [yodhaBrochure] [en] — Tata Yodha 2.0 Brochure","2026-10-11","passed","2026-10-11","","","",""
+"","5164","TC-CB-01: Check Truck Price lead submits successfully on Allfine E Rickshaw","AllLeadForm - CategoryBrand [eRickshawAllfine] [en] — Allfine E Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","3494","TC-CL-04: Call Now assistance lead submits successfully on Diesel Trucks","CategoryPages - CategoryListing [diesel] [en] — Diesel Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","5606","TC-CB-01: Check Truck Price lead submits successfully on BharatBenz 6 Wheeler Trucks","AllLeadForm - CategoryBrand [sixWheelerBharatBenz] [en] — BharatBenz 6 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1960","TC-TSR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Mahindra Blazo","CategoryPages - CategoryListing [mahindraBlazo] [en] — Mahindra Blazo","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-01
+**Title:** Check Offers lead submits successfully on BS6 Trucks
+**Language:** en
+
+**Description:**
+Open the BS6 Trucks listing page, click Check Offers to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the BS6 Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","10686","TC-NLP-01: Check Offers lead submits successfully on BS6 Trucks","ListingPages - NewListingPages [bs6Trucks] [en] — BS6 Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1592","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on Auto Rickshaw","CategoryPages - CategoryListing [autoRickshaw] [en] — Auto Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"","2150","TC-CB-02: Check Truck Price lead form shows required validation when submitted empty on Atul 3 Wheeler","AllLeadForm - CategoryBrand [threeWheelerAtul] [en] — Atul 3 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","4954","TC-PDPI-01: Check Offers lead submits successfully on Tata Yodha 2.0 Mileage","PDP - NewTruckInternalPages [yodhaMileage] [en] — Tata Yodha 2.0 Mileage","2026-10-11","passed","2026-10-11","","","",""
+"","3992","TC-CL-01: Check Truck Price lead submits successfully on Transit Mixer","CategoryPages - CategoryListing [transitMixer] [en] — Transit Mixer","2026-10-11","passed","2026-10-11","","","",""
+"","230","TC-NLP-03: Contact Seller lead submits successfully on Upcoming Trucks","ListingPages - NewListingPages [upcomingTrucks] [en] — Upcoming Trucks","2026-10-11","skipped","2026-10-11","","","",""
+"","1008","TC-BUSVAR-02: Check Offers lead form shows required validation when submitted empty on Tata Starbus Staff Contract 40+D AC LP 913/52 CNG","AllLeadForm - BusVariant [starbus40dAcLp913] [en] — Tata Starbus Staff Contract 40+D AC LP 913/52 CNG","2026-10-11","passed","2026-10-11","","","",""
+"","2845","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on BharatBenz 6 Wheeler Trucks","AllLeadForm - CategoryBrand [sixWheelerBharatBenz] [en] — BharatBenz 6 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2111","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Tempo Traveller","CategoryPages - CategoryListing [tempoTraveller] [en] — Tempo Traveller","2026-10-11","passed","2026-10-11","","","",""
+"","2204","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on ICV","CategoryPages - CategoryListing [icv] [en] — ICV","2026-10-11","passed","2026-10-11","","","",""
+"","1238","TC-BUS-02: lead form shows required validation when submitted empty on Popular Buses","AllLeadForm - BusListing [popularBuses] [en] — Popular Buses","2026-10-11","passed","2026-10-11","","","",""
+"","1938","TC-BGT-03: Check Truck Price lead form rejects mobile that is not 10 digits on Trucks Under 5 Lakh","AllLeadForm - Budget [under5Lakh] [en] — Trucks Under 5 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","3186","TC-PL-04: Call Now assistance lead submits successfully on 5 ton - 10 ton Trucks","CategoryPages - CategoryListing [ton5to10] [en] — 5 ton - 10 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3011","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on Trailers","CategoryPages - CategoryListing [trailers] [en] — Trailers","2026-10-11","passed","2026-10-11","","","",""
+"","4752","TC-EV-04: Check Truck Price lead form rejects mobile that is not 10 digits on Electric Commercial Vehicles","AllLeadForm - ElectricVehicle [en] — Electric Commercial Vehicles","2026-10-11","passed","2026-10-11","","","",""
+"","2790","TC-TIY-22: Check Offers lead form requires location even when name and mobile are valid","AllLeadForm - Homepage TruckInIndia [en]","2026-10-11","passed","2026-10-11","","","",""
+"","5818","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on 3 Wheeler","CategoryPages - CategoryListing [threeWheeler] [en] — 3 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","1926","TC-CL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 4 Wheeler","CategoryPages - CategoryListing [fourWheeler] [en] — 4 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","2901","TC-ESC-04: Call Now assistance lead submits successfully on Electric E Rickshaw","AllLeadForm - ElectricSubCategory [eRickshaw] [en] — Electric E Rickshaw","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-07
+**Title:** Check Offers lead form rejects mobile that is not 10 digits on Best Trucks
+**Language:** en
+
+**Description:**
+Open the Best Trucks listing page, open Check Offers, fill a valid name, an invalid (5-digit) mobile number, and leave city empty, then submit.
+
+**Expected Result:**
+The real, page-shown mobile-format and location-required validation messages are displayed, and no lead is submitted.
+
+**Steps:**
+1. Open the Best Trucks listing page
+2. Click Check Offers to open its lead form
+3. Fill a valid name and an invalid mobile number
+4. Submit with city left empty
+5. Verify the mobile-format and location validation messages are shown","3052","TC-NLP-07: Check Offers lead form rejects mobile that is not 10 digits on Best Trucks","ListingPages - NewListingPages [bestTrucks] [en] — Best Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1778","TC-BGT-03: Check Truck Price lead form rejects mobile that is not 10 digits on Trucks Under 20 Lakh","AllLeadForm - Budget [under20Lakh] [en] — Trucks Under 20 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","4240","TC-ESC-01: Check Truck Price lead submits successfully on Electric Pickup","AllLeadForm - ElectricSubCategory [pickup] [en] — Electric Pickup","2026-10-11","passed","2026-10-11","","","",""
+"","5044","TC-CL-01: Check Truck Price lead submits successfully on SCV","CategoryPages - CategoryListing [scv] [en] — SCV","2026-10-11","passed","2026-10-11","","","",""
+"","3197","TC-CL-01: Check Truck Price lead submits successfully on 6 Wheeler","CategoryPages - CategoryListing [sixWheeler] [en] — 6 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","1581","TC-TYR-03: lead form rejects mobile that is not 10 digits on Tyres","AllLeadForm - Tyres [en] — Tyres","2026-10-11","passed","2026-10-11","","","",""
+"","1785","TC-CL-02: Check Truck Price lead form shows required validation when submitted empty on LNG Trucks","CategoryPages - CategoryListing [lng] [en] — LNG Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","1701","TC-UTPDP-02: Contact Seller lead form shows required validation when submitted empty on Used Truck Detail","AllLeadForm - UsedTruckPdp [en]","2026-10-11","passed","2026-10-11","","","",""
+"","3215","TC-TSR-02: Check Truck Price lead form shows required validation when submitted empty on Ashok Leyland Dost","CategoryPages - CategoryListing [ashokLeylandDost] [en] — Ashok Leyland Dost","2026-10-11","passed","2026-10-11","","","",""
+"","16753","TC-ESC-01: Check Truck Price lead submits successfully on Electric 3 Wheeler","AllLeadForm - ElectricSubCategory [threeWheeler] [en] — Electric 3 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","2512","TC-PL-03: Check Truck Price lead form rejects mobile that is not 10 digits on 1 ton - 2.5 ton Trucks","CategoryPages - CategoryListing [ton1to2_5] [en] — 1 ton - 2.5 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-04
+**Title:** Notify Me lead submits successfully on Latest Trucks
+**Language:** en
+
+**Description:**
+Open the Latest Trucks listing page, click Notify Me to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Latest Trucks listing page
+2. Click Notify Me to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","4531","TC-NLP-04: Notify Me lead submits successfully on Latest Trucks","ListingPages - NewListingPages [latestTrucks] [en] — Latest Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4913","TC-TBR-03: Check Truck Price lead form rejects mobile that is not 10 digits on Eicher Trucks","CategoryPages - CategoryListing [eicherBrand] [en] — Eicher Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","2451","TC-CB-03: Check Truck Price lead form rejects mobile that is not 10 digits on Ashok Leyland Transit Mixers","AllLeadForm - CategoryBrand [transitMixerAshokLeyland] [en] — Ashok Leyland Transit Mixers","2026-10-11","passed","2026-10-11","","","",""
+"","1789","TC-ESC-02: Check Truck Price lead form shows required validation when submitted empty on Electric 3 Wheeler","AllLeadForm - ElectricSubCategory [threeWheeler] [en] — Electric 3 Wheeler","2026-10-11","passed","2026-10-11","","","",""
+"","4550","TC-PL-04: Call Now assistance lead submits successfully on 1 ton - 2.5 ton Trucks","CategoryPages - CategoryListing [ton1to2_5] [en] — 1 ton - 2.5 ton Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","3569","TC-BUS-01: lead submits successfully on Eicher Buses","AllLeadForm - BusListing [eicherBuses] [en] — Eicher Buses","2026-10-11","passed","2026-10-11","","","",""
+"","1248","TC-BUS-02: lead form shows required validation when submitted empty on Upcoming Buses","AllLeadForm - BusListing [upcomingBuses] [en] — Upcoming Buses","2026-10-11","passed","2026-10-11","","","",""
+"","600","TC-CL-04: Call Now assistance lead submits successfully on 6 Wheeler","CategoryPages - CategoryListing [sixWheeler] [en] — 6 Wheeler","2026-10-11","skipped","2026-10-11","","","",""
+"","511","TC-SPB-02: Talk To Dealer lead form shows required validation when submitted empty on Eicher Spare Parts Dealers","AllLeadForm - SparePartsBrand [eicher] [en] — Eicher Spare Parts Dealers","2026-10-11","broken","2026-10-11","","","",""
+"","5300","TC-BGT-01: Check Truck Price lead submits successfully on Trucks Under 10 Lakh","AllLeadForm - Budget [under10Lakh] [en] — Trucks Under 10 Lakh","2026-10-11","passed","2026-10-11","","","",""
+"","2840","TC-CT-02: Check Offers lead form shows required validation when submitted empty on Compare Trucks","AllLeadForm - CompareTrucks [en]","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-04
+**Title:** Notify Me lead submits successfully on Upcoming Trucks
+**Language:** en
+
+**Description:**
+Open the Upcoming Trucks listing page, click Notify Me to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+A Thank You confirmation is shown after a successful lead submission. The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Upcoming Trucks listing page
+2. Click Notify Me to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","3616","TC-NLP-04: Notify Me lead submits successfully on Upcoming Trucks","ListingPages - NewListingPages [upcomingTrucks] [en] — Upcoming Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","4872","TC-CB-01: Check Truck Price lead submits successfully on Eicher 4 Wheeler Trucks","AllLeadForm - CategoryBrand [fourWheelerEicher] [en] — Eicher 4 Wheeler Trucks","2026-10-11","passed","2026-10-11","","","",""
+"**Test Case ID:** TC-NLP-05
+**Title:** Call Now lead submits successfully on Find New Trucks
+**Language:** en
+
+**Description:**
+Open the Find New Trucks listing page, click Call Now to open its lead form, fill name, mobile and city, and submit.
+
+**Expected Result:**
+The assistance lead form closes after a successful submission (verified via the real submit network call). The submitted name is tagged with a page/CTA identifier for CRM traceability.
+
+**Steps:**
+1. Open the Find New Trucks listing page
+2. Click Call Now to open its lead form
+3. Fill name, mobile and city
+4. Submit and verify the confirmation","3419","TC-NLP-05: Call Now lead submits successfully on Find New Trucks","ListingPages - NewListingPages [newTrucks] [en] — Find New Trucks","2026-10-11","passed","2026-10-11","","","",""
+"","523","TC-DLC-03: Talk To Dealer lead form rejects mobile that is not 10 digits on Truck Dealers in Jaipur, Rajasthan","AllLeadForm - DealerCity [jaipur] [en] — Truck Dealers in Jaipur, Rajasthan","2026-10-11","broken","2026-10-11","","","",""
+"","2845","TC-TIY-21: Check Offers lead form rejects mobile that is not 10 digits","AllLeadForm - Homepage TruckInIndia [en]","2026-10-11","passed","2026-10-11","","","",""
