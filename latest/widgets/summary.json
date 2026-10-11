@@ -1,1 +1,1 @@
-{"reportName":"Truck Junction Automation Report","testRuns":[],"statistic":{"failed":23,"broken":43,"skipped":46,"passed":442,"unknown":0,"total":554},"time":{"start":1791657106047,"stop":1791661756531,"duration":4650484,"minDuration":16,"maxDuration":61126,"sumDuration":2218066}}
+{"reportName":"Truck Junction Automation Report","testRuns":[],"statistic":{"failed":10,"broken":0,"skipped":44,"passed":500,"unknown":0,"total":554},"time":{"start":1791713992852,"stop":1791718574222,"duration":4581370,"minDuration":211,"maxDuration":136696,"sumDuration":2794772}}
